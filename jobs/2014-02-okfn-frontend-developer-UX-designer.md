@@ -9,13 +9,14 @@ status: searching
 rate: competitive
 ---
 
-Frontend Developer and UX Designer for Data-Driven Project
+# Frontend Developer and UX Designer for Data-Driven Project
+
 
 What: working on cutting edge data-driven, high-impact open knowledge projects related to public finances and healthcare with a world-leading non-profit.
 
 Designing and implementing a new user experience around clinical trials data to present complex information to patients and healthcare professionals in a simple way. More than 10,000 people a year die each year in the UK alone from adverse effects to prescribed medications. This project is part of an ongoing effort
 
-Skills and experience wanted
+### Skills and experience wanted
 
 [Essential] Experience designing compelling web-based user experiences presenting information to non-expert users
 [Essential] Excellent knowledge of HTML, CSS and frontend javascript
