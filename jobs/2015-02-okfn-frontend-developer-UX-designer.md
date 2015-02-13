@@ -7,6 +7,7 @@ url: http://okfn.org
 tags: front-end, ux design, data visualization, javsacript, CSS, HTML, interface design, agile
 status: searching
 rate: competitive
+date_posted: 2015-02-13
 ---
 
 # Frontend Developer and UX Designer for Data-Driven Project
