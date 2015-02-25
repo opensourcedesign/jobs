@@ -5,7 +5,7 @@ organization: guitarix
 github: @brummer10
 url: http://guitarix.sourceforge.net/
 tags: interface design, branding, logo
-status: searching 
+status: solved 
 rate: gratis, open source
 ---
 
