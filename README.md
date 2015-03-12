@@ -7,7 +7,6 @@ The goal here is to create a proper **"job board"** that pairs open source peopl
 * 15% new or fork of an existing project
 * 60% product / feature development on existing projects
 
-
 *Note: this process is rough and a work in progress, please free to contribute ideas, approaches, and of course jobs :)*
 
 
@@ -23,10 +22,24 @@ Our job submission process is being done transparently and "in the open." If you
 - Have a margarita
 
 After those steps you will have submitted a job to the OSD job board ;)
+- 
+
+## Open Listings:
+
+...some one can fill this in with current jobs in the `jobs` folder...
 
 
-### Why This Funky Approach?
+## Open Source Design "Meta" Tasks:
+ 
 
-The idea behind using markdown files for now is to create some structure & scehma around data that is collected. This will eventually be turned into a section on the [opensourcedesign.net](http://opensourcedesign.net) website that has a more user friendly webform for designers and people without command line knowledge or a Github account. 
+Anything related to improving O.S.D. directly. Listed in order of attainability.
 
-However, we will probably always support the Markdown format of "posting" jobs as it caters to techies and has some sizable advantages. Using markdown files is very flexible and can be used in lots of ways. Using Git underneath provides a transparent and verifiable paper trail of who created or edited what. Using Github also provides a relatively easy permissions / access control which is both open & public as well as reliable.
+#### • Identity & Logo
+OSD  needs to craft an identity that is of the community and responds to the idea of open source in a clear, memorable way. Maybe that means the logo is something that is continuously iterated on, maybe it is something that has a consistent form that responds to changes in the greater community/world.
+
+#### • Project listing page
+What projects are currently in need of completion? The current solution has been to post each project as a github issue, which might be a good solution in the short term. It might be better to have an ongoing list where designers can post and up-vote freely.
+
+#### • A space on the web
+http://opensourcedesign.net redirects to Github. Would it meaningfully help the community to make a site with digests of all the repos?
+
