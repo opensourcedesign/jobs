@@ -22,7 +22,7 @@ Our job submission process is being done transparently and "in the open." If you
 - Have a margarita
 
 After those steps you will have submitted a job to the OSD job board ;)
-- 
+
 
 ## Open Listings:
 
