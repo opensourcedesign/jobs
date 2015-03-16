@@ -23,14 +23,24 @@ Our job submission process is being done transparently and "in the open." If you
 
 After those steps you will have submitted a job to the OSD job board ;)
 
-
 ## Open Listings:
+*Please delete when no longer available*
 
-...some one can fill this in with current jobs in the `jobs` folder...
+* [Front-end Developer and UX Designer for Data-Driven Project](https://github.com/opensourcedesign/job-board/blob/master/jobs/2015-02-okfn-frontend-developer-UX-designer.md)
 
+* [UX audit and facelift of Pencil](https://github.com/opensourcedesign/job-board/blob/master/jobs/2015-03-UX-audit-and-facelift-of-Pencil.md)
+
+* [Improve Chat Secure Usability](https://github.com/opensourcedesign/job-board/blob/master/jobs/chat-secure.md)
+
+* [DemocracyClub Projects](https://github.com/opensourcedesign/job-board/blob/master/jobs/democracy-club.md)
+
+* [GUI Designer for Guitarix](https://github.com/opensourcedesign/job-board/blob/master/jobs/guitarix.md)
+
+* [UX Design for open source storage technologies](https://github.com/opensourcedesign/job-board/blob/master/jobs/red-hat_senior-ixd.md)
+
+* [Icon designer for Yocto Project](https://github.com/opensourcedesign/job-board/blob/master/jobs/yoctoproject.md)
 
 ## Open Source Design "Meta" Tasks:
-
 
 Anything related to improving O.S.D. directly. Listed in order of attainability.
 
@@ -42,3 +52,5 @@ What projects are currently in need of completion? The current solution has been
 
 #### • A space on the web
 http://opensourcedesign.net redirects to Github. Would it meaningfully help the community to make a site with digests of all the repos?
+
+
