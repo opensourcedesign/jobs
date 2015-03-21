@@ -10,7 +10,7 @@ rate: negotiated hourly rate
 date_posted: 2015-03-18
 ---
 
-# Design focused Cocoa developer to open source Espionage 3
+# Toward Sustainable Open Source Development. Cocoa Developer Wanted.
 
 [Espionage](https://www.espionageapp.com) is a highly rated personal data encryption app for Mac OS X.
 
@@ -23,7 +23,9 @@ However, this comes with two significant challenges:
 
 ### Your Mission, Should You Choose To Accept It
 
-Your job will be to work with us to open source the application in a way that is sustainable. This will involve making creative modifications and improvements to the UI.
+We’re looking for an excellent Cocoa developer who is also interested in solving the problem of funding beneficial, but seemingly unprofitable software, without resorting to advertisements or other nuisances.
+
+Your job will be to work with us to open source the application in a way that is sustainable. This will involve making creative modifications and improvements to the UI, and it will involve novel cryptocurrency concepts.
 
 Initially, we will simply focus on addressing Challenge #1 above. Later on we can move to Challenge #2.
 

@@ -26,19 +26,21 @@ After those steps you will have submitted a job to the OSD job board ;)
 ## Open Listings:
 *Please delete when no longer available*
 
-* [Front-end Developer and UX Designer for Data-Driven Project](https://github.com/opensourcedesign/job-board/blob/master/jobs/2015-02-okfn-frontend-developer-UX-designer.md)
+* [Toward Sustainable Open Source Development. Cocoa Developer Wanted.](jobs/2015-03-cocoa-dev-to-opensource-espionage.md)
 
-* [UX audit and facelift of Pencil](https://github.com/opensourcedesign/job-board/blob/master/jobs/2015-03-UX-audit-and-facelift-of-Pencil.md)
+* [Front-end Developer and UX Designer for Data-Driven Project](jobs/2015-02-okfn-frontend-developer-UX-designer.md)
 
-* [Improve Chat Secure Usability](https://github.com/opensourcedesign/job-board/blob/master/jobs/chat-secure.md)
+* [UX audit and facelift of Pencil](jobs/2015-03-UX-audit-and-facelift-of-Pencil.md)
 
-* [DemocracyClub Projects](https://github.com/opensourcedesign/job-board/blob/master/jobs/democracy-club.md)
+* [Improve Chat Secure Usability](jobs/chat-secure.md)
 
-* [GUI Designer for Guitarix](https://github.com/opensourcedesign/job-board/blob/master/jobs/guitarix.md)
+* [DemocracyClub Projects](jobs/democracy-club.md)
 
-* [UX Design for open source storage technologies](https://github.com/opensourcedesign/job-board/blob/master/jobs/red-hat_senior-ixd.md)
+* [GUI Designer for Guitarix](jobs/guitarix.md)
 
-* [Icon designer for Yocto Project](https://github.com/opensourcedesign/job-board/blob/master/jobs/yoctoproject.md)
+* [UX Design for open source storage technologies](jobs/red-hat_senior-ixd.md)
+
+* [Icon designer for Yocto Project](jobs/yoctoproject.md)
 
 ## Open Source Design "Meta" Tasks:
 
