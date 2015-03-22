@@ -26,6 +26,8 @@ After those steps you will have submitted a job to the OSD job board ;)
 ## Open Listings:
 *Please delete when no longer available*
 
+* [UI Design for remoteStorage-connect widget/dialog](2015-03-ui-design-for-remotestorage-connect-widget-dialog.md)
+
 * [Toward Sustainable Open Source Development. Cocoa Developer Wanted.](jobs/2015-03-cocoa-dev-to-opensource-espionage.md)
 
 * [Front-end Developer and UX Designer for Data-Driven Project](jobs/2015-02-okfn-frontend-developer-UX-designer.md)
