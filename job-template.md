@@ -1,8 +1,8 @@
 ---
 layout: jobs
 title: Job Title
-organization
-github: @github-username
+organization: Organization Name
+github: github-username
 url: http://organiaation-website.com
 tags: interface design, branding, logo
 status: searching / hired
