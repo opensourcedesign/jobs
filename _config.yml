@@ -1,0 +1,12 @@
+# Site settings
+title: Open Source Job Board
+email: osd@job-board.com
+description: > # this means to ignore newlines until "baseurl:"
+  A collection of Open Source Jobs
+baseurl: "/job-board" # the subpath of your site, e.g. /blog/
+url: "http://opensourcedesign.github.io" # the base hostname & protocol for your site
+twitter_username: opensourcedesign
+github_username:  opensourcedesign
+
+# Build settings
+markdown: kramdown

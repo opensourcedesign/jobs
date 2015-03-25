@@ -2,10 +2,10 @@
 layout: jobs
 title: Icon designer
 organization: Yocto Project
-github: @belenbarrospena
+github: belenbarrospena
 url: http://yoctoproject.org
 tags: icon favicon
-status: searching 
+status: searching
 rate: gratis
 ---
 

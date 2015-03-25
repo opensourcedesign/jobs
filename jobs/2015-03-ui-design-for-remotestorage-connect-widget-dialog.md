@@ -2,7 +2,7 @@
 layout: jobs
 title: UI Design for remoteStorage-connect widget/dialog
 organization: 5apps
-github: @remotestorage @5apps
+github: remotestorage,5apps
 url: https://remotestorage.io
 tags: interface design, ui, ux, frontend, web
 status: searching
@@ -31,10 +31,10 @@ accounts.
 
 ## Skills and experience wanted
 
-[Essential] Experience designing Web-based user experiences  
-[Essential] Working knowledge of HTML, CSS and front-end JavaScript  
-[Desirable] Experience working with CSS3 (e.g. animations) and vanilla JavaScript (i.e. no jQuery or similar)  
-[Desirable] Familiarity with free/open-source software and its processes  
+[Essential] Experience designing Web-based user experiences
+[Essential] Working knowledge of HTML, CSS and front-end JavaScript
+[Desirable] Experience working with CSS3 (e.g. animations) and vanilla JavaScript (i.e. no jQuery or similar)
+[Desirable] Familiarity with free/open-source software and its processes
 
 ## Interested?
 

@@ -1,8 +1,8 @@
 ---
 layout: jobs
 title: Front-end Developer and UX Designer for Data-Driven Project
-organization
-github: @okfn
+organization: OKFN
+github: okfn
 url: http://okfn.org
 tags: front-end, ux design, data visualization, javsacript, CSS, HTML, interface design, agile
 status: searching

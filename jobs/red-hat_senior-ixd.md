@@ -5,7 +5,7 @@ organization: Red Hat, Inc.
 url: https://redhat.com
 tags: interface design, ixd, ux, usability, design, user research, storage, visual design, HCI, human factors
 status: proposed
-submited_by: @mairin
+submited_by: mairin
 rate: unspecified
 ---
 
