@@ -23,28 +23,7 @@ Our job submission process is being done transparently and "in the open." If you
 
 After those steps you will have submitted a job to the OSD job board ;)
 
-## Open Listings:
-*Please delete when no longer available*
-
-* [UI designer for raml2html](jobs/2015-03-ui-design-for-raml2html-api-docs-generator.md)
-
-* [UI design for remoteStorage-connect widget/dialog](jobs/2015-03-ui-design-for-remotestorage-connect-widget-dialog.md)
-
-* [Toward Sustainable Open Source Development. Cocoa Developer Wanted.](jobs/2015-03-cocoa-dev-to-opensource-espionage.md)
-
-* [Front-end Developer and UX Designer for Data-Driven Project](jobs/2015-02-okfn-frontend-developer-UX-designer.md)
-
-* [UX audit and facelift of Pencil](jobs/2015-03-UX-audit-and-facelift-of-Pencil.md)
-
-* [Improve Chat Secure Usability](jobs/chat-secure.md)
-
-* [DemocracyClub Projects](jobs/democracy-club.md)
-
-* [GUI Designer for Guitarix](jobs/guitarix.md)
-
-* [UX Design for open source storage technologies](jobs/red-hat_senior-ixd.md)
-
-* [Icon designer for Yocto Project](jobs/yoctoproject.md)
+Look at the [job listings here](http://opensourcedesign.github.io/job-board/).
 
 ## Open Source Design "Meta" Tasks:
 

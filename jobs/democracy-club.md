@@ -3,7 +3,7 @@ layout: jobs
 title: DemocracyClub Projects
 organization: DemocracyClub
 github: DemocracyClub
-url: https://democracyclub.org.uk/
+org_url: https://democracyclub.org.uk/
 tags: interface design, user experience design, logo
 status: searching
 rate: gratis

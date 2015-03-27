@@ -3,7 +3,7 @@ layout: jobs
 title: Design focused Cocoa developer to open source Espionage 3
 organization: Tao Effect LLC
 github: taoeffect
-url: https://www.espionageapp.com
+org_url: https://www.espionageapp.com
 tags: cocoa, mac, os x, encryption, security, plausible deniability
 status: searching
 rate: negotiated hourly rate

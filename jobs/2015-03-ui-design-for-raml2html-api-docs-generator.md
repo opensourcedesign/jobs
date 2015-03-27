@@ -2,7 +2,7 @@
 layout: jobs
 title: UI designer for raml2html
 github: kevinrenskers
-url: https://github.com/kevinrenskers/raml2html
+org_url: https://github.com/kevinrenskers/raml2html
 tags: interface design
 status: searching
 rate: gratis
