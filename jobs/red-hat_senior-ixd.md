@@ -2,7 +2,7 @@
 layout: jobs
 title: UX Design for open source storage technologies
 organization: Red Hat, Inc.
-url: https://redhat.com
+org_url: https://redhat.com
 tags: interface design, ixd, ux, usability, design, user research, storage, visual design, HCI, human factors
 status: proposed
 submited_by: mairin

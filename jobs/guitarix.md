@@ -3,7 +3,7 @@ layout: jobs
 title: GUI Designer
 organization: guitarix
 github: brummer10
-url: http://guitarix.sourceforge.net/
+org_url: http://guitarix.sourceforge.net/
 tags: interface design, branding, logo
 status: solved
 rate: gratis, open source

@@ -3,7 +3,7 @@ layout: jobs
 title: UI Design for remoteStorage-connect widget/dialog
 organization: 5apps
 github: remotestorage,5apps
-url: https://remotestorage.io
+org_url: https://remotestorage.io
 tags: interface design, ui, ux, frontend, web
 status: searching
 rate: unspecified
