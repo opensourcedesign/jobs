@@ -10,3 +10,6 @@ github_username:  opensourcedesign
 
 # Build settings
 markdown: kramdown
+
+kramdown:
+  input: GFM

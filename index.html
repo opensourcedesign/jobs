@@ -4,26 +4,24 @@ layout: default
 
 <div class="home">
 
-  <!-- <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <h2>
-          <a class="post-link" href="{{ post.signup_url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <p>
-          {{ post.description }}
-        </p>
-      </li>
-    {% endfor %}
-  </ul> -->
+  <p>
+    A list of open source design jobs, maintained as open source, and made by you.
+  </p>
+  <p>
+    To add a job listing, check out <a href="https://github.com/opensourcedesign/job-board#job-board" title="github repository">our github repository</a>.
+  </p>
   <ul class="job-list">
     {% for page in site.pages %}
+    {{ title }}
         {% if page.layout == 'jobs' %}
+          {% unless page.title contains 'Job Title' %}
           <li>
             <h2>
-              <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+              <a class="page-link" href="{{ page.url | prepend: site.baseurl }}" title="page.title">{{ page.title }}</a>
             </h2>
+            <span class="pill rate">{{ page.rate }}</span>
           </li>
+          {% endunless %}
         {% endif %}
     {% endfor %}
   </ul>

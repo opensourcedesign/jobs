@@ -3,7 +3,7 @@ layout: jobs
 title: Improve Chat Secure Usability
 organization: The Guardian Project
 github: guardianproject
-url: https://guardianproject.info/apps/chatsecure/
+org_url: https://guardianproject.info/apps/chatsecure/
 tags: interface design, branding, logo
 status: proposed
 submited_by: bvnk

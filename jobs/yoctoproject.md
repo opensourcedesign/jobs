@@ -3,7 +3,7 @@ layout: jobs
 title: Icon designer
 organization: Yocto Project
 github: belenbarrospena
-url: http://yoctoproject.org
+org_url: http://yoctoproject.org
 tags: icon favicon
 status: searching
 rate: gratis
