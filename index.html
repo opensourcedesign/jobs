@@ -4,11 +4,9 @@ layout: default
 
 <div class="home">
 
+  <h1>Open Source Design jobs</h1>
   <p>
-    A list of open source design jobs, maintained as open source, and made by you.
-  </p>
-  <p>
-    To add a job listing, check out <a href="https://github.com/opensourcedesign/job-board#job-board" title="github repository">our github repository</a>.
+    You can easily add a job through <a href="https://github.com/opensourcedesign/jobs#job-board" title="">our Github repository</a>!
   </p>
   <ul class="job-list">
     {% for page in site.pages %}
@@ -17,8 +15,9 @@ layout: default
           {% unless page.title contains 'Job Title' %}
           <li>
             <h2>
-              <a class="page-link" href="{{ page.url | prepend: site.baseurl }}" title="page.title">{{ page.title }}</a>
+              <a class="page-link" href="{{ page.url | prepend: site.baseurl }}" title="{{ page.title }}">{{ page.title }}</a>
             </h2>
+            <p class="pill organization">{{ page.organization }}</p>
             <span class="pill rate">{{ page.rate }}</span>
           </li>
           {% endunless %}
@@ -26,6 +25,6 @@ layout: default
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
