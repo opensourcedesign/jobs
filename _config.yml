@@ -3,7 +3,7 @@ title: Open Source Design job board
 email: osd@job-board.com
 description: > # this means to ignore newlines until "baseurl:"
   A collection of Open Source Design jobs
-baseurl: "/job-board" # the subpath of your site, e.g. /blog/
+baseurl: "/jobs" # the subpath of your site, e.g. /blog/
 url: "http://opensourcedesign.github.io" # the base hostname & protocol for your site
 twitter_username: opensrcdesign
 github_username:  opensourcedesign
