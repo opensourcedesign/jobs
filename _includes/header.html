@@ -2,7 +2,10 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <a class="site-title" href="http://opensourcedesign.net/">
+        <img class="site-title-logo" src="http://opensourcedesign.net/images/design-open-logo-512.png">
+        Open Source Design
+    </a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -14,12 +17,12 @@
       </a>
 
       <div class="trigger">
-        <a class="page-link" href="https://github.com/opensourcedesign/job-board#job-board">Readme.MD</a>
-        <!-- {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %} -->
+        {% comment %} Unfortunately these have to be hard coded {% endcomment %}
+        <a class="page-link" href="/about/">About</a>
+
+        <a class="page-link" href="/articles/">Articles</a>
+
+        <a class="page-link" href="/jobs/">Jobs</a>
       </div>
     </nav>
 
