@@ -1,6 +1,7 @@
 ---
 layout: jobs
 title: UX audit and facelift of Pencil
+role: User Experience Designer
 organization: Evolus
 github:
 org_url: http://pencil.evolus.vn

@@ -12,12 +12,15 @@ layout: default
     {% for page in site.pages %}
     {{ title }}
         {% if page.layout == 'jobs' %}
-          {% unless page.title contains 'Job Title' %}
+          {% unless page.title contains 'Job Title' %}{% comment %} Filter out the example page {% endcomment %}
           <li>
             <h2>
               <a class="page-link" href="{{ page.url | prepend: site.baseurl }}" title="{{ page.title }}">{{ page.title }}</a>
             </h2>
-            <p class="pill organization">{{ page.organization }}</p>
+            <p>
+              <span class="pill role">{{ page.role }}</span>,
+              <span class="pill organization">{{ page.organization }}</span>
+            </p>
             <span class="pill rate">{{ page.rate }}</span>
           </li>
           {% endunless %}
