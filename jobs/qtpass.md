@@ -1,6 +1,7 @@
 ---
 layout: jobs
 title: QTPass
+role: UI / UX designer
 organization: IJhack
 github: ijhack
 url: http://ijhack.github.io/qtpass/
@@ -12,4 +13,4 @@ date_posted: 2015-04-22
 
 Qtpass is a multiplatform gui for the pass (passwordstore.org) password manager. It uses standard unix tools like gpg for encrypting your passwords.
 
-We are adding features and slowly approaching a usable 1.x release, however the user interface is ugly, badly arranged and unintuitive. We'd like some help with organising and redesigning the user interface and workflow so that the application is easier and nicer to use. 
+We are adding features and slowly approaching a usable 1.x release, however the user interface is ugly, badly arranged and unintuitive. We'd like some help with organising and redesigning the user interface and workflow so that the application is easier and nicer to use.

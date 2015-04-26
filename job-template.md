@@ -1,6 +1,7 @@
 ---
 layout: jobs
-title: Job Title
+title: Job Title # Try to keep it to three words
+role: Job Role # Ex: UI Designer, UX Designer, Icon Designer
 organization: Organization Name
 github: github-username
 url: http://organiaation-website.com

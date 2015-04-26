@@ -1,6 +1,7 @@
 ---
 layout: jobs
 title: DemocracyClub Projects
+role: Front-end Designer
 organization: DemocracyClub
 github: DemocracyClub
 org_url: https://democracyclub.org.uk/
