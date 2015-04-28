@@ -1,6 +1,7 @@
 ---
 layout: jobs
-title: GUI Designer
+title: Create Audio Software Interface
+role: GUI Designer
 organization: guitarix
 github: brummer10
 org_url: http://guitarix.sourceforge.net/

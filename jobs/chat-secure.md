@@ -1,6 +1,7 @@
 ---
 layout: jobs
 title: Improve Chat Secure Usability
+role: Usability
 organization: The Guardian Project
 github: guardianproject
 org_url: https://guardianproject.info/apps/chatsecure/

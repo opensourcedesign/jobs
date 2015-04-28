@@ -1,6 +1,7 @@
 ---
 layout: jobs
-title: Design focused Cocoa developer to open source Espionage 3
+title: open source Espionage 3
+role: Design focused Cocoa developer
 organization: Tao Effect LLC
 github: taoeffect
 org_url: https://www.espionageapp.com

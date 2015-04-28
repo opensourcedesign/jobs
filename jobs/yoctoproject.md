@@ -1,6 +1,7 @@
 ---
 layout: jobs
-title: Icon designer
+title: Design an Icon
+role: Icon designer
 organization: Yocto Project
 github: belenbarrospena
 org_url: http://yoctoproject.org
