@@ -9,7 +9,7 @@ layout: default
     You can easily add a job through <a href="https://github.com/opensourcedesign/jobs#job-board" title="">our Github repository</a>!
   </p>
   <ul class="job-list">
-    {% for page in site.pages %}
+    {% for page in site.pages reversed %}
     {{ title }}
         {% if page.layout == 'jobs' %}
           {% unless page.title contains 'Job Title' %}{% comment %} Filter out the example page {% endcomment %}
@@ -18,7 +18,7 @@ layout: default
               <a class="page-link" href="{{ page.url | prepend: site.baseurl }}" title="{{ page.title }}">{{ page.title }}</a>
             </h2>
             <p>
-              <span class="pill role">{{ page.role }}</span>,
+              <span class="pill role">{{ page.role }}</span> @
               <span class="pill organization">{{ page.organization }}</span>
             </p>
             <span class="pill rate">{{ page.rate }}</span>
