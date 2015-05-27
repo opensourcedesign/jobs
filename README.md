@@ -7,7 +7,7 @@ Requirements:
 - Creating model animations
 - Architecture/design background or experience preferred 
 
-+++:
+Pluses:
 - iOS8, iOS7, Java, Objective-C, Swift, Android Studio, Eclipse
 - Restful WebService, MapKit, JSON Apis and Backend Apis
 - Node.js
