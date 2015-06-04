@@ -1,17 +1,32 @@
 ---
 layout: jobs
-title: Job Title # Try to keep it to three words
-role: Job Role # Ex: UI Designer, UX Designer, Icon Designer
-organization: Organization Name
-github: github-username
-contact: email, github, irc channel, etc # How can people reach out to you?
-contributing_md: (optional) # A link to your contributing guidelines for newcomers
-contributors_md: (optional) # A list of contributors who are reach-out-able.
-url: http://organisation-website.com
-tags: interface design, branding, logo
-status: searching / hired
-rate: gratis / $60 hour / $1000 total / etc...
-date_posted: yyyy-mm-dd
+title: Full/part-time Web GL/Three.JS specialist
+role: Three.js Developer
+organization: Ethereal Lifestyle
+github: CrasHog
+contact: email, github
+tags: Three.js, 3d, WebGL, design, branding, Archetecture
+status: searching
+date_posted: 2015-06-04
 ---
 
-Write the description of the job here...
+We are looking to bring a developer who specializes WebGL/Three.js on board to help us build out our new project. It's a great opportunity to work in a new and exciting space, where art, design, technology and fashion meet.
+
+Requirements
+- Able to understand, evaluate and manipulate advanced Three.js code
+- Working knowledge of WebGL implementation 
+- Working knowledge of 3D modeling software 
+- Rendering (reflections and refractions effects) and texture mapping skills
+- Master at handling camera view points
+- Ability to create quality animations
+- WebGL Mobile and Cross Browser support
+- Architecture/design background or experience preferred
+
+We are ONLY looking for those who specialize in WebGL/Three.js.
+DO NOT POST if you do not have these requirements.
+We are NOT looking for a general web developer
+We will not consider your post if you do not have a relevant portfolio or attached work.
+
+Salary range: Depending on skill level and experience.
+
+DO NOT REPLY IF YOU ARE AN AGENCY/FIRM
