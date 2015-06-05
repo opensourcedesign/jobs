@@ -10,6 +10,7 @@ github_username:  opensourcedesign
 
 # Build settings
 markdown: kramdown
+permalink: /:month-:day-:year/:title.html
 
 kramdown:
   input: GFM
