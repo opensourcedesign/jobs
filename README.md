@@ -1,5 +1,4 @@
-Job Board
-===
+# [Jobs](http://opensourcedesign.net/jobs/)
 
 The goal here is to create a proper **"job board"** that pairs open source people and projects in need design work with designers who can do those tasks. It will be a mixture of *both gratis as well as paying work.* A job can be relatively small task to an entire project. I think the ideal balance would be a mixture of about:
 
@@ -19,11 +18,11 @@ Our job submission process is being done transparently and "in the open." If you
 - Name your compy something like `2015-03-sticker-design-for-lnug.md`
 - Fill out the fields inside the template you just copied
 - Submit a pull request
-- Have a margarita
+- Have a margarita or hot chocolate
 
 After those steps you will have submitted a job to the OSD job board ;)
 
-Look at the [job listings here](http://opensourcedesign.github.io/job-board/).
+### View the Open Source Design [job listings here](http://opensourcedesign.net/jobs/).
 
 ## Open Source Design "Meta" Tasks:
 
