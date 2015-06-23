@@ -14,4 +14,5 @@ rate: gratis / $60 hour / $1000 total / etc...
 date_posted: yyyy-mm-dd
 ---
 
-Write the description of the job here...
+Write the description of the job here. 
+Keep each sentence on a new line, to make clean diff reviews.
