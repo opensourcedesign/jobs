@@ -17,7 +17,7 @@ I think the ideal balance would be a mixture of about:
 Our job submission process is being done transparently and "in the open."
 If you work on an open source software project or community, feel free to submit a job to our job board by doing the following:
 
-- running `rake job title="Job Title" role="Role Name" org="Organization Name"
+- running `rake job title="Job Title" role="Role Name" org="Organization Name"`
 - Opening the file that got generated in `jobs` and filling it in.
 - Submit a pull request.
 - Have a margarita or a hot chocolate
