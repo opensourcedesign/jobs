@@ -7,7 +7,7 @@ github: MettaCenter
 contact: tord.dellsen@gmail.com
 url: http://mettacenter.org
 tags: interface design, branding, text layout
-status: searching
+status: solved
 rate: gratis
 date_posted: 2015-07-15
 ---
