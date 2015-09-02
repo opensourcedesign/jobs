@@ -1,7 +1,7 @@
 ---
 layout: jobs
 title: circuits logo redesign
-role: Log Designer
+role: Logo Designer
 organization: circuits
 github: circuits
 contact: prologic@shortcircuit.net.au, prologic, #circuits (FreeNode)
