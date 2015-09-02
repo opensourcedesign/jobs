@@ -1,2 +1,4 @@
+*~
+*.bak
 _site
 .sass-cache
