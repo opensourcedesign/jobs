@@ -6,7 +6,7 @@ organization: Yocto Project
 github: belenbarrospena
 org_url: http://yoctoproject.org
 tags: icon favicon
-status: closed
+status: resolved
 rate: gratis
 ---
 
