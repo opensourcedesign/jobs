@@ -8,7 +8,7 @@ contact: ahdinosaur on github
 url: https://valueflo.ws
 tags: logo icon favicon branding
 status: searching
-hiredrate: gratis
+rate: gratis
 date_posted: 2015-10-08
 ---
 
