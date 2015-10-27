@@ -6,7 +6,7 @@ organization: PhotoFlow editor
 github: aferrero2707
 contact: photofloweditor@gmail.com
 url: http://aferrero2707.github.io/PhotoFlow/, http://photoflowblog.blogspot.com/
-tags: interface design, usability enhancement 
+tags: interface design, usability enhancement
 status: searching
 rate: gratis 
 date_posted: 2015-10-26
