@@ -22,6 +22,7 @@ The goal is to make the task of image editing as much intuitive as possible, wit
 The project is presently developed entirely for free, so no budget can be allocated for the UI/UX enhancement task.
 
 Contact: photofloweditor@gmail.com
+
 Web resources:
 https://aferrero2707.github.io/PhotoFlow/ 
 https://photoflowblog.blogspot.com/
