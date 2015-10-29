@@ -5,7 +5,7 @@ role: UI/UX Designer
 organization: PhotoFlow editor
 github: aferrero2707
 contact: photofloweditor@gmail.com
-url: http://aferrero2707.github.io/PhotoFlow/, http://photoflowblog.blogspot.com/
+url: https://aferrero2707.github.io/PhotoFlow/, https://photoflowblog.blogspot.com/
 tags: interface design, usability enhancement
 status: searching
 rate: gratis 
@@ -20,3 +20,9 @@ The project could greatly benefit from a review/improvement of the graphical use
 The goal is to make the task of image editing as much intuitive as possible, without sacrificing the advanced features.
 
 The project is presently developed entirely for free, so no budget can be allocated for the UI/UX enhancement task.
+
+Contact: photofloweditor@gmail.com
+
+Web resources:
+https://aferrero2707.github.io/PhotoFlow/ 
+https://photoflowblog.blogspot.com/
