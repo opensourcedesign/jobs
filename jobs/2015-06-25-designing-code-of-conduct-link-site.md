@@ -1,7 +1,7 @@
 ---
 layout: jobs
 date_posted: 2015-06-25-12-12
-title: "Designing CodeOfConductLink Site"
+title: "Designing Code Of Conduct Link Site"
 role: "UI Designer"
 organization: "Code of Conduct Link"
 contributing_md: https://github.com/emilyhorsman/codeofconductlink/blob/develop/code_of_conduct.md
