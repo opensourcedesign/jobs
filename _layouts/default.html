@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
   {% include head.html %}
 
-  <body>
+  <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 
     {% include header.html %}
 
@@ -14,6 +14,10 @@
     </div>
 
     {% include footer.html %}
+    {{ page.end_scripts }}
+
+    <!-- Custom Theme JavaScript -->
+    <script src="/js/main.js"></script>
 
   </body>
 
