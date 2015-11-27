@@ -1,12 +1,10 @@
 ---
 layout: jobs
-title: FRONTEND DEVELOPER / DESIGNER
-role: Job Role # Eg: front-end, ux design, data visualization, javsacript, CSS, HTML, D3js, React
+title: Frontend Developer / Designer (f/m)
+role: Job Role # Eg: front-end, ux design, data visualization, Javascript, CSS, HTML, D3js, React
 organization: Jolocom
 github: https://github.com/jolocom
 contact: joachim@jolocom.com
-contributing_md: (optional) 
-contributors_md: (optional) 
 url: http://jolocom.com
 tags: UI, D3js, JS, React
 status: searching / 
@@ -39,7 +37,7 @@ Tech skills:
 4. Experience with CSS concepts: BEM, OOCSS, etc; good understanding of how specificity works
 5. Experience with pre-processors, either SASS or LESS would do
 6. Some experience with task runners Grunt/Gulp (minification, auto-prefixing)
-(7). Some knowledge of flexbox
+7. Some knowledge of flexbox
 
 Personal skills:
 1. Ability to fast prototype layouts & interactions
