@@ -11,7 +11,7 @@ status: searching /
 rate: part-time / 18hrs/week
 date_posted: 2015-11-25
 ---
-FRONTEND DEVELOPER / DESIGNER
+FRONTEND DEVELOPER / DESIGNER (F/M)
 
 Whether you want to work in Berlin or remotely, both is genuine to us; we have summits where we all come together for a couple of days on a regular basis.
 We are all about empowering users and bringing their data home.
