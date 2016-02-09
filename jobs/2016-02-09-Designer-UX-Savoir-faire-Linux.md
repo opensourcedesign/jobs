@@ -18,17 +18,17 @@ UX design in particular is a driving force of our projects. As a UX/UI designer 
 You will work on various cases (websites, web apps, mobile apps...), provide expert assistance to our customers, and have the opportunity to develop our internal tools. 
 If you think that the fight for good design is a fight for an equal, open, and more accessible web, as Mike Monteiro put it, then we look forward to meeting you.
 
--Responsibilities-
+**Responsibilities**
 
 You are probably expecting a work description here but this is not what we are looking at. We want to create this job around your desire and your skills — a kind of tailor-made job, just as the expected output of your work. So the question is rather: what do *you* want to do everyday? And how do you intend to collaborate with Savoir-faire linux and our customers?
 
 
--Assets-
+**Assets**
 
 You know who Richard Stallman is.
 You know what I mean by "IoT" and "KDE". ;-)
 
--Qualifications-
+**Qualifications**
 
 You have at least a little experience (3+ years),
 and skills in interface design,
