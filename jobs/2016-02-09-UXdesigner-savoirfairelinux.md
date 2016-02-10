@@ -35,3 +35,5 @@ and skills in interface design,
 you're concerned by technologies, and
 above all, you are passionate.
 If this Ninja profile is like yours, send us your portfolio. For the rest, you'll tell us later.
+
+https://jobs.savoirfairelinux.com/#uxui-designer
