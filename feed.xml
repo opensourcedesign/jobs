@@ -14,7 +14,7 @@ layout: null
     {% assign counter = 0 %}
     {% assign max = 10 %}
     {% for page in site.pages %}
-        {% if counter <= max and page.layout == 'jobs' %}
+        {% if counter <= max and page.layout == 'jobs' and page.status == 'searching' %}
             {% assign counter = counter | plus:1 %}
             <item>
                 <title>{{ page.title | xml_escape }}</title>

@@ -12,8 +12,7 @@ layout: default
   </p>
   <ul class="job-list">
     {% for page in site.pages reversed %}
-    {{ title }}
-        {% if page.layout == 'jobs' %}
+        {% if page.layout == 'jobs' and page.status == 'searching' %}
           {% unless page.title contains 'Job Title' %}{% comment %} Filter out the example page {% endcomment %}
           <li>
             <h2>
