@@ -1,19 +1,19 @@
 ---
 layout: jobs
-title: Tor Style Guide: Standardized Colors, Typography, Logo Usage
-role: Visual Designer 
+title: "Tor Style Guide: Standardized Colors, Typography, Logo Usage"
+role: Visual Designer
 organization: Simply Secure for Tor Project
 github: ameellio
 contact: UX@simplysecure.org
-contributing_md: (optional) 
-contributors_md: (optional) 
+contributing_md:
+contributors_md:
 url: https://simplysecure.org/
 tags: branding, visual design
-status: searching  
+status: searching
 rate: Neogiated hourly rate
 date_posted: 2016-04-19
 ---
-The Tor Project is seeking to create a visual and typographic style guide to harmonize and professionalize the presentation of its various efforts. 
+The Tor Project is seeking to create a visual and typographic style guide to harmonize and professionalize the presentation of its various efforts.
 
 Tor has historically used a variety of purples (primary color) and greens (secondary color). What should be the canonical shades? What palette should be used in conjunction with the principal colors?
 
