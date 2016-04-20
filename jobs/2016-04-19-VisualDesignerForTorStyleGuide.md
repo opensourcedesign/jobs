@@ -21,8 +21,8 @@ This job is to produce a style guide describing use the existing wordmark, color
 
 The style guide should cover font choice and logo use (placement, spacing, and alignment) for digital & print. Printed matter include slide templates, letterhead, and other assets.
 
-Simply Secure is acting as project manager, email ux@simplysecure.org to express interest. To read the creative brief for this project see https://github.com/simplysecure/tor/blob/master/CreativeBriefforTorProjectStyleGuide.pdf
+Simply Secure is acting as project manager, email ux@simplysecure.org to express interest. To read the creative brief for this project see [Creative Brief for Tor Project Style Guide](https://github.com/simplysecure/tor/blob/master/CreativeBriefforTorProjectStyleGuide.pdf)
 
-To learn more about Tor UX team activites, join the mailing list https://lists.torproject.org/cgi-bin/mailman/listinfo/ux
+To learn more about Tor UX team activites, join [the mailing list](https://lists.torproject.org/cgi-bin/mailman/listinfo/ux)
 
 
