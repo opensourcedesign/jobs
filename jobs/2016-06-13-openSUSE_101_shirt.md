@@ -5,12 +5,12 @@ role: Designer
 organization: openSUSE
 github: ChrisBr
 contact: cbruckmayer@suse.com
-contributing_md: (optional) 
+contributing_md: (optional)
 contributors_md: (optional)
 url: http://101.opensuse.org/
 tags: shirt design
-status: searching / 
-rate: free shirt / swag / gratis  
+status: searching
+rate: free shirt / swag / gratis
 date_posted: 2016-06-13
 ---
 At openSUSE we participate every year in several open source mentoring programs like [Google Summer of Code](https://summerofcode.withgoogle.com/organizations/4794149198888960/)  or [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/).
