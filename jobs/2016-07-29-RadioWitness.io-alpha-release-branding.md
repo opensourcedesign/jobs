@@ -7,7 +7,7 @@ github: rhodey
 contact: rhodey@anhonesteffort.org, @NotRhodey
 url: https://radiowitness.io
 tags: branding, logo
-status: searching
+status: closed
 rate: gratis or $120 total
 date_posted: 2016-07-29
 ---
