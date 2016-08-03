@@ -4,12 +4,12 @@ title: Make Silex Website Builder Templates Responsive
 role: Designer
 organization: Silex Labs
 github: silexlabs
-contact: contact@silexlabs.org, https://github.com/silexlabs/, https://twitter.com/silexlabs, chat: https://framateam.org/signup_user_complete/?id=x1ay4zdjdffh5j67xzkfsofpyw
+contact: contact@silexlabs.org
 url: https://www.silexlabs.org/
 tags: website templates, webdesign, design
 status: searching
 rate: gratis
-date_posted:2016-08-03
+date_posted: 2016-08-03
 ---
 [Silex](http://www.silex.me/) is a free and open source website builder (community driven), that can be used directly in a browser. It is an alternative to Wix, Squarespace, etc.
 
