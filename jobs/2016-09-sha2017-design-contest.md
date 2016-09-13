@@ -7,7 +7,7 @@ github: sha2017
 contact: design@sha2017.org 
 contributing_md: https://sha2017.org/call-for-design 
 contributors_md: realitygaps 
-url: http://sha2017.org
+url: https://sha2017.org
 tags: design, branding, logo, theme
 status: searching
 rate: gratis
