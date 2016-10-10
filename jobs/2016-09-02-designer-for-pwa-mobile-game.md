@@ -2,7 +2,7 @@
 layout: jobs
 title: Designer For Offline-First, Progressive Web App (Mobile Game)
 role: UI/UX Designer
-organization: -
+organization:
 github: morkro
 contact: write@moritz.berlin
 contributing_md: (optional) # A link to your contributing guidelines for newcomers

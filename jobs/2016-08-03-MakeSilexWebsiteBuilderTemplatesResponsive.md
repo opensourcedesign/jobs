@@ -1,6 +1,6 @@
 ---
 layout: jobs
-title: Silex Website Builder: update the templates and make them responsive
+title: Silex Website Builder - update the templates and make them responsive
 role: Template designer
 organization: Silex Labs
 github: silexlabs

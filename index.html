@@ -11,6 +11,7 @@ layout: default
     You can easily add a job through <a href="https://github.com/opensourcedesign/jobs#jobs" title="">our GitHub repository</a>!
   </p>
   <ul class="job-list">
+
     {% for page in site.pages reversed %}
         {% if page.layout == 'jobs' and page.status == 'searching' %}
           {% unless page.title contains 'Job Title' %}{% comment %} Filter out the example page {% endcomment %}
