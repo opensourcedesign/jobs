@@ -15,7 +15,7 @@ The [Open Observatory of Network Interference (OONI)](https://ooni.torproject.or
 a project under The Tor Project that aims to uncover internet censorship by
 monitoring its prevalence around the world, is seeking a UX designer to improve
 the UI of its desktop (web based) and mobile client.
-See also: https://www.torproject.org/about/jobs-ooni-ux-designer.html.en
+See also: [https://www.torproject.org/about/jobs-ooni-ux-designer.html.en](https://www.torproject.org/about/jobs-ooni-ux-designer.html.en)
 
 We are looking for someone that can:
 
@@ -29,10 +29,10 @@ We are looking for someone that can:
    client more coherent.
 
 You can find screenshots of the current views for the current desktop client
-here: https://github.com/TheTorProject/ooni-wui/issues/4#issuecomment-252314702
+here: [https://github.com/TheTorProject/ooni-wui/issues/4#issuecomment-252314702](https://github.com/TheTorProject/ooni-wui/issues/4#issuecomment-252314702)
 
 You can find screenshots of the current views for the mobile client here:
-https://github.com/measurement-kit/netprobe-ios/issues/43
+[https://github.com/measurement-kit/netprobe-ios/issues/43](https://github.com/TheTorProject/ooni-wui/issues/4#issuecomment-252314702)
 
 We are a dynamic team that works from different places around the world. Most of
 our coordination happens via the internet, on public issue trackers (github)
