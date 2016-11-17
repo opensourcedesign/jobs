@@ -9,7 +9,7 @@ contributing_md: https://github.com/okTurtles/group-income-simple/blob/master/CO
 contributors_md: (optional) 
 url: https://groupincome.org/
 tags: vuejs, decentralization, javascript, js, frontend, lead, basic income, basicincome
-status: searching
+status: closed
 rate: Paid, fulltime, negotiated
 date_posted: 2016-10-10
 ---
