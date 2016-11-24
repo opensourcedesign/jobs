@@ -11,7 +11,7 @@ status: searching
 rate: gratis
 date_posted: 2016-11-21
 ---
-The idea is to finish flatui icons theme for xmb menu theme which will be available in [RetroArch](http://www.libretro.com/index.php/retroarch-2) and [Lakka](http://www.lakka.tv) distribution.
+The idea is to finish [flatui icons theme](https://github.com/libretro/retroarch-assets/issues/17) for xmb menu theme which will be available in [RetroArch](http://www.libretro.com/index.php/retroarch-2) and [Lakka](http://www.lakka.tv) distribution.
 
 RetroArch is the official reference frontend for the libretro API.
 
