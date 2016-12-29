@@ -1,17 +1,18 @@
 ---
 layout: default
+title: Jobs
+permalink: /jobs/
 ---
 
 <div class="container">
 <div class="row">
 <div class="col-md-10 col-md-offset-1">
-
   <h1>Jobs</h1>
   <p>
-    You can easily add a job through <a href="https://github.com/opensourcedesign/jobs#jobs" title="">our GitHub repository</a>!
+    Need Something Designed? Easily <a href="http://opensourcedesign.net/opensrcdesignjobs/">post a job now</a>
   </p>
+  <hr>
   <ul class="job-list">
-
     {% for page in site.pages reversed %}
         {% if page.layout == 'jobs' and page.status == 'searching' %}
           {% unless page.title contains 'Job Title' %}{% comment %} Filter out the example page {% endcomment %}
@@ -29,9 +30,11 @@ layout: default
         {% endif %}
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+  <hr>
+  <ul>
+    <li>More comfortable with Git? Use our <a href="https://github.com/opensourcedesign/jobs">git based method</a>.</li>
+    <li>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></li>
+  </ul>
 </div>
 </div>
 </div>
