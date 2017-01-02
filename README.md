@@ -17,23 +17,12 @@ I think the ideal balance would be a mixture of about:
 Our job submission process is done **"in the open"** so if you work on an open source software project or community, feel free to submit a job to our job board. Just do the following:
 
 **Easiest:**
+1. Go to [our form](http://opensourcedesign.net/opensrcdesignjobs/) and fill in the details,
+2. Submit the form,
+3. Wait for us to approve your job posting,
+4. Have a margarita or a hot chocolate.
 
-1. [Click here to create a new file here on GitHub](https://github.com/opensourcedesign/jobs/new/gh-pages?filename=jobs/YYY-MM-DD-ChooseAJobTitle.md&value=---%0Alayout:%20jobs%0Atitle:%20Job%20Title%0Arole:%20Job%20Role%20%23%20Eg:%20Logo%20Designer,%20UX%20Designer%0Aorganization:%20Organization%20Name%0Agithub:%20github-username%0Acontact:%20email,%20github,%20irc%20channel,%20etc%0Acontributing_md:%20%28optional%29%20%0Acontributors_md:%20%28optional%29%20%0Aurl:%20http://organisation-website.com%0Atags:%20interface%20design,%20branding,%20logo%0Astatus:%20searching%20/%20%0Arate:%20gratis%20/%20$60%20hour%20/%20$1000%20total%20/%20etc...%0Adate_posted:%20yyyy-mm-dd%0A---%0AWrite%20the%20description%20of%20the%20job%20here.%20Keep%20each%20sentence%20on%20a%20new%20line,%20to%20make%20clean%20diff%20reviews.) (you need to be logged in to GitHub)
-2. It will ask you to create a fork
-3. Create a fork. Don't worry about what a fork is
-4. Fill in the details of the form
-5. Change the file name to something like `2015-03-12-sticker-design-for-fun.md`
-5. Submit your pull request
-6. Have a margarita or a hot chocolate
-
-**Harder (this involves downloading the code on your computer):**
-
-1. running `rake job title="Job Title" role="Role Name" org="Organization Name"`
-2. Opening the file that got generated in `jobs` and filling it in.
-3. Submit a pull request.
-4. Have a margarita or a hot chocolate
-
-**Hardest (a bit tedious):**
+**Harder (a bit tedious):**
 
 1. Fork the `jobs` repo
 2. Copy `job-template.md` into the `jobs` folder and change the name
