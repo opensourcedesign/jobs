@@ -9,7 +9,7 @@ contributing_md: https://github.com/openfarmcc/OpenFarm/blob/master/CONTRIBUTING
 contributors_md: https://github.com/openfarmcc/OpenFarm/graphs/contributors
 url: openfarm.cc
 tags: logo
-status: searching
+status: closed
 rate: gratis, up for discussion
 contact: simonv3 on twitter or post on github
 ---

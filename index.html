@@ -8,7 +8,7 @@ title: Jobs
 <div class="col-md-10 col-md-offset-1">
   <h1>Jobs</h1>
   <p>
-    Need Something Designed? Easily <a href="http://opensourcedesign.net/opensrcdesignjobs/">post a job now</a>
+    Need Something Designed? Easily <a href="http://opensourcedesign.net/opensrcdesignjobs/">post a job now</a>. We'll review your posting and post it as soon as we can!
   </p>
   <hr>
   <ul class="job-list">
@@ -20,7 +20,9 @@ title: Jobs
               <a class="page-link" href="{{ page.url | prepend: site.baseurl }}" title="{{ page.title }}">{{ page.title }}</a>
             </h2>
             <p>
+              {% if page.role %}
               <span class="pill role">{{ page.role }}</span> @
+              {% endif %}
               <span class="pill organization">{{ page.organization }}</span>
             </p>
             <span class="pill rate">{{ page.rate }}</span>

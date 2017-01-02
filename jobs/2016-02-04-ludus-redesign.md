@@ -5,11 +5,11 @@ role: Logo Designer & UX Designer
 organization: #-ludus
 github: FallenRiteMonk
 contact: fallenritemonk@gmail.com, FallenRitemonk
-contributing_md: (optional) 
-contributors_md: (optional) 
+contributing_md: (optional)
+contributors_md: (optional)
 url: http://fallenritemonk.github.io/ludus/
 tags: interface design, branding, logo
-status: searching / 
+status: searching
 rate: gratis / in-app and website credit
 date_posted: 2016-02-04
 ---
