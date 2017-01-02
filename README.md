@@ -17,6 +17,7 @@ I think the ideal balance would be a mixture of about:
 Our job submission process is done **"in the open"** so if you work on an open source software project or community, feel free to submit a job to our job board. Just do the following:
 
 **Easiest:**
+
 1. Go to [our form](http://opensourcedesign.net/opensrcdesignjobs/) and fill in the details,
 2. Submit the form,
 3. Wait for us to approve your job posting,
