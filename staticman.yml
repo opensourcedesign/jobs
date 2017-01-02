@@ -28,7 +28,7 @@ jobs:
   # (*) REQUIRED
   #
   # Destination path (filename) for the data files. Accepts placeholders.
-  filename: "{fields.date}-{fields.title}"
+  filename: "{fields.date_posted}-{fields.title}"
 
   # The format of the generated data files. Accepted values are "json", "yaml"
   # or "frontmatter"
