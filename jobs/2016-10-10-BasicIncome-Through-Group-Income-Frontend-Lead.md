@@ -10,7 +10,7 @@ contributors_md: (optional)
 org_url: https://groupincome.org/
 tags: vuejs, decentralization, javascript, js, frontend, lead, basic income, basicincome
 status: closed
-rate: Paid, fulltime, negotiated
+rate: paid, fulltime, negotiated
 date_posted: 2016-10-10
 ---
 

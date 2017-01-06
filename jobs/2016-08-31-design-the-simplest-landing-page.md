@@ -9,7 +9,7 @@ contributing_md:
 org_url: https://github.com/bdavidxyz/zee
 tags: interface design, branding, landing page
 status: searching
-rate: gratis (open source)
+rate: gratis
 date_posted: 2016-04-20
 ---
 
