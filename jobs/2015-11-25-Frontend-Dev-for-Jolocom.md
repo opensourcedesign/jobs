@@ -1,7 +1,7 @@
 ---
 layout: jobs
 title: Frontend Developer / Designer (f/m)
-role: Job Role # Eg: front-end, ux design, data visualization, Javascript, CSS, HTML, D3js, React
+role: Frontend Developer / Designer
 organization: Jolocom
 github: https://github.com/jolocom
 contact: joachim@jolocom.com
