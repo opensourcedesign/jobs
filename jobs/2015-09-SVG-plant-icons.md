@@ -9,7 +9,7 @@ contributing_md: https://github.com/openfarmcc/OpenFarm/blob/master/CONTRIBUTING
 contributors_md: http://slack.openfarm.cc
 org_url: http://openfarm.cc, http://farmbot.io, http://hortomatic.com
 tags: icon design, icons, plants, crops, svg
-status: searching / hired
+status: searching
 rate: gratis
 date_posted: 2015-09-26
 ---
