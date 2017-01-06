@@ -1,6 +1,6 @@
 ---
 layout: jobs
-date_posted: 2016-03-10-21-39
+date_posted: 2016-03-10
 title: "Create a Logo for a large OSS project"
 role: "Logo Designer"
 organization: "react boilerplate"

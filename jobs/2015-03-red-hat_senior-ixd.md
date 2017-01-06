@@ -5,9 +5,10 @@ role: UX Design
 organization: Red Hat, Inc.
 org_url: https://redhat.com
 tags: interface design, ixd, ux, usability, design, user research, storage, visual design, HCI, human factors
-status: proposed
+status: closed
 submited_by: mairin
 rate: unspecified
+date_posted: 2015-02-12
 ---
 
 To apply, please visit http://jobs.redhat.com/jobs/descriptions/senior-interaction-designer-user-experience-westford-massachusetts-job-4-4919601

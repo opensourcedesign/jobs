@@ -8,6 +8,7 @@ org_url: http://guitarix.sourceforge.net/
 tags: interface design, branding, logo
 status: solved
 rate: gratis, open source
+date_posted: 2015-02-15
 ---
 
 Guitarix is a rack-based multi-effect audio software for linux.

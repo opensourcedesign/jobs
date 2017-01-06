@@ -1,6 +1,6 @@
 ---
 layout: jobs
-date_posted: 2015-06-25-12-12
+date_posted: 2015-06-25
 title: "Designing Code Of Conduct Link Site"
 role: "UI Designer"
 organization: "Code of Conduct Link"

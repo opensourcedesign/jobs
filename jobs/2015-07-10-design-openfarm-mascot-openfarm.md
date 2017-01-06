@@ -1,6 +1,6 @@
 ---
 layout: jobs
-date_posted: 2015-07-10-12-56
+date_posted: 2015-07-10
 title: "Design OpenFarm Mascot"
 role: "Logo Designer"
 organization: "OpenFarm"
