@@ -7,7 +7,7 @@ github: github-username
 contact: email, github, irc channel, etc # How can people reach out to you?
 contributing_md: (optional) # A link to your contributing guidelines for newcomers
 contributors_md: (optional) # A list of contributors who are reach-out-able.
-url: http://organisation-website.com
+org_url: http://organisation-website.com
 tags: interface design, branding, logo
 status: searching / hired
 rate: gratis / $60 hour / $1000 total / etc...
