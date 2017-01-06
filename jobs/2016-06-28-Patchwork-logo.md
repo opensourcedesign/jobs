@@ -1,7 +1,7 @@
 ---
 layout: jobs
 title: Patchwork logo
-role: Job Role Logo Designer
+role: Logo Designer
 organization:
 github: https://github.com/getpatchwork/patchwork
 contact: https://github.com/stephenfin,irc:sfinucan,mailto:stephenfinucane@hotmail.com
