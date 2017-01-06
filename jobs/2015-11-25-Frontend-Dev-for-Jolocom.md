@@ -5,9 +5,9 @@ role: Job Role # Eg: front-end, ux design, data visualization, Javascript, CSS, 
 organization: Jolocom
 github: https://github.com/jolocom
 contact: joachim@jolocom.com
-url: http://jolocom.com
+org_url: http://jolocom.com
 tags: UI, D3js, JS, React
-status: searching / 
+status: searching /
 rate: part-time / 18hrs/week
 date_posted: 2015-11-25
 ---

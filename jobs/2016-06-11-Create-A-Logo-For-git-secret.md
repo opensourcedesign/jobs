@@ -5,7 +5,7 @@ role: Logo Designer
 organization: wemake.services
 github: https://github.com/sobolevn/git-secret
 contact: https://github.com/sobolevn
-url: https://sobolevn.github.io/git-secret/
+org_url: https://sobolevn.github.io/git-secret/
 tags: logo
 status: searching
 rate: gratis / in-app and website credit
@@ -14,7 +14,7 @@ date_posted: 2016-06-11
 
 `git-secret` is a bash-tool to store your private data inside a `git` repository.
 
-We are currently promoting this app quite rapidly, so we need a simple, but stylish logo to be easily recognized. 
+We are currently promoting this app quite rapidly, so we need a simple, but stylish logo to be easily recognized.
 You can check out these resources:
 
 - [Hacker News](https://news.ycombinator.com/item?id=11662364)

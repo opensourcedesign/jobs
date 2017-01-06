@@ -5,7 +5,7 @@ role: Designer
 organization: Value Flows
 github: valueflows
 contact: ahdinosaur on github
-url: https://valueflo.ws
+org_url: https://valueflo.ws
 tags: visual design, economic flows, diagrams, icons
 status: searching
 rate: gratis

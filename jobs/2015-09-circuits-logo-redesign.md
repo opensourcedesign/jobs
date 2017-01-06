@@ -5,7 +5,7 @@ role: Logo Designer
 organization: circuits
 github: circuits
 contact: prologic@shortcircuit.net.au, prologic, #circuits (FreeNode)
-url: http://circuitsframework.com/
+org_url: http://circuitsframework.com/
 tags: logo design, branding, logo
 status: searching
 rate: gratis

@@ -5,7 +5,7 @@ role: "UX Designer"
 organization: "Metta Center for Nonviolence"
 github: MettaCenter
 contact: tord.dellsen@gmail.com
-url: http://mettacenter.org
+org_url: http://mettacenter.org
 tags: interface design, branding, text layout
 status: solved
 rate: gratis

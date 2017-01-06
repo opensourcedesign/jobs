@@ -5,7 +5,7 @@ role: Job Role Logo Designer
 organization:
 github: https://github.com/getpatchwork/patchwork
 contact: https://github.com/stephenfin,irc:sfinucan,mailto:stephenfinucane@hotmail.com
-url: http://jk.ozlabs.org/projects/patchwork/
+org_url: http://jk.ozlabs.org/projects/patchwork/
 tags: branding, logo
 status: searching
 rate: gratis

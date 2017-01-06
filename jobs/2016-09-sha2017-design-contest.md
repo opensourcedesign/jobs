@@ -1,13 +1,13 @@
 ---
 layout: jobs
 title: SHA2017 Call for Designs
-role: Designer 
+role: Designer
 organization: SHA2017
 github: sha2017
-contact: design@sha2017.org 
-contributing_md: https://sha2017.org/call-for-design 
-contributors_md: realitygaps 
-url: https://sha2017.org
+contact: design@sha2017.org
+contributing_md: https://sha2017.org/call-for-design
+contributors_md: realitygaps
+org_url: https://sha2017.org
 tags: design, branding, logo, theme
 status: searching
 rate: gratis

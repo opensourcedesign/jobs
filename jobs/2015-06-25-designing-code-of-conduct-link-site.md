@@ -6,7 +6,7 @@ role: "UI Designer"
 organization: "Code of Conduct Link"
 contributing_md: https://github.com/emilyhorsman/codeofconductlink/blob/develop/code_of_conduct.md
 contributors_md: https://github.com/emilyhorsman/codeofconductlink/blob/develop/CONTRIBUTORS.md
-url: https://github.com/emilyhorsman/codeofconductlink
+org_url: https://github.com/emilyhorsman/codeofconductlink
 tags: interface design, branding, logo
 status: searching
 rate: gratis

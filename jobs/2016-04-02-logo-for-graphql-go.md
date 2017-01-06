@@ -5,9 +5,9 @@ role: Logo Designer, Brand / Identity Designer
 organization: graphql-go
 github: sogko
 contact: hafiz@wehavefaces.net, https://gitter.im/graphql-go/graphql
-contributing_md: (optional) 
-contributors_md: (optional) 
-url: https://github.com/graphql-go/graphql
+contributing_md: (optional)
+contributors_md: (optional)
+org_url: https://github.com/graphql-go/graphql
 tags: logo, golang, go, graphql
 status: searching
 rate: gratis / Negotiable

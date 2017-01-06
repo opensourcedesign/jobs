@@ -7,7 +7,7 @@ github: ameellio
 contact: UX@simplysecure.org
 contributing_md:
 contributors_md:
-url: https://simplysecure.org/
+org_url: https://simplysecure.org/
 tags: branding, visual design
 status: searching
 rate: Neogiated hourly rate

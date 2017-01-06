@@ -7,7 +7,7 @@ github: navit-gps
 contact: github ( navit-gps ), #navit on Freenode
 contributing_md:
 contributors_md:
-url: http://www.navit-project.org
+org_url: http://www.navit-project.org
 tags: interface design, icons
 status: searching
 rate: gratis

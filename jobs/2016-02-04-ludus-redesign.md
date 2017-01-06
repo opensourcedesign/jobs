@@ -7,7 +7,7 @@ github: FallenRiteMonk
 contact: fallenritemonk@gmail.com, FallenRitemonk
 contributing_md: (optional)
 contributors_md: (optional)
-url: http://fallenritemonk.github.io/ludus/
+org_url: http://fallenritemonk.github.io/ludus/
 tags: interface design, branding, logo
 status: searching
 rate: gratis / in-app and website credit

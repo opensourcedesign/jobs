@@ -7,7 +7,7 @@ github: ligurio
 contact: sergeyb@openvz.org
 contributing_md: (optional) # A link to your contributing guidelines for newcomers
 contributors_md: (optional) # A list of contributors who are reach-out-able.
-url: https://openvz.org
+org_url: https://openvz.org
 tags: design, branding, logo
 status: searching
 rate: gratis

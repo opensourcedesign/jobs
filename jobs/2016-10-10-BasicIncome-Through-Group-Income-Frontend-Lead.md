@@ -6,8 +6,8 @@ organization: okTurtles Foundation
 github: okTurtles
 contact: hi@okturtles.com
 contributing_md: https://github.com/okTurtles/group-income-simple/blob/master/CONTRIBUTING.md
-contributors_md: (optional) 
-url: https://groupincome.org/
+contributors_md: (optional)
+org_url: https://groupincome.org/
 tags: vuejs, decentralization, javascript, js, frontend, lead, basic income, basicincome
 status: closed
 rate: Paid, fulltime, negotiated

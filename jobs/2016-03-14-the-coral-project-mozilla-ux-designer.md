@@ -5,7 +5,7 @@ role: UX/UI Designer
 organization: Mozilla Foundation
 github: https://github.com/CoralProject
 contact: https://twitter.com/CoralProject
-url: https://coralproject.net
+org_url: https://coralproject.net
 tags: ui designer , ux designer , mozilla foundation , internet communities
 status: searching
 rate: paid

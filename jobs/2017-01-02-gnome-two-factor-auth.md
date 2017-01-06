@@ -2,7 +2,7 @@
 _id: aff49230-d09e-11e6-83c1-37ee8f07523d
 layout: jobs
 organization: Gnome TwoFactorAuth
-organization_url: 'https://github.com/bil-elmoussaoui/Gnome-TwoFactorAuth'
+org_url: 'https://github.com/bil-elmoussaoui/Gnome-TwoFactorAuth'
 title: Mockup and logo designer
 compensation: gratis
 status: searching

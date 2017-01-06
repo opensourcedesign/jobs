@@ -5,7 +5,7 @@ role: Logo Designer
 organization: Radio Witness Project
 github: rhodey
 contact: rhodey@anhonesteffort.org, @NotRhodey
-url: https://radiowitness.io
+org_url: https://radiowitness.io
 tags: branding, logo
 status: closed
 rate: gratis or $120 total

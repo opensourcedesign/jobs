@@ -7,7 +7,7 @@ github: ownpass
 contact: https://github.com/ownpass/ownpass, Freenode #ownpass
 contributing_md: https://github.com/ownpass/ownpass/blob/master/CONTRIBUTING.md
 contributors_md: https://github.com/ownpass/ownpass/graphs/contributors
-url: https://github.com/ownpass/ownpass/wiki
+org_url: https://github.com/ownpass/ownpass/wiki
 tags: interface design, branding, logo, ux, mobile
 status: searching
 rate: gratis

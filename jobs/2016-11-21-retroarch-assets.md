@@ -5,7 +5,7 @@ role: Icons Designer
 organization: libretro
 github: libretro
 contact: https://github.com/libretro/retroarch-assets/issues/17
-url: http://www.libretro.com
+org_url: http://www.libretro.com
 tags: icons, branding, logo, flatui
 status: searching
 rate: gratis

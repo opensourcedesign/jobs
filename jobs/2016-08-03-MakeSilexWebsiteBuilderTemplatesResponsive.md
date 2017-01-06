@@ -5,7 +5,7 @@ role: Template designer
 organization: Silex Labs
 github: silexlabs
 contact: contact at silexlabs.org
-url: https://www.silexlabs.org/
+org_url: https://www.silexlabs.org/
 tags: website templates, webdesign, design
 status: searching
 rate: gratis / we provide 1 to 1 support

@@ -5,10 +5,10 @@ role: UI Designer
 organization: bdavidxyz
 github: bdavidxyz
 contact: bdavidxyz@gmail.com
-contributing_md: 
-url: https://github.com/bdavidxyz/zee
+contributing_md:
+org_url: https://github.com/bdavidxyz/zee
 tags: interface design, branding, landing page
-status: searching 
+status: searching
 rate: gratis (open source)
 date_posted: 2016-04-20
 ---

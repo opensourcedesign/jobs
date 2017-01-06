@@ -3,7 +3,7 @@ layout: jobs
 title: LibreOffice user experience mentor
 role: UX Designer
 organization: The Document Foundation
-url: http://www.documentfoundation.org/
+org_url: http://www.documentfoundation.org/
 tags: interface design, ux, user experience
 status: searching
 rate: unspecified

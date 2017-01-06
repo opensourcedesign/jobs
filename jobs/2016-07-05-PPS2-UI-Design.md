@@ -5,9 +5,9 @@ role: UI/UX Designer
 organization: PLLUG Comunity
 github: guitarheroua
 contact: https://github.com/Guitarheroua
-contributing_md: (optional) 
-contributors_md: (optional) 
-url: http://pllug.org.ua/
+contributing_md: (optional)
+contributors_md: (optional)
+org_url: http://pllug.org.ua/
 tags: interface design,
 status: searching
 rate: gratis

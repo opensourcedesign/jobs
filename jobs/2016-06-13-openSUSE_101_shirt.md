@@ -7,7 +7,7 @@ github: ChrisBr
 contact: cbruckmayer@suse.com
 contributing_md: (optional)
 contributors_md: (optional)
-url: http://101.opensuse.org/
+org_url: http://101.opensuse.org/
 tags: shirt design
 status: searching
 rate: free shirt / swag / gratis

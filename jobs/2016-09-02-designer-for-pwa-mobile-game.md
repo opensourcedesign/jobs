@@ -7,7 +7,7 @@ github: morkro
 contact: write@moritz.berlin
 contributing_md: (optional) # A link to your contributing guidelines for newcomers
 contributors_md: (optional) # A list of contributors who are reach-out-able.
-url: http://moritz.berlin
+org_url: http://moritz.berlin
 tags: interface design
 status: searching
 rate: gratis

@@ -7,7 +7,7 @@ organization: "OpenFarm"
 github: openfarmcc
 contributing_md: https://github.com/openfarmcc/OpenFarm/blob/master/CONTRIBUTING.md
 contributors_md: https://github.com/openfarmcc/OpenFarm/graphs/contributors
-url: openfarm.cc
+org_url: openfarm.cc
 tags: logo
 status: closed
 rate: gratis, up for discussion

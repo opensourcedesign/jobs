@@ -7,7 +7,7 @@ github: openfarmcc, farmbot
 contact: rory@openfarm.cc, roryaronson, http://slack.openfarm.cc
 contributing_md: https://github.com/openfarmcc/OpenFarm/blob/master/CONTRIBUTING.md
 contributors_md: http://slack.openfarm.cc
-url: http://openfarm.cc, http://farmbot.io, http://hortomatic.com
+org_url: http://openfarm.cc, http://farmbot.io, http://hortomatic.com
 tags: icon design, icons, plants, crops, svg
 status: searching / hired
 rate: gratis

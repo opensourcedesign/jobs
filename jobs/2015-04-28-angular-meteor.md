@@ -7,7 +7,7 @@ github: urigo/angular-meteor
 contact: simonv3 on github
 contributing_md:
 contributors_md:
-url: http://angularjs.meteor.com
+org_url: http://angularjs.meteor.com
 tags: angular, meteor, branding, documentation, information architecture
 status: searching
 rate: gratis
