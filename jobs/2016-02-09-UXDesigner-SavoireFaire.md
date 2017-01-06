@@ -1,14 +1,14 @@
 ---
 layout: jobs
 title: UX/UI Designer
-role: Job Role # Eg: Logo Designer, UX Designer
+role: UX/UI Designer
 organization: Savoir-faire Linux
 github: savoirfairelinux
 contact: https://jobs.savoirfairelinux.com/#uxui-designer
 contributing_md: (optional) 
 contributors_md: (optional) 
 url: https://jobs.savoirfairelinux.com/#uxui-designer
-tags: Quebec, Ux Designer
+tags: Quebec, UX Designer
 status: searching
 rate: full time
 date_posted: 2016-02-09
