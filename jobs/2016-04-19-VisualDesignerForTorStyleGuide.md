@@ -9,7 +9,7 @@ contributing_md:
 contributors_md:
 org_url: https://simplysecure.org/
 tags: branding, visual design
-status: searching
+status: solved
 rate: negotiated hourly rate
 date_posted: 2016-04-19
 ---
