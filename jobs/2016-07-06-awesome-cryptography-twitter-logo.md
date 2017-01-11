@@ -7,7 +7,7 @@ github: https://github.com/sobolevn/awesome-cryptography
 contact: https://github.com/sobolevn
 org_url: https://twitter.com/awe_crypto_bot
 tags: logo
-status: searching
+status: solved
 rate: gratis / twitter-account credit
 date_posted: 2016-06-11
 ---
