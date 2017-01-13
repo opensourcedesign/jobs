@@ -9,7 +9,7 @@ contributing_md: https://sha2017.org/call-for-design
 contributors_md: realitygaps
 org_url: https://sha2017.org
 tags: design, branding, logo, theme
-status: searching
+status: closed
 rate: gratis
 date_posted: 2016-09-13
 ---
