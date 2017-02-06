@@ -2,7 +2,7 @@
 layout: jobs
 title: Testing/re-designing InspectorWidget
 role: UX/UI Designer/Researcher
-organization: Public research: Inria Lille, CNRS, University of Mons
+organization: Public research - Inria Lille, CNRS, University of Mons
 github: ChristianFrisson
 contact: https://github.com/InspectorWidget
 contributing_md: https://github.com/InspectorWidget/InspectorWidget/blob/master/README.md
@@ -14,7 +14,7 @@ rate: gratis (free beers if and whenever we meet in Brussels or Lille)
 date_posted: 2017-02-06
 ---
 
-InspectorWidget is an opensource suite to track and analyze users behaviors in their applications. 
+InspectorWidget is an opensource suite to track and analyze users behaviors in their applications.
 The [Collector](https://github.com/InspectorWidget/InspectorWidgetCollector) tool logs desktop usage: screen video, mouse+keyboard events, a Document Object Model (DOM) of widgets for each application window through accessibility APIs.
 The [Iterator](https://github.com/InspectorWidget/InspectorWidgetIterator) tool allows to: browse these recordings; program annotations to track the states and events of widgets, windows, applications, and objects in the scene; and extract metrics for quantitative analysis of workflows.
 
