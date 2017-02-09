@@ -10,7 +10,7 @@ jobs:
   allowedFields: ["organization", "org_url", "compensation",
                   "paid_details", "title", "description", "skills",
                   "how_to_apply", "links", "tags", "status", "date_posted",
-                  "layout", "rate"]
+                  "layout", "rate", "role"]
 
   # (*) REQUIRED WHEN USING NOTIFICATIONS
   #
