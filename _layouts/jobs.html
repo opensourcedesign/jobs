@@ -14,10 +14,10 @@ layout: default
       <label for="date">Date Posted:</label> <span id="date" class="date">{{ page.date_posted }}</span><br/>
       <label>Tagged as:</label> <span id="tags" class="rate">{{ page.tags }}</span><br/>
     </div>
-    <div class="title">
-      {% if page.title %}
-      <label for="title">Job title:</label>
-        {{ page.title }}
+    <div class="role">
+      {% if page.role %}
+      <label for="skills">Role:</label>
+        {{ page.role }}
       {% endif %}
     </div>
     <div class="skills">
