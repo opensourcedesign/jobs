@@ -10,6 +10,8 @@ tags: UI, D3js, JS, React
 status: searching
 rate: part-time / 18hrs/week
 date_posted: 2015-11-25
+description:
+how_to_apply:
 ---
 FRONTEND DEVELOPER / DESIGNER (F/M)
 

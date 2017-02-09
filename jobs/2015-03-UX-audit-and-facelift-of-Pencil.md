@@ -10,6 +10,8 @@ tags: ux audit, product refinement, interface design, logo
 status: searching
 rate: unspecified
 date_posted: 2015-03-11
+description:
+how_to_apply:
 ---
 
 Pencil is a promising feature rich wireframe tool for multiple desktop platforms. However, upon using it there are fair number of UX quirks and bugs that lay in code. Performing an official UX audit and creating issues for these bugs is in order.

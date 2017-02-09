@@ -12,6 +12,8 @@ tags: interface design, branding, logo
 status: searching
 rate: gratis
 date_posted: 2016-05-02
+description:
+how_to_apply:
 ---
 
 The [Community Design Group](https://blog.mozilla.org/community/2016/03/31/participation-lab-notes-the-sweet-spot-between-constraint-and-freedom/) collects design requests from various teams and communities related to Mozilla.

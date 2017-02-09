@@ -11,6 +11,8 @@ tags: interface design, branding, landing page
 status: searching
 rate: gratis
 date_posted: 2016-04-20
+description:
+how_to_apply:
 ---
 
  I'm writing an open-source tool dedicated to landing-page : https://bdavidxyz.github.io/zee/

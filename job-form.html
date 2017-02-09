@@ -1,0 +1,207 @@
+---
+permalink: '/job-form/'
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Use this form to publish a job in Open Source Design">
+
+    <title>Submit a job to Open Source Design</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="/jobs/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles -->
+    <link href="/jobs/css/custom.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+      <div class="row col-md-9">
+
+        <h1>Submit a job to Open Source Design</h1>
+        <p class="lead">Let the community know you are looking for design contributions. If your free / open source project needs some design work, use this form to submit a job to Open Source Design.</p>
+        <p class="lead"><a href="http://opensourcedesign.net/code-of-conduct/">We have a code of conduct</a>. Consider reading it before submitting your job.</p>
+        <form method="POST" action="https://api.staticman.net/v2/entry/opensourcedesign/jobs/gh-pages/jobs">
+          <input name="options[redirect]" type="hidden" value="http://opensourcedesign.net/jobs/thank-you/">
+          <input name="fields[status]" type="hidden" value="searching">
+          <input name="fields[date_posted]" type="hidden">
+          <input name="fields[layout]" type="hidden" value="jobs">
+          <!--div class="form-group">
+            <label for="role">Role</label>
+            <p class="help-block">The type of designer you are looking for. You could use one of these: graphic designer, icon designer, interaction designer, information architect, user researcher, content strategist, accessibility expert.</p>
+            <input type="text" class="form-control" id="role" placeholder="E.g. Graphic designer" required>
+          </div-->
+          <fieldset>
+            <legend>About you</legend>
+            <div class="form-group">
+              <label for="organization">Organisation</label>
+              <p class="help-block">The name of your company, organisation or project.</p>
+              <input type="text"
+                class="form-control"
+                id="organization"
+                placeholder="E.g. AcmeProjects"
+                name="fields[organization]"
+                required>
+            </div>
+            <div class="form-group">
+              <label for="org_url">Organisation's URL</label>
+              <p class="help-block">A link to the organisation you entered above.</p>
+              <input type="url"
+                class="form-control"
+                id="org_url"
+                placeholder="E.g. https://www.acmeprojects.org"
+                name="fields[org_url]"
+                required>
+            </div>
+          </fieldset>
+          <fieldset>
+            <legend>About the job</legend>
+            <div class="form-group">
+              <label for="title">Job title</label>
+              <p class="help-block">This will be the main heading in your job's page. Make it specific, but not too long. You could include a role and the name of your project.</p>
+              <input type="text"
+                class="form-control"
+                id="title"
+                placeholder="E.g. Graphic designer for OpenAcme"
+                name="fields[title]"
+                required>
+            </div>
+            <div class="form-group">
+              <label>Compensation</label>
+              <p class="help-block">The type of remuneration on offer.</p>
+              <div class="radio">
+                <label>
+                  <input type="radio"
+                    name="fields[compensation]"
+                    id="gratis"
+                    value="gratis"
+                    checked>
+                  Gratis (we can't pay)
+                </label>
+              </div>
+              <div class="radio">
+                <label>
+                  <input type="radio"
+                    name="fields[compensation]"
+                    id="paid"
+                    value="paid">
+                  Paid (yes, we can pay!)
+                </label>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="paid_details">
+                How much can you pay?
+                <small>(optional)</small>
+              </label>
+              <p class="help-block">Give some information about the payment offered. Try to be specific. A fixed amount or a range are good. Avoid things like "competitive": they are not very informative.</p>
+              <input type="text"
+                class="form-control"
+                id="fields[paid_details]"
+                placeholder="E.g. USD 5000 fixed rate"
+                name="paid_details">
+            </div>
+            <div class="form-group">
+              <label for="description">Job description</label>
+              <p class="help-block">Include a brief introduction to your project, and explain the design work needed.</p>
+              <textarea class="form-control"
+                id="description"
+                rows="5"
+                name="fields[description]"
+                required></textarea>
+              <small>Markdown is okay</small>
+            </div>
+            <div class="form-group">
+              <label for="skills">
+                Deliverables
+                <small>(optional)</small>
+              </label>
+              <p class="help-block">If appropriate, list the things you expect the designer to deliver. For example: a logo and a set of icons.</p>
+              <textarea class="form-control"
+                id="skills"
+                rows="5"
+                name="fields[skills]"></textarea>
+              <small>Markdown is okay</small>
+            </div>
+            <div class="form-group">
+              <label for="how_to_apply">How to apply</label>
+              <p class="help-block">How to express interest on the job. At minimum, include contact information. If you would like to see a CV or a portfolio, say so.</p>
+              <textarea class="form-control"
+                id="how_to_apply"
+                rows="5"
+                required
+                name="fields[how_to_apply]"></textarea>
+              <small>Markdown is okay</small>
+            </div>
+            <div class="form-group">
+              <label for="links">
+                Relevant links
+                <small>(optional)</small>
+              </label>
+              <p class="help-block">Things like source code repositories, existing design work, project wiki or blog, etc.</p>
+              <textarea class="form-control"
+                id="links"
+                rows="5"
+                name="fields[how_to_apply]"></textarea>
+            </div>
+            <div class="form-group">
+              <label for="tags">
+                Tags
+                <small>(optional)</small>
+              </label>
+              <p class="help-block">Keywords relevant to the job. Separate tags with commas.</p>
+              <textarea class="form-control"
+                id="tags"
+                rows="2"
+                placeholder="E.g. logo, branding, graphic design"
+                name="fields[tags]"></textarea>
+            </div>
+          </fieldset>
+          <button type="submit" href="thankyou.html" class="btn btn-primary btn-lg">Submit your job to Open Source Design</button>
+        </form>
+
+      </div>
+    </div>
+
+    <script src="/jobs/js/jquery.min.js"></script>
+    <script src="/jobs/js/bootstrap.min.js"></script>
+
+    <script>
+
+        function compensation() {
+          if ( $("#gratis").is(":checked") ) {
+            $("#paid_details").parent().slideUp();
+          }
+          else {
+            $("#paid_details").parent().slideDown();
+          }
+        }
+
+        $(document).ready(function() {
+
+          compensation();
+
+          $("input:radio").click(function(){
+            compensation();
+          });
+
+          var date = new Date();
+          var day = ("0" + date.getDate()).slice(-2);
+          var month = ("0"+(date.getMonth()+1)).slice(-2);
+          var year = date.getFullYear();
+
+          var datestring = year + "-" + month + "-" + day;
+
+          $('[name="fields[date_posted]"]').val(datestring);
+
+      });
+    </script>
+  </body>
+
+</html>

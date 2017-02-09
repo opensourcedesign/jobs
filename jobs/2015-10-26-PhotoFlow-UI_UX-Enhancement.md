@@ -10,6 +10,8 @@ tags: interface design, usability enhancement
 status: searching
 rate: gratis
 date_posted: 2015-10-26
+description:
+how_to_apply:
 ---
 PhotoFlow is a quite recent image editor project, still in its early phases of development.
 

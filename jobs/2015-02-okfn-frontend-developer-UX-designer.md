@@ -9,6 +9,8 @@ tags: front-end, ux design, data visualization, javsacript, CSS, HTML, interface
 status: searching
 rate: competitive
 date_posted: 2015-02-13
+description:
+how_to_apply:
 ---
 
 # Frontend Developer and UX Designer for Data-Driven Project

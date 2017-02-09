@@ -12,6 +12,8 @@ tags: interface design
 status: searching
 rate: gratis
 date_posted: 2016-09-02
+description:
+how_to_apply:
 ---
 
 I am looking for a designer to partner me for my currently in development progressive web app.

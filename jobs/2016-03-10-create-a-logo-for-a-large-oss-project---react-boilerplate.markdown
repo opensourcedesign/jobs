@@ -11,6 +11,8 @@ org_url: https://github.com/mxstbr/react-boilerplate/issues/121
 tags: logo, design
 status: searching
 rate: gratis
+description:
+how_to_apply:
 ---
 
 react-boilerplate is one of the most popular starter kits for react.js that exists, but still doesn't have a proper logo.  It needs a logo to show "window shoppers" we're committed and are going to maintain it for the foreseeable future.

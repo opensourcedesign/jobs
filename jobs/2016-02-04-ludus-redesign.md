@@ -12,6 +12,8 @@ tags: interface design, branding, logo
 status: searching
 rate: gratis / in-app and website credit
 date_posted: 2016-02-04
+description:
+how_to_apply:
 ---
 Hy,
 this is my hobby project, a fun little android game.

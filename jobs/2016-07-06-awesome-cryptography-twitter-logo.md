@@ -10,6 +10,8 @@ tags: logo
 status: solved
 rate: gratis / twitter-account credit
 date_posted: 2016-06-11
+description:
+how_to_apply:
 ---
 
 [`awesome-cryptography`](https://github.com/sobolevn/awesome-cryptography) is a curated list of cryptography resources and links.

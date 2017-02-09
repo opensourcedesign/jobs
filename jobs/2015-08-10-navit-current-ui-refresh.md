@@ -12,6 +12,8 @@ tags: interface design, icons
 status: searching
 rate: gratis
 date_posted: 2015-08-10
+description:
+how_to_apply:
 ---
 
 Navit is the opensource, vector based navigation software, running on almost any device, from Tomtom to the laster Android phone.

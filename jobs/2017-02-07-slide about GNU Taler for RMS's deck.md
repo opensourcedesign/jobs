@@ -15,4 +15,3 @@ how_to_apply:
 tags: 'slides, teaching, illustration, handdrawing'
 date: '2017-02-07T09:46:09.006Z'
 ---
-undefined

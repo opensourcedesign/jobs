@@ -12,6 +12,8 @@ tags: logo, golang, go, graphql
 status: searching
 rate: gratis / Negotiable
 date_posted: 2016-04-02
+description:
+how_to_apply:
 ---
 
 [`graphql-go`](https://github.com/graphql-go/graphql) is a young but ambitious project that aims to provide to the community, a library that allows them to build GraphQL servers on Go / Golang.

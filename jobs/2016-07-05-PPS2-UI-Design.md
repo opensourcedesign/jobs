@@ -12,6 +12,8 @@ tags: interface design,
 status: searching
 rate: gratis
 date_posted: 2016-07-05
+description:
+how_to_apply:
 ---
 We need some professional help from designer, to create UI for our open source presentation editor-viewer project.
 

@@ -9,6 +9,8 @@ tags: interface design, branding, logo
 status: solved
 rate: gratis, open source
 date_posted: 2015-02-15
+description:
+how_to_apply:
 ---
 
 Guitarix is a rack-based multi-effect audio software for linux.

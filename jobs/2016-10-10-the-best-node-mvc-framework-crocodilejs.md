@@ -11,6 +11,8 @@ tags: logo, design, mvc, node, framework, koa, crocodile, es7, es6, babel, nunju
 status: searching
 rate: gratis
 date_posted: 2016-10-10
+description:
+how_to_apply:
 ---
 
 # CrocodileJS Node JS MVC Framework Logo

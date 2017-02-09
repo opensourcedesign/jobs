@@ -12,6 +12,8 @@ tags: icon design, icons, plants, crops, svg
 status: searching
 rate: gratis
 date_posted: 2015-09-26
+description:
+how_to_apply:
 ---
 
 Hi!

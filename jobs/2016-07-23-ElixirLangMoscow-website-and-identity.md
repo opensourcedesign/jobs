@@ -10,6 +10,8 @@ tags: interface design, branding, logo
 status: solved
 rate: gratis
 date_posted: 2016-07-23
+description:
+how_to_apply:
 ---
 
 We are launching first [`Elixir`](http://elixir-lang.org/) meetups in Russia.

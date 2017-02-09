@@ -12,6 +12,8 @@ tags: design, branding, logo
 status: searching
 rate: gratis
 date_posted: 2015-08-27
+description:
+how_to_apply:
 ---
 
 We are looking for designer who can help us to make a brand guideline for our project.

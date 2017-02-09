@@ -12,6 +12,8 @@ tags: logo
 status: closed
 rate: gratis, up for discussion
 contact: simonv3 on twitter or post on github
+description:
+how_to_apply:
 ---
 
 OpenFarm is a free and open database and web application for farming and gardening knowledge.

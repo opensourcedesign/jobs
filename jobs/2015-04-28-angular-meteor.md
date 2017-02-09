@@ -12,6 +12,8 @@ tags: angular, meteor, branding, documentation, information architecture
 status: searching
 rate: gratis
 date_posted: 2015-04-28
+description:
+how_to_apply:
 ---
 
 Angular Meteor is trying to figure out how to tackle the emergence of Angular 2, and how the angular-meteor team should tackle that on their website. This is a quick job that involves planning the layout of a more information page, as well as some visual tweaks to the angular-meteor tutorial app.

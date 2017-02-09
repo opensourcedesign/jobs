@@ -9,6 +9,8 @@ tags: cocoa, mac, os x, encryption, security, plausible deniability
 status: searching
 rate: negotiated hourly rate
 date_posted: 2015-03-18
+description:
+how_to_apply:
 ---
 
 # Toward Sustainable Open Source Development. Cocoa Developer Wanted.

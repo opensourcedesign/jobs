@@ -9,6 +9,8 @@ tags: interface design
 status: searching
 rate: 5k - 10k fixed bid
 date_posted: 2016-10-13
+description:
+how_to_apply:
 ---
 
 The [Open Observatory of Network Interference (OONI)](https://ooni.torproject.org),

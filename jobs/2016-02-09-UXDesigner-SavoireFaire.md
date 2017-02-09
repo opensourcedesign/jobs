@@ -5,17 +5,19 @@ role: UX/UI Designer
 organization: Savoir-faire Linux
 github: savoirfairelinux
 contact: https://jobs.savoirfairelinux.com/#uxui-designer
-contributing_md: (optional) 
-contributors_md: (optional) 
+contributing_md: (optional)
+contributors_md: (optional)
 url: https://jobs.savoirfairelinux.com/#uxui-designer
 tags: Quebec, UX Designer
 status: searching
 rate: full time
 date_posted: 2016-02-09
+description:
+how_to_apply:
 ---
-At Savoir-faire Linux design and free software go hand in hand, for we understand they are both basically collaborative, participatory and open processes. 
-UX design in particular is a driving force of our projects. As a UX/UI designer we want you to get actively involved in the project and share your ideas. 
-You will work on various cases (websites, web apps, mobile apps...), provide expert assistance to our customers, and have the opportunity to develop our internal tools. 
+At Savoir-faire Linux design and free software go hand in hand, for we understand they are both basically collaborative, participatory and open processes.
+UX design in particular is a driving force of our projects. As a UX/UI designer we want you to get actively involved in the project and share your ideas.
+You will work on various cases (websites, web apps, mobile apps...), provide expert assistance to our customers, and have the opportunity to develop our internal tools.
 If you think that the fight for good design is a fight for an equal, open, and more accessible web, as Mike Monteiro put it, then we look forward to meeting you.
 
 **Responsibilities**

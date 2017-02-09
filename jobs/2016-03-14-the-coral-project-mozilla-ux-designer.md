@@ -10,6 +10,8 @@ tags: ui designer , ux designer , mozilla foundation , internet communities
 status: searching
 rate: paid
 date_posted: 2016-03-14
+description:
+how_to_apply:
 ---
 
 Many online communities are fragile, toxic spaces. Some people have given up on engagement altogether. But we believe that healthy online communities can exist, given the right systems and tools.

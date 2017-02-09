@@ -12,12 +12,40 @@ layout: default
       <label for="status">Status:</label> <span id="status" class="status">{{ page.status }}</span><br/>
       <label for="rate">Rate:</label> <span id="rate" class="rate">{{ page.rate }}</span><br/>
       <label for="date">Date Posted:</label> <span id="date" class="date">{{ page.date_posted }}</span><br/>
-      <span id="tags" class="rate">{{ page.tags }}</span><br/>
-      <label for="how_to_apply">How to apply:</label> <span id="how_to_apply" class="how-to-apply">{{ page.how_to_apply }}</span><br/>
+      <label>Tagged as:</label> <span id="tags" class="rate">{{ page.tags }}</span><br/>
     </div>
+    <div class="title">
+      {% if page.title %}
+      <label for="title">Job title:</label>
+        {{ page.title }}
+      {% endif %}
+    </div>
+    <div class="skills">
+      {% if page.skills %}
+      <label for="skills">Skills:</label>
+        {{ page.skills }}
+      {% endif %}
+    </div>
+    <div class="how_to_apply">
+      {% if page.how_to_apply %}
+      <label for="how_to_apply">How to apply:</label>
+        {{ page.how_to_apply }}
+      {% endif %}
+    </div>
+    <div class="links">
+      {% if page.links %}
+      <label for="links">Links:</label>
+        {{ page.links }}
+      {% endif %}
+    </div>
+
+    <div class="description">
+      {% if page.description %}{{ page.description | markdownify }}{% endif %}
+    </div>
+
   </header>
 
-  <article class="post-content">
+  <article class="post-content" data="{{content}}">
     {{ content }}
   </article>
 

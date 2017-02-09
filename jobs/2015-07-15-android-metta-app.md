@@ -10,6 +10,8 @@ tags: interface design, branding, text layout
 status: solved
 rate: gratis
 date_posted: 2015-07-15
+description:
+how_to_apply:
 ---
 
 The Metta Center for Nonviolence is looking for a designer who want to help out with a free open source software app project for Android

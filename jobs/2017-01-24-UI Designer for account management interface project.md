@@ -13,5 +13,6 @@ how_to_apply:
   - "Example of pages to be redesigned: \r\nhttp://www.imagebam.com/gallery/z4vl1q6i4ga6cr3vmymulndbvaduntim\r\n\r\nPages from new application theme: \r\nhttp://www.imagebam.com/gallery/tzpc5x71it9h1yz1ef07ib7ansm7nl4h"
 tags: 'ui, ux, web, css, inkscape, phplist'
 date: '2017-01-24T12:03:58.981Z'
+description:
 ---
 phpList is redesigning the account management pages for our hosted platform which provides Open Source email marketing services to tens of thousands of customers. We have a new application interface (using bootstrap) and now need to design the account management pages to compliment it.

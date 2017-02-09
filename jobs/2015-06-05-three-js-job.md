@@ -9,6 +9,8 @@ tags: Three.js, 3d, WebGL, design, branding, Archetecture
 status: searching
 rate: salary depending on skill level and experience
 date_posted: 2015-06-04
+description:
+how_to_apply:
 ---
 
 We are looking to bring a developer who specializes WebGL/Three.js on board to help us build out our new project. It's a great opportunity to work in a new and exciting space, where art, design, technology and fashion meet.
