@@ -18,7 +18,7 @@ Our job submission process is done **"in the open"** so if you work on an open s
 
 **Easiest:**
 
-1. Go to [our form](http://opensourcedesign.net/opensrcdesignjobs/) and fill in the details,
+1. Go to [our form](http://opensourcedesign.net/jobs/job-form/) and fill in the details,
 2. Submit the form,
 3. Wait for us to approve your job posting,
 4. Have a margarita or a hot chocolate.
