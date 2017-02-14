@@ -6,7 +6,7 @@ organization: OKFN
 github: okfn
 org_url: http://okfn.org
 tags: front-end, ux design, data visualization, javsacript, CSS, HTML, interface design, agile
-status: searching
+status: closed
 rate: competitive
 date_posted: 2015-02-13
 description:
