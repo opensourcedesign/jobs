@@ -32,6 +32,7 @@ permalink: '/job-form/'
           <input name="fields[status]" type="hidden" value="searching">
           <input name="fields[date_posted]" type="hidden">
           <input name="fields[layout]" type="hidden" value="jobs">
+          <input name="options[slug]" type="hidden" id="slug" value="">
           <!--div class="form-group">
             <label for="role">Role</label>
             <p class="help-block">The type of designer you are looking for. You could use one of these: graphic designer, icon designer, interaction designer, information architect, user researcher, content strategist, accessibility expert.</p>
@@ -195,7 +196,29 @@ permalink: '/job-form/'
           }
         }
 
+        function slug (str) {
+          str = str.replace(/^\s+|\s+$/g, ''); // trim
+          str = str.toLowerCase();
+
+          // remove accents, swap ñ for n, etc
+          var from = "ãàáäâẽèéëêìíïîõòóöôùúüûñç·/_,:;";
+          var to   = "aaaaaeeeeeiiiiooooouuuunc------";
+          for (var i=0, l=from.length ; i<l ; i++) {
+            str = str.replace(new RegExp(from.charAt(i), 'g'), to.charAt(i));
+          }
+
+          str = str.replace(/[^a-z0-9 -]/g, '') // remove invalid chars
+            .replace(/\s+/g, '-') // collapse whitespace and replace by -
+            .replace(/-+/g, '-'); // collapse dashes
+
+          return str;
+        }
+
         $(document).ready(function() {
+
+          $('input#title').keyup(function (e) {
+            $('input#slug').val(slug(e.target.value));
+          });
 
           compensation();
 
