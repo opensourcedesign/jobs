@@ -6,6 +6,7 @@ layout: jobs
 organization: Elizabeth Python Library
 org_url: 'https://github.com/lk-geimfari/elizabeth'
 title: Graphic designer for Elizabeth
+slug: graphic-designer-for-elizabeth
 role: Graphic Designer
 compensation: gratis
 skills: A logo
