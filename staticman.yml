@@ -82,3 +82,6 @@ jobs:
   # the name of the field and values are possible transformation types.
   transforms:
     description: "frontmatterContent"
+
+  # Sets the title for the commit
+  commitMessage: "{fields.title}"
