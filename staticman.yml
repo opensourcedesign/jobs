@@ -83,5 +83,5 @@ jobs:
   transforms:
     description: "frontmatterContent"
 
-  # Sets the title for the commit
-  commitMessage: "{fields.title}"
+  # Sets the title for the commit. Doesn't work yet. https://github.com/eduardoboucas/staticman/issues/79
+  # commitMessage: "{fields.title}"
