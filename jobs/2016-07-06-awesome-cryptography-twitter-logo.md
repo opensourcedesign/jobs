@@ -1,4 +1,5 @@
 ---
+_id: 00000000-0000-0000-0000-000000000042
 layout: jobs
 title: Create a logo for `awesome-cryptography` twitter account
 role: Logo Designer

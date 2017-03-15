@@ -1,4 +1,5 @@
 ---
+_id: 00000000-0000-0000-0000-000000000040
 layout: jobs
 title: Patchwork logo
 role: Logo Designer

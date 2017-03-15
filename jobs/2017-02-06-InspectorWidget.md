@@ -1,4 +1,5 @@
 ---
+_id: 00000000-0000-0000-0000-000000000057
 layout: jobs
 title: Testing/re-designing InspectorWidget
 role: UX/UI Designer/Researcher

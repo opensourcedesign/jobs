@@ -1,4 +1,5 @@
 ---
+_id: 00000000-0000-0000-0000-000000000006
 layout: jobs
 title: Create Audio Software Interface
 role: GUI Designer

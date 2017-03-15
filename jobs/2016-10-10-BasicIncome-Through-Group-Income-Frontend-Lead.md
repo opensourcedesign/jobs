@@ -1,4 +1,5 @@
 ---
+_id: 00000000-0000-0000-0000-000000000050
 layout: jobs
 title: Voluntary Basic Income Through Group Income
 role: Lead Frontend Developer

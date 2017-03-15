@@ -1,4 +1,5 @@
 ---
+_id: 00000000-0000-0000-0000-000000000035
 layout: jobs
 title: Logo for graphql-go project
 role: Logo Designer, Brand / Identity Designer

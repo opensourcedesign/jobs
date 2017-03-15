@@ -1,4 +1,5 @@
 ---
+_id: 00000000-0000-0000-0000-000000000039
 layout: jobs
 title: openSUSE Summer of Code Shirt design
 role: Designer

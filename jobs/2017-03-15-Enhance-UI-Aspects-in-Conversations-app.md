@@ -1,4 +1,5 @@
 ---
+_id: 00000000-0000-0000-0000-000000000058
 layout: jobs
 title: More Material Elements in XMPP Chat app
 role: UI Designer & Coder 
@@ -11,6 +12,8 @@ rate: gratis
 date_posted: 2017-03-15
 ---
 
-<h4>Conversations is a modern XMPP chat client for android <h4/>
-             It already has some nice material design, but I think it would benefit from some more material elements like mentioned in that issue.
+Conversations is a modern XMPP chat client for android. It already has some nice
+material design, but I think it would benefit from some more material elements
+like mentioned in that issue.
+
 Thanks in advance! 😊

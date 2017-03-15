@@ -1,4 +1,5 @@
 ---
+_id: 00000000-0000-0000-0000-000000000038
 layout: jobs
 title: Create a logo for `git-secret`
 role: Logo Designer
