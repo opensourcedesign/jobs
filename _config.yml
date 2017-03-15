@@ -121,7 +121,7 @@ prose:
           label: "Roles"
           placeholder: "Roles"
           options: *roles
-          selected: "general-help"
+          selected: ""
       - name: "compensation"
         field:
           element: "select"
