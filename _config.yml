@@ -22,6 +22,10 @@ prose:
   siteurl: 'http://opensourcedesign.net'
   metadata:
     jobs:
+      - name: "_id"
+        field:
+          element: "hidden"
+          value: ""
       - name: "layout"
         field:
           element: "hidden"
@@ -31,10 +35,15 @@ prose:
           element: "text"
           label: "Title"
           value: ""
-      - name: "tags"
+      - name: "organization"
         field:
           element: "text"
-          label: "Tags"
+          label: "Organization"
+          value: ""
+      - name: "org_url"
+        field:
+          element: "text"
+          label: "Organization URL"
           value: ""
       - name: "status"
         field:
@@ -110,3 +119,18 @@ prose:
               value: "part-time"
             - name: "Full Time Position"
               value": "full-time"
+      - name: "tags"
+        field:
+          element: "text"
+          label: "Tags"
+          value: ""
+      - name: "skills"
+        field:
+          element: "textarea"
+          label: "Skills"
+          value: ""
+      - name: "how_to_apply"
+        field:
+          element: "textarea"
+          label: "How To Apply"
+          value: ""
