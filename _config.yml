@@ -14,3 +14,61 @@ permalink: /:month-:day-:year/:title.html
 
 kramdown:
   input: GFM
+
+# Prose Config - what is seen at https://edit.opensourcedesign.net
+# Docs: https://github.com/prose/prose/wiki/Prose-Configuration
+prose:
+  rooturl: 'jobs'
+  siteurl: 'http://opensourcedesign.net'
+  metadata:
+    jobs:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "jobs"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "tags"
+        field:
+          element: "text"
+          label: "hip edgy classic"
+          value: ""
+      - name: "role"
+        field:
+          element: "multiselect"
+          label: "Job Role"
+          placeholder: "Choose Roles"
+          options:
+            - name: "Font Design"
+              value: "font-design"
+            - name: "Logo Design"
+              value: "logo-design"
+            - name: "Icon Design"
+              value: "icon-design"
+            - name: "Styleguide"
+              value: "styleguide"
+            - name: "Website Design"
+              value: "website-design"
+            - name: "App Interface Design"
+              value: "app-interface-design"
+            - name: "User Experience Design"
+              value: "user-experience-design"
+            - name: "Usability Testing"
+              value: "usability-testing"
+            - name: "Wireframe Prototyping"
+              value: "wireframe-prototyping"
+            - name: "Data Visualization"
+              value: "data-visualization"
+            - name: "Information Architecture"
+              value: "information-architecture"
+            - name: "Product Design"
+              value: "product-design"
+            - name: "Print Design"
+              value: "print-design"
+            - name: "Packaging Design"
+              value: "packaging-design"
+            - name: "Other"
+              value: "other"
