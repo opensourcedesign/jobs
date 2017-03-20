@@ -1,18 +1,20 @@
 ---
 _id: 00000000-0000-0000-0000-000000000058
+status: searching
+date_posted: '2017-03-15'
 layout: jobs
 title: More Material Elements in XMPP Chat app
-role: UI Designer & Coder 
+role: 'UI Designer & Coder'
 organization: Conversations
-org_url: https://conversations.im
+org_url: 'https://conversations.im'
 github: https://githib.com/siacs/conversations
-tags: interface design, UI, Material Design, Android app, XMPP, Chat
-status: searching
 rate: gratis
-skills:
+skills: 'Material design for Android platform' 
 how_to_apply:
-  - Interested? [Respond to this issue](https://github.com/siacs/Conversations/issues/2327) 
-date_posted: 2017-03-15
+  - "Are you interested? Respond to the issue."
+  - 'https://github.com/siacs/Conversations/issues/2327'
+tags: 'interface design, UI, Material Design, Android app, XMPP, Chat'
+date: '2017-03-15'
 ---
 
 Conversations is a modern XMPP chat client for android. It already has some nice
