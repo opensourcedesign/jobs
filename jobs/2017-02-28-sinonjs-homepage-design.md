@@ -19,6 +19,8 @@ tags: ''
 date: '2017-02-28T09:04:20.067Z'
 ---
 
-The new Sinon.JS homepage is up 🎉 and it needs help! @mroderick invested a significant amount of time to make a new Jekyll page that is now hosted on GitHub.
+The new Sinon.JS homepage is up 🎉 and it needs help! @mroderick invested a
+significant amount of time to make a new Jekyll page that is now hosted on
+GitHub.
 
 We would ❤️ some help with the design of the page.

@@ -15,4 +15,3 @@ how_to_apply:
 tags: ''
 date: '2017-02-05T15:48:39.074Z'
 ---
-undefined

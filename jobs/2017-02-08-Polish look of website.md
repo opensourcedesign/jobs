@@ -20,5 +20,4 @@ how_to_apply:
 tags: logo
 date: '2017-02-08T17:03:35.589Z'
 timestamp: 1486573415
-id: 1486573415
 ---

@@ -15,10 +15,17 @@ how_to_apply:
 tags: ''
 date: '2017-02-27T13:44:21.012Z'
 ---
-The project is an culinary APP, where the users can post and serch culinary recipes. The differential in this APP is that the user can search recipes by the ingredients they have at home.
-Some like: "What can I cook with <this things...>".
-We already have screen prototypes(are just six screens), but we want someone who let this beautiful :)
+The project is an culinary APP, where the users can post and serch culinary
+recipes. The differential in this APP is that the user can search recipes by
+the ingredients they have at home.  Some like: "What can I cook with
+<this things...>".
 
-Because it is an open source project we can not afford it. However, if the APP succeeds and can be monetized, everyone involved in the project will be duly compensated.
+We already have screen prototypes (are just six screens), but we want someone
+who let this beautiful :)
 
-We don't need someone with largue experience, just someone who wants to learn and increases your portfolio.
+Because it is an open source project we can not afford it. However, if the APP
+succeeds and can be monetized, everyone involved in the project will be duly
+compensated.
+
+We don't need someone with largue experience, just someone who wants to learn
+and increases your portfolio.

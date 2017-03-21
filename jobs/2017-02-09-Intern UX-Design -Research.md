@@ -15,4 +15,3 @@ how_to_apply:
 tags: 'UX, research, usability, internship'
 date: '2017-02-09T10:55:05.972Z'
 ---
-undefined

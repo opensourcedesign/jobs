@@ -17,11 +17,17 @@ how_to_apply:
 tags: 'genomics, bioinformatics, dna'
 date: '2017-02-17T13:21:51.383Z'
 ---
-Labsquare is a community of bioinformatics scientist whose aims to create opensource genomics tools. It is a great necessity with the arrival of new technologies of DNA highoutput sequencing. 
+Labsquare is a community of bioinformatics scientist whose aims to create
+opensource genomics tools. It is a great necessity with the arrival of new
+technologies of DNA highoutput sequencing.
 
-We released our first application named FastQt . It's a Qt/C++ based application which process DNA sequence file and generate several plot and statistics. 
-You can have the application preview as a gif animation here : 
-https://github.com/labsquare/fastQt 
+We released our first application named FastQt . It's a Qt/C++ based application
+which process DNA sequence file and generate several plot and statistics.  You
+can have the application preview as a gif animation here:
 
-We plan to release the next release 0.2 for this month. 
-FastQt has been already selected in the Omics tools project : https://omictools.com/fastqt-tool
+https://github.com/labsquare/fastQt
+
+We plan to release the next release 0.2 for this month. FastQt has been already
+selected in the Omics tools project:
+
+https://omictools.com/fastqt-tool

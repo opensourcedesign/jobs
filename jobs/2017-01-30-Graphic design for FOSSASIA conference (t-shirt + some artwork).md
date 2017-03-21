@@ -15,4 +15,3 @@ how_to_apply:
 tags: 't-shirt, graphic design, conference'
 date: '2017-01-31T16:28:50.377Z'
 ---
-undefined
