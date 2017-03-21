@@ -1,6 +1,6 @@
 ---
 _id: c12784b0-f919-11e6-9b83-8d0f1ec5628f
-status: searching
+status: closed
 date_posted: '2017-02-22'
 layout: jobs
 organization: Elizabeth Python Library
