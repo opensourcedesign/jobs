@@ -81,7 +81,7 @@ jobs:
   # List of transformations to apply to any of the fields supplied. Keys are
   # the name of the field and values are possible transformation types.
   transforms:
-    description: "frontmatterContent"
+    description: frontmatterContent
 
   # Sets the title for the commit. Doesn't work yet. https://github.com/eduardoboucas/staticman/issues/79
   commitMessage: "New Job - {fields.title}"
