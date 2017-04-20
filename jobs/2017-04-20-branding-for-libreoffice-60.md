@@ -17,10 +17,10 @@ LibreOffice plans the next major release of version 6.0. In order to have a uniq
 * Transparency, Sustainability, Freedom
 * Community
 with the additional ideas of
-* MUFFIN (https://blog.documentfoundation.org/blog/2016/12/21/the-document-foundation-announces-the-muffin-a-new-tasty-user-interface-concept-for-libreoffice/)
+* <a href=https://blog.documentfoundation.org/blog/2016/12/21/the-document-foundation-announces-the-muffin-a-new-tasty-user-interface-concept-for-libreoffice/>MUFFIN</a>
 * Green
 * Hexagon
-* Circular (https://wiki.documentfoundation.org/User:Chin_Zee_Yuen)
+* <a href=https://wiki.documentfoundation.org/User:Chin_Zee_Yuen>Circular</a>
 
 The design has to follow the restrictions of colors and the general identification as stated at https://wiki.documentfoundation.org/Marketing/Branding. The font "Vegur" has been selected for the use within the LibreOffice logo and accompanying text. The design concept must work globally. We want to include the community into the process and run a survey with some different proposals. Therefore the job should be finished until end of July 2017.
 
@@ -34,16 +34,19 @@ In a first internal poll the big digit "5" in the current design was criticized 
 * Deliverables should be done in an Open Source license, e.g. CC-by-SA
 * Variants of the design with and without the subline according the [logo policy](https://wiki.documentfoundation.org/TDF/Policies/Logo_Policy)  (the logo itself must not change)
 * Nice to have are variants with labels for alpha/beta/daily build
-* In commit 8cfdd81b70ef37927b40497ffd10034f28335034 \"update branding for 5.0\" the following files were submitted (The file/patch management is of course not needed to be done by the designer.)
-    * icon-themes/galaxy/brand/flat_logo.svg
-    * icon-themes/galaxy/brand/intro.png
-    * icon-themes/galaxy/brand/shell/about.svg
-    * icon-themes/galaxy/brand_dev/intro.png
-    * instsetoo_native/inc_common/windows/msi_templates/Binary/Banner.bmp
-    * instsetoo_native/inc_common/windows/msi_templates/Binary/Image.bmp
-    * setup_native/source/packinfo/osxdndinstall.png
 
-**get in contact**
+In commit 8cfdd81b70ef37927b40497ffd10034f28335034 \"update branding for 5.0\" the following files were submitted:
+* icon-themes/galaxy/brand/flat_logo.svg
+* icon-themes/galaxy/brand/intro.png
+* icon-themes/galaxy/brand/shell/about.svg
+* icon-themes/galaxy/brand_dev/intro.png
+* instsetoo_native/inc_common/windows/msi_templates/Binary/Banner.bmp
+* instsetoo_native/inc_common/windows/msi_templates/Binary/Image.bmp
+* setup_native/source/packinfo/osxdndinstall.png
+
+(The file/patch management is of course not needed to be done by the designer.)
+
+**How to get in contact**
 
 * Everyone can contribute on any communication channel such as
     * marketing mailing list: marketing@global.libreoffice.org
@@ -51,4 +54,9 @@ In a first internal poll the big digit "5" in the current design was criticized 
     * Open Source Design pages
     * Social media"
 
-"Branding: https://wiki.documentfoundation.org/Marketing/Branding\r\nArtwork resources: https://wiki.documentfoundation.org/Visual_Elements\r\nCurrent motif: https://wiki.documentfoundation.org/Design/Motif\r\nPrevious ideas: https://wiki.documentfoundation.org/Design/Playground/Splash_screen\r\n                         https://wiki.documentfoundation.org/Marketing/Branding/Banner_Proposals"
+**Ressources**
+* Branding: https://wiki.documentfoundation.org/Marketing/Branding
+* Artwork resources: https://wiki.documentfoundation.org/Visual_Elements
+* Current motif: https://wiki.documentfoundation.org/Design/Motif
+* Splash screen: https://wiki.documentfoundation.org/Design/Playground/Splash_screen
+* Banners: https://wiki.documentfoundation.org/Marketing/Branding/Banner_Proposals
