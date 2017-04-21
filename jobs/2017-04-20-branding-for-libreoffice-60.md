@@ -17,14 +17,14 @@ LibreOffice plans the next major release of version 6.0. In order to have a uniq
 * Transparency, Sustainability, Freedom
 * Community
 with the additional ideas of
-* MUFFIN (https://blog.documentfoundation.org/blog/2016/12/21/the-document-foundation-announces-the-muffin-a-new-tasty-user-interface-concept-for-libreoffice/)
+* [MUFFIN](https://blog.documentfoundation.org/blog/2016/12/21/the-document-foundation-announces-the-muffin-a-new-tasty-user-interface-concept-for-libreoffice/)
 * Green
 * Hexagon 
-* Circular (https://wiki.documentfoundation.org/User:Chin_Zee_Yuen)
+* [Circular](https://wiki.documentfoundation.org/User:Chin_Zee_Yuen)
 
-The design has to follow the restrictions of colors and the general identification as stated at https://wiki.documentfoundation.org/Marketing/Branding. The font "Vegur" has been selected for the use within the LibreOffice logo and accompanying text. The design concept must work globally. We want to include the community into the process and run a survey with some different proposals. Therefore the job should be finished until end of July 2017.
+The design has to follow the restrictions of colors and the general identification as stated at [https://wiki.documentfoundation.org/Marketing/Branding[(https://wiki.documentfoundation.org/Marketing/Branding). The font "Vegur" has been selected for the use within the LibreOffice logo and accompanying text. The design concept must work globally. We want to include the community into the process and run a survey with some different proposals. Therefore the job should be finished until end of July 2017.
 
-In a first internal poll the big digit "5" in the current design was criticized (http://nabble.documentfoundation.org/Branding-for-LibreOffice-6-0-tt4210681.html).
+In a first internal poll the big digit "5" in the current design was criticized [http://nabble.documentfoundation.org/Branding-for-LibreOffice-6-0-tt4210681.html](http://nabble.documentfoundation.org/Branding-for-LibreOffice-6-0-tt4210681.html).
 
 **Deliverables**
 * New branding idea
@@ -55,8 +55,8 @@ In commit 8cfdd81b70ef37927b40497ffd10034f28335034 \"update branding for 5.0\" t
 
 **Ressources**
 
-* Branding: https://wiki.documentfoundation.org/Marketing/Branding
-* Artwork resources: https://wiki.documentfoundation.org/Visual_Elements
-* Current motif: https://wiki.documentfoundation.org/Design/Motif
-* Splash screen: https://wiki.documentfoundation.org/Design/Playground/Splash_screen
-* Banners: https://wiki.documentfoundation.org/Marketing/Branding/Banner_Proposals
+* Branding: [https://wiki.documentfoundation.org/Marketing/Branding](https://wiki.documentfoundation.org/Marketing/Branding)
+* Artwork resources: [https://wiki.documentfoundation.org/Visual_Elements](https://wiki.documentfoundation.org/Visual_Elements)
+* Current motif: [https://wiki.documentfoundation.org/Design/Motif](https://wiki.documentfoundation.org/Design/Motif)
+* Splash screen: [https://wiki.documentfoundation.org/Design/Playground/Splash_screen](https://wiki.documentfoundation.org/Design/Playground/Splash_screen)
+* Banners: [https://wiki.documentfoundation.org/Marketing/Branding/Banner_Proposals](https://wiki.documentfoundation.org/Marketing/Branding/Banner_Proposals)
