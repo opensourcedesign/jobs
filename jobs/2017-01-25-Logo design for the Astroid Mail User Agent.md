@@ -7,9 +7,7 @@ organization: Astroid Mail
 org_url: 'https://github.com/astroidmail/'
 title: Logo design for the Astroid Mail User Agent
 rate: gratis
-skills: >-
-  A logo which can be a set of icons for the application, and a logotype (icon +
-  mark)
+skills: logo design
 how_to_apply:
   - >-
     Simply reach us at
@@ -20,3 +18,6 @@ date: '2017-01-25T16:40:42.751Z'
 description:
 ---
 Astroid is a lightweight and fast Mail User Agent that provides a graphical interface to searching, display and composing email, organized in thread and tags. Astorid uses the notmuch backend for blazingly fast searches through tons of email. Astroid searches, displays and compose emails - and rely on other programs for fetching, syncing and sending email.
+
+A logo which can be a set of icons for the application, and a logotype (icon +
+  mark)
