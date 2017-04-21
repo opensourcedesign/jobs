@@ -22,7 +22,7 @@ with the additional ideas of
 * Hexagon 
 * [Circular](https://wiki.documentfoundation.org/User:Chin_Zee_Yuen)
 
-The design has to follow the restrictions of colors and the general identification as stated at [https://wiki.documentfoundation.org/Marketing/Branding[(https://wiki.documentfoundation.org/Marketing/Branding). The font "Vegur" has been selected for the use within the LibreOffice logo and accompanying text. The design concept must work globally. We want to include the community into the process and run a survey with some different proposals. Therefore the job should be finished until end of July 2017.
+The design has to follow the restrictions of colors and the general identification as stated at [https://wiki.documentfoundation.org/Marketing/Branding](https://wiki.documentfoundation.org/Marketing/Branding). The font "Vegur" has been selected for the use within the LibreOffice logo and accompanying text. The design concept must work globally. We want to include the community into the process and run a survey with some different proposals. Therefore the job should be finished until end of July 2017.
 
 In a first internal poll the big digit "5" in the current design was criticized [http://nabble.documentfoundation.org/Branding-for-LibreOffice-6-0-tt4210681.html](http://nabble.documentfoundation.org/Branding-for-LibreOffice-6-0-tt4210681.html).
 
