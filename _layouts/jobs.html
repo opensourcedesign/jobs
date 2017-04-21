@@ -38,15 +38,10 @@ layout: default
         {{ page.links }}
       {% endif %}
     </div>
-
-    <div class="description">
-      {% if page.description %}{{ page.description | markdownify }}{% endif %}
-    </div>
-
   </header>
 
-  <article class="post-content" data="{{content}}">
-    {{ content }}
+  <article class="post-content">
+    {{ content | markdownify }}
   </article>
 
 </div>
