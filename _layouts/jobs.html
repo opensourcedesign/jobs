@@ -10,7 +10,9 @@ layout: default
     <div>
       <label for="organization">Organization:</label> <a id="organization" class="organization" href="{{ page.org_url }}">{{ page.organization }}</a><br/>
       <label for="status">Status:</label> <span id="status" class="status">{{ page.status }}</span><br/>
+      {% if page.rate == empty %}
       <label for="rate">Rate:</label> <span id="rate" class="rate">{{ page.rate }}</span><br/>
+      {% endif %}
       <label for="date">Date Posted:</label> <span id="date" class="date">{{ page.date_posted }}</span><br/>
       <label>Tagged as:</label> <span id="tags" class="rate">{{ page.tags }}</span><br/>
     </div>
@@ -21,7 +23,7 @@ layout: default
       {% endif %}
     </div>
     <div class="skills">
-      {% if page.skills %}
+      {% if page.skills != empty %}
       <label for="skills">Skills:</label>
         {{ page.skills }}
       {% endif %}
