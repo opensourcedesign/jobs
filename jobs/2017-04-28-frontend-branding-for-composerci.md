@@ -16,4 +16,16 @@ how_to_apply:
 tags: 'branding, logo, design, gratis, free'
 date: '2017-04-28T13:28:04.234Z'
 ---
-undefined
+
+## What is ComposerCI?
+
+ComposerCI is a Composer Continous Integration tool, that send a Pull Request every time a Composer dependency you use is updated.
+
+## What should I deliver?
+
+You should deliver svg & png files for the logo, the main colors and the font
+
+## How will I be credited?
+
+Your name will be put in the credits, and in the footer of the main page!
+
