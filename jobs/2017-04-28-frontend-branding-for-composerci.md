@@ -4,7 +4,7 @@ status: searching
 date_posted: '2017-04-28'
 layout: jobs
 organization: ComposerCI
-org_url: 'mailto:composerci@miguelpiedrafita.com'
+org_url: 'https://composerci.miguelpiedrafita.com?ref=osd-jobs'
 title: Branding for ComposerCI
 role: Designer
 compensation: gratis
