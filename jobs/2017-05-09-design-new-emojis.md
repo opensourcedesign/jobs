@@ -17,8 +17,8 @@ skills: >-
   feedback before the graphics are merged into the appropriate branch. Many new
   emojis build upon existing ones.
 how_to_apply:
-  - 'Christoph Päper: <emoji@crissov.de>, Github @crissov or Twitter @informoji'
-  - "https://github.com/EmojiTwo/emojitwo/issues/\r\nhttps://github.com/EmojiTwo/emojitwo/blob/master/CONTRIBUTING.md"
+  - 'Christoph Päper: emoji@crissov.de, Github @crissov or Twitter @informoji'
+  - "https://github.com/EmojiTwo/emojitwo/issues/ https://github.com/EmojiTwo/emojitwo/blob/master/CONTRIBUTING.md"
 tags: 'emoji,emoticon,smiley,icon'
 date: '2017-05-09T08:40:10.267Z'
 ---
