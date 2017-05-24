@@ -51,7 +51,7 @@ In commit 8cfdd81b70ef37927b40497ffd10034f28335034 \"update branding for 5.0\" t
 
 * Everyone can contribute on any communication channel such as
     * marketing mailing list: marketing@global.libreoffice.org
-    * design mailing list: designg@global.libreoffice.org
+    * design mailing list: design@global.libreoffice.org
     * Open Source Design pages
     * Social media"
 
