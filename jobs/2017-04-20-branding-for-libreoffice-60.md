@@ -5,13 +5,16 @@ date_posted: '2017-04-20'
 layout: jobs
 organization: LibreOffice / The Document Foundation
 org_url: 'http://www.libreoffice.org'
-title: Branding for LibreOffice 6.0
+title: (done) Branding for LibreOffice 6.0
 role: Graphic Designer
 compensation: gratis
 skills: ""
 how_to_apply: 'see below'
 tags: 'Visual design, Branding'
 date: '2017-04-20T10:18:10.119Z'
+---
+Disucssion was done on Discourse https://discourse.opensourcedesign.net/t/branding-libreoffice-6-0/175
+Final proposals were published for voting at https://design.blog.documentfoundation.org/2017/06/16/motif-next-release-prefer/
 ---
 LibreOffice plans the next major release of version 6.0. In order to have a unique design we want to updated the branding, which is basically the splash screen, the installer on Windows, the about dialog, and some banners/flyers/stickers outside the program. The task is to design a new motif that conveys the metaphors:
 
