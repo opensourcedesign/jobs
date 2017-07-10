@@ -16,6 +16,6 @@ tags: 'logo, elixir'
 date: '2017-07-09T09:53:37.981Z'
 ---
 `Recase` is a small `elixir` project to convert string from any case to any case.
-It now supports `camelCase`, `UpperCase`, `snake_case` and `kebab_case`.
+It now supports `camelCase`, `UpperCase`, `snake_case` and `kebab-case`.
 
 We need a branding: just a simple logo to picture repo's main functionality.
