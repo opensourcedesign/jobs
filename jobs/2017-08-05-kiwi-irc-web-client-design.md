@@ -12,8 +12,8 @@ skills: >-
   Mockups of layout and interaction functionality. Implementation work might be
   out of scope without any budget, but is naturally welcome.
 how_to_apply:
-  - '[Darren Whitlen (lead developer)](https://github.com/prawnsalad) '
-  - '[Source code repository](https://github.com/kiwiirc/kiwiirc)'
+  - 'Darren Whitlen (lead developer): https://github.com/prawnsalad '
+  - 'Source code repository: https://github.com/kiwiirc/kiwiirc'
 tags: 'irc,web,javascript,css,ux,chat,communication'
 date: '2017-08-05T12:06:38.645Z'
 ---
