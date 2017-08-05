@@ -6,7 +6,7 @@ role: UX Designer
 organization: The Document Foundation
 org_url: http://www.documentfoundation.org/
 tags: interface design, ux, user experience
-status: searching
+status: closed
 rate: unspecified
 date_posted: 2015-12-08
 description:
