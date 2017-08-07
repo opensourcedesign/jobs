@@ -1,6 +1,6 @@
 ---
 _id: 7ac1cdd0-648c-11e7-99c1-3b75b5384da3
-status: searching
+status: closed
 date_posted: '2017-07-09'
 layout: jobs
 organization: Recase
