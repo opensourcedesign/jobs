@@ -12,23 +12,24 @@ layout: null
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
     {% assign counter = 0 %}
-    {% assign max = 10 %}
-    {% for page in site.pages %}
+    {% assign max = 20 %}
+    {% for page in site.pages reversed %}
         {% if counter <= max and page.layout == 'jobs' and page.status == 'searching' %}
-            {% assign counter = counter | plus:1 %}
-            <item>
-                <title>{{ page.title | xml_escape }}</title>
-                <description>{{ page.content | xml_escape }}</description>
-                <pubDate>{{ page.date_posted }}</pubDate>
-                <link>{{ page.url | prepend: site.baseurl | prepend: site.url }}</link>
-                <guid isPermaLink="true">{{ page.url | prepend: site.baseurl | prepend: site.url }}</guid>
-                {% for tag in post.tags %}
-                    <category>{{ tag | xml_escape }}</category>
-                {% endfor %}
-                {% for cat in post.categories %}
-                    <category>{{ cat | xml_escape }}</category>
-                {% endfor %}
-            </item>
+        {% unless page.title contains 'Job Title' %}{% comment %} Filter out the example page {% endcomment %}
+        {% assign counter = counter | plus:1 %}
+        <item>
+            <title>{{ page.title | xml_escape }}</title>
+            <description>{{ page.content | xml_escape }}</description>
+            <pubDate>{{ page.date_posted }}</pubDate>
+            <link>{{ page.url | prepend: site.baseurl | prepend: site.url }}</link>
+            <guid isPermaLink="true">{{ page.url | prepend: site.baseurl | prepend: site.url }}</guid>
+            {% for tag in post.tags %}
+                <category>{{ tag | xml_escape }}</category>
+            {% endfor %}
+            {% for cat in post.categories %}
+                <category>{{ cat | xml_escape }}</category>
+            {% endfor %}
+        </item>
         {% endif %}
     {% endfor %}
   </channel>
