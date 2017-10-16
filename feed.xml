@@ -11,10 +11,8 @@ layout: null
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% assign counter = 0 %}
-    {% assign max = 20 %}
     {% for page in site.pages reversed %}
-        {% if counter <= max and page.layout == 'jobs' and page.status == 'searching' %}
+        {% if page.layout == 'jobs' and page.status == 'searching' %}
         {% unless page.title contains 'Job Title' %}{% comment %} Filter out the example page {% endcomment %}
         {% assign counter = counter | plus:1 %}
         <item>
