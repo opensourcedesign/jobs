@@ -4,8 +4,7 @@ title: Submit a Job
 permalink: /job-form/
 ---
 
-<link href="/jobs/css/bootstrap.min.css" rel="stylesheet">
-<link href="/jobs/css/custom.css" rel="stylesheet">
+<link href="/css/jobs.css" rel="stylesheet">
 
 <div class="container">
   <div class="row">
@@ -34,7 +33,7 @@ href="/jobs/">jobs page</a>.</p>
 		  <input type="text"
 			class="form-control"
 			id="organization"
-			placeholder="e.g. AcmeProjects"
+			placeholder="Acme Projects"
 			name="fields[organization]"
 			required>
 		</div>
@@ -43,7 +42,7 @@ href="/jobs/">jobs page</a>.</p>
 		  <input type="url"
 			class="form-control"
 			id="org_url"
-			placeholder="e.g. https://acmeprojects.org"
+			placeholder="https://acmeprojects.org"
 			name="fields[org_url]"
 			required>
 		</div>
@@ -56,7 +55,7 @@ href="/jobs/">jobs page</a>.</p>
 		  <input type="text"
 			class="form-control"
 			id="title"
-			placeholder="e.g. Design review of our app"
+			placeholder="Design review of our app"
 			name="fields[title]"
 			required>
 		</div>
@@ -65,7 +64,7 @@ href="/jobs/">jobs page</a>.</p>
 		  <input type="text"
 			class="form-control"
 			id="role"
-			placeholder="e.g. 'Logo design & branding', 'Web design', 'Interaction design', 'Usability review & research', …"
+			placeholder="'Logo design & branding', 'Web design', 'Interaction design', 'Usability review & research', …"
 			name="fields[role]"
 			required>
 		</div>
@@ -100,7 +99,7 @@ href="/jobs/">jobs page</a>.</p>
 		  <input type="text"
 			class="form-control"
 			id="fields[paid_details]"
-			placeholder="e.g. USD 5000 fixed rate"
+			placeholder="USD 5000 fixed rate"
 			name="paid_details">
 		</div>
 		<div class="form-group">
@@ -110,9 +109,7 @@ href="/jobs/">jobs page</a>.</p>
 			id="description"
 			rows="5"
 			name="fields[description]"
-			placeholder="e.g. AcmeProjects is a …
-
-			We need some design review of our mobile app …"
+			placeholder="Acme Projects is a we need some design review of our mobile app …"
 			required></textarea>
 		  <small>Markdown is okay</small>
 		</div>
@@ -126,7 +123,7 @@ href="/jobs/">jobs page</a>.</p>
 			id="skills"
 			rows="3"
 			name="fields[skills]"
-			placeholder="e.g. A logo & a set of icons, or a usability review document"></textarea>
+			placeholder="A logo & a set of icons, or a usability review document"></textarea>
 		  <small>Markdown is okay</small>
 		</div>
 		<div class="form-group">
@@ -160,7 +157,7 @@ href="/jobs/">jobs page</a>.</p>
 		  <textarea class="form-control"
 			id="tags"
 			rows="2"
-			placeholder="e.g. logo, branding, graphic design"
+			placeholder="logo, branding, graphic design"
 			name="fields[tags]"></textarea>
 		</div>
 	  </fieldset>
@@ -169,11 +166,9 @@ href="/jobs/">jobs page</a>.</p>
 	</div>
   </div>
 </div>
-
-<script src="/jobs/js/jquery.min.js"></script>
-<script src="/jobs/js/bootstrap.min.js"></script>
+<script src="/js/jquery.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
 <script>
-
 	function compensation() {
 	  if ( $("#gratis").is(":checked") ) {
 		$("#paid_details").parent().slideUp();
@@ -201,7 +196,7 @@ href="/jobs/">jobs page</a>.</p>
 	  return str;
 	}
 
-	$(document).ready(function() {
+    $(document).ready(function() {
 
 	  $('input#title').keyup(function (e) {
 		$('input#slug').val(slug(e.target.value));
