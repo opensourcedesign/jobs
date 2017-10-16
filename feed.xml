@@ -11,10 +11,9 @@ layout: null
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
+    {% assign max = 25 %}
     {% for page in site.pages reversed %}
-        {% if page.layout == 'jobs' and page.status == 'searching' %}
-        {% unless page.title contains 'Job Title' %}{% comment %} Filter out the example page {% endcomment %}
-        {% assign counter = counter | plus:1 %}
+        {% if forloop.index <= max and page.layout == 'jobs' and page.status == 'searching' %}
         <item>
             <title>{{ page.title | xml_escape }}</title>
             <description>{{ page.content | xml_escape }}</description>
@@ -22,10 +21,7 @@ layout: null
             <link>{{ page.url | prepend: site.baseurl | prepend: site.url }}</link>
             <guid isPermaLink="true">{{ page.url | prepend: site.baseurl | prepend: site.url }}</guid>
             {% for tag in post.tags %}
-                <category>{{ tag | xml_escape }}</category>
-            {% endfor %}
-            {% for cat in post.categories %}
-                <category>{{ cat | xml_escape }}</category>
+            <category>{{ tag | xml_escape }}</category>
             {% endfor %}
         </item>
         {% endif %}
