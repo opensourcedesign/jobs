@@ -6,7 +6,7 @@ layout: jobs
 organization: OpenScore
 org_url: 'https://musescore.org/en/user/57401/blog/2017/01/11/introducing-openscore'
 title: Graphic designer for OpenScore
-rate: paid
+compensation: paid
 skills: "OpenScore logo\r\nGraphics for communications (videos, presentations, blog posts, etc.)"
 how_to_apply: Email openscore@musescore.com with links to CV and portfolio.
 tags: 'music, open data, creative commons, crowdfund, crowdsource, accessibility'

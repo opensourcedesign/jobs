@@ -8,7 +8,7 @@ org_url: https://redhat.com
 tags: interface design, ixd, ux, usability, design, user research, storage, visual design, HCI, human factors
 status: closed
 submited_by: mairin
-rate: unspecified
+compensation: unspecified
 date_posted: 2015-02-12
 description:
 how_to_apply:

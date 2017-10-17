@@ -9,7 +9,7 @@ contact: tord.dellsen@gmail.com
 org_url: http://mettacenter.org
 tags: interface design, branding, text layout
 status: solved
-rate: gratis
+compensation: gratis
 date_posted: 2015-07-15
 description:
 how_to_apply:

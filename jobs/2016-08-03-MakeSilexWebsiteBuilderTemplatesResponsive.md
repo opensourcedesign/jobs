@@ -9,7 +9,7 @@ contact: contact at silexlabs.org
 org_url: https://www.silexlabs.org/
 tags: website templates, webdesign, design
 status: searching
-rate: gratis / we provide 1 to 1 support
+compensation: gratis / we provide 1 to 1 support
 date_posted: 2016-08-03
 description:
 how_to_apply:

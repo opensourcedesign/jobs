@@ -11,7 +11,7 @@ contributors_md:
 org_url: https://simplysecure.org/
 tags: branding, visual design
 status: solved
-rate: negotiated hourly rate
+compensation: negotiated hourly rate
 date_posted: 2016-04-19
 description:
 how_to_apply:

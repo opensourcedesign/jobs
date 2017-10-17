@@ -6,7 +6,7 @@ layout: jobs
 organization: phpList
 org_url: 'http://phplist.com'
 title: UI Designer for account management interface project
-rate: paid
+compensation: paid
 skills: design
 how_to_apply:
   - "UI or UX project portfolio appreciated (links or images of at least two past projects please).\r\nTo apply email hosted at phplist dot com with your details."

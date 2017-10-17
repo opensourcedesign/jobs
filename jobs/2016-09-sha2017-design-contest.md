@@ -11,7 +11,7 @@ contributors_md: realitygaps
 org_url: https://sha2017.org
 tags: design, branding, logo, theme
 status: closed
-rate: gratis
+compensation: gratis
 date_posted: 2016-09-13
 description:
 how_to_apply:

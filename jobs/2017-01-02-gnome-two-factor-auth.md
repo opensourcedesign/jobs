@@ -4,7 +4,7 @@ layout: jobs
 organization: Gnome TwoFactorAuth
 org_url: 'https://github.com/bil-elmoussaoui/Gnome-TwoFactorAuth'
 title: Mockup and logo designer
-rate: gratis
+compensation: gratis
 status: searching
 skills: The svg files for the icons and an svg/png file for the mockup's.
 how_to_apply:

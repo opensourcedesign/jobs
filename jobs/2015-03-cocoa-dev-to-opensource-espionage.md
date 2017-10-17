@@ -8,7 +8,7 @@ github: taoeffect
 org_url: https://www.espionageapp.com
 tags: cocoa, mac, os x, encryption, security, plausible deniability
 status: searching
-rate: negotiated hourly rate
+compensation: negotiated hourly rate
 date_posted: 2015-03-18
 description:
 how_to_apply:

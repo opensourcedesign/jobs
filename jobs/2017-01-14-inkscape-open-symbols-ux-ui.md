@@ -11,7 +11,7 @@ contributors_md: https://github.com/Xaviju/inkscape-open-symbols/blob/master/AUT
 org_url: https://github.com/Xaviju/inkscape-open-symbols/
 tags: website, UX, UI, design
 status: searching
-rate: gratis
+compensation: gratis
 date_posted: 2017-01-14
 description:
 how_to_apply:

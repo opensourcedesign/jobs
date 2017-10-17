@@ -9,7 +9,7 @@ contact: https://github.com/stephenfin,irc:sfinucan,mailto:stephenfinucane@hotma
 org_url: http://jk.ozlabs.org/projects/patchwork/
 tags: branding, logo
 status: solved
-rate: gratis
+compensation: gratis
 date_posted: 2016-06-28
 description:
 ---

@@ -6,7 +6,7 @@ layout: jobs
 organization: GitMate
 org_url: 'https://gitmate.io'
 title: Repository configuration for code analysis as a service using coala
-rate: gratis
+compensation: gratis
 description: ""
 skills: ''
 how_to_apply:

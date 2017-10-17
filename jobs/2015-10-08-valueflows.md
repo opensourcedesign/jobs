@@ -9,7 +9,7 @@ contact: ahdinosaur on github
 org_url: https://valueflo.ws
 tags: visual design, economic flows, diagrams, icons
 status: searching
-rate: gratis
+compensation: gratis
 date_posted: 2015-10-08
 description:
 how_to_apply:

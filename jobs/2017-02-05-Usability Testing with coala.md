@@ -6,7 +6,7 @@ layout: jobs
 organization: coala
 org_url: 'https://coala.io/'
 title: Usability Testing with coala
-rate: gratis
+compensation: gratis
 description: ""
 skills: ''
 how_to_apply:

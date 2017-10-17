@@ -11,7 +11,7 @@ contributors_md: http://slack.openfarm.cc
 org_url: http://openfarm.cc, http://farmbot.io, http://hortomatic.com
 tags: icon design, icons, plants, crops, svg
 status: searching
-rate: gratis
+compensation: gratis
 date_posted: 2015-09-26
 description:
 how_to_apply:

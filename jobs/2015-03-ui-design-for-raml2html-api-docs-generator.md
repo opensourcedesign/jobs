@@ -7,7 +7,7 @@ github: kevinrenskers
 org_url: https://github.com/kevinrenskers/raml2html
 tags: interface design
 status: searching
-rate: gratis
+compensation: gratis
 date_posted: 2015-03-24
 description:
 how_to_apply:

@@ -11,7 +11,7 @@ contributors_md:
 org_url: http://angularjs.meteor.com
 tags: angular, meteor, branding, documentation, information architecture
 status: searching
-rate: gratis
+compensation: gratis
 date_posted: 2015-04-28
 description:
 how_to_apply:

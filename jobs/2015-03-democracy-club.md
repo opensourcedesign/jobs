@@ -8,7 +8,7 @@ github: DemocracyClub
 org_url: https://democracyclub.org.uk/
 tags: interface design, user experience design, logo
 status: closed
-rate: gratis
+compensation: gratis
 date_posted: 2015-03-02
 description:
 how_to_apply:

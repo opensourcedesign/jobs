@@ -8,7 +8,7 @@ role: 'UI Designer & Coder'
 organization: Conversations
 org_url: 'https://conversations.im'
 github: https://githib.com/siacs/conversations
-rate: gratis
+compensation: gratis
 skills: 'Material design for Android platform' 
 how_to_apply:
   - "Are you interested? Respond to the issue."

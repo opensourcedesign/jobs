@@ -8,7 +8,7 @@ organization: OONI - The Tor Project
 org_url: https://github.com/TheTorProject/ooniprobe
 tags: interface design
 status: searching
-rate: 5k - 10k fixed bid
+compensation: 5k - 10k fixed bid
 date_posted: 2016-10-13
 description:
 how_to_apply:

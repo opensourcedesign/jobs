@@ -11,7 +11,7 @@ contributors_md: https://github.com/InspectorWidget/InspectorWidget/blob/master/
 org_url: https://github.com/InspectorWidget
 tags: usability testing, user interface design, website, logo
 status: searching
-rate: gratis (free beers if and whenever we meet in Brussels or Lille)
+compensation: gratis (free beers if and whenever we meet in Brussels or Lille)
 date_posted: 2017-02-06
 description:
 how_to_apply:

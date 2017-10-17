@@ -11,7 +11,7 @@ contributors_md: https://github.com/openfarmcc/OpenFarm/graphs/contributors
 org_url: openfarm.cc
 tags: logo
 status: closed
-rate: gratis, up for discussion
+compensation: gratis, up for discussion
 contact: simonv3 on twitter or post on github
 description:
 how_to_apply:

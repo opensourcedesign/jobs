@@ -6,7 +6,7 @@ layout: jobs
 organization: FOSSASIA
 org_url: 'http://2017.fossasia.org/'
 title: Graphic design for FOSSASIA conference (t-shirt + some artwork)
-rate: gratis
+compensation: gratis
 description:
 skills: "* T-shirt (main)\r\n * Name badge\r\n * X-stand banner\r\n * Poster"
 how_to_apply:

@@ -9,7 +9,7 @@ contact: https://github.com/libretro/retroarch-assets/issues/17
 org_url: http://www.libretro.com
 tags: icons, branding, logo, flatui
 status: searching
-rate: gratis
+compensation: gratis
 date_posted: 2016-11-21
 description:
 how_to_apply:

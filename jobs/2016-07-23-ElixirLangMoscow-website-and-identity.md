@@ -9,7 +9,7 @@ contact: mail@sobolevn.me
 org_url: https://elixir-lang-moscow.herokuapp.com/
 tags: interface design, branding, logo
 status: solved
-rate: gratis
+compensation: gratis
 date_posted: 2016-07-23
 description:
 how_to_apply:

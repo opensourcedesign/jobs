@@ -6,7 +6,7 @@ layout: jobs
 organization: The GNU Project
 org_url: 'https://www.gnu.org/'
 title: slide about GNU Taler for RMS's deck
-rate: gratis
+compensation: gratis
 description: ""
 skills: "The slides need to be in the style of the existing deck:\r\nhttps://static.fsf.org/nosvn/RMS_updated_FS_TEDx_slideshow.odp"
 how_to_apply:

@@ -11,7 +11,7 @@ contributors_md: (optional)
 url: https://jobs.savoirfairelinux.com/#uxui-designer
 tags: Quebec, UX Designer
 status: searching
-rate: full time
+compensation: full time
 date_posted: 2016-02-09
 description:
 how_to_apply:

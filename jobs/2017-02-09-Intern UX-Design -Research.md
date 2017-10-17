@@ -6,7 +6,7 @@ layout: jobs
 organization: Wikimedia Deutschland e. V.
 org_url: 'https://www.wikimedia.de/wiki/Hauptseite'
 title: Intern UX-Design/Research
-rate: paid
+compensation: paid
 how_to_apply:
   - "To begin your application, please visit https://www.software.wikimedia.de/jobs/ux-intern\r\n\r\nPlease apply with your CV, work examples and your desired period of internship. \r\n\r\n"
   - "Prior to applying, please visit our website for more information on the internship:\r\n\r\nhttps://www.software.wikimedia.de/jobs/ux-intern"

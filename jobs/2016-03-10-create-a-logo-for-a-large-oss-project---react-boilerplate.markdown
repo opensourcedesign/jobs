@@ -11,7 +11,7 @@ contributors_md: # (optional) A list of contributors who are reach-out-able
 org_url: https://github.com/mxstbr/react-boilerplate/issues/121
 tags: logo, design
 status: searching
-rate: gratis
+compensation: gratis
 description:
 how_to_apply:
 ---

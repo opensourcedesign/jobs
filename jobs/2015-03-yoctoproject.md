@@ -8,7 +8,7 @@ github: belenbarrospena
 org_url: http://yoctoproject.org
 tags: icon favicon
 status: resolved
-rate: gratis
+compensation: gratis
 date_posted: 2015-02-06
 description:
 how_to_apply:

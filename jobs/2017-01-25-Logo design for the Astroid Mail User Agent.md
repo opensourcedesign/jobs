@@ -6,7 +6,7 @@ layout: jobs
 organization: Astroid Mail
 org_url: 'https://github.com/astroidmail/'
 title: Logo design for the Astroid Mail User Agent
-rate: gratis
+compensation: gratis
 skills: logo design
 how_to_apply:
   - >-

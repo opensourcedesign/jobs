@@ -7,7 +7,7 @@ github: remotestorage,5apps
 org_url: https://remotestorage.io
 tags: interface design, ui, ux, frontend, web
 status: solved
-rate: unspecified
+compensation: unspecified
 date_posted: 2015-03-22
 description:
 how_to_apply:

@@ -9,7 +9,7 @@ contact: rhodey@anhonesteffort.org, @NotRhodey
 org_url: https://radiowitness.io
 tags: branding, logo
 status: closed
-rate: gratis or $120 total
+compensation: gratis or $120 total
 date_posted: 2016-07-29
 description:
 how_to_apply:

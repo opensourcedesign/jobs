@@ -9,7 +9,7 @@ org_url: https://guardianproject.info/apps/chatsecure/
 tags: interface design, branding, logo
 status: searching
 submited_by: bvnk
-rate: unspecified
+compensation: unspecified
 date_posted: 2015-03-11
 description:
 how_to_apply:

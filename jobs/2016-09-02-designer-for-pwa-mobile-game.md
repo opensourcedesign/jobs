@@ -11,7 +11,7 @@ contributors_md: (optional) # A list of contributors who are reach-out-able.
 org_url: http://moritz.berlin
 tags: interface design
 status: searching
-rate: gratis
+compensation: gratis
 date_posted: 2016-09-02
 description:
 how_to_apply:

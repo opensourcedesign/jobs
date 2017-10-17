@@ -11,7 +11,7 @@ contributors_md: (optional)
 org_url: https://github.com/graphql-go/graphql
 tags: logo, golang, go, graphql
 status: searching
-rate: gratis / Negotiable
+compensation: gratis
 date_posted: 2016-04-02
 description:
 how_to_apply:

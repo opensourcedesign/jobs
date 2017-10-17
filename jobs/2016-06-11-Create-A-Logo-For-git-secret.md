@@ -9,7 +9,7 @@ contact: https://github.com/sobolevn
 org_url: https://sobolevn.github.io/git-secret/
 tags: logo
 status: solved
-rate: gratis / in-app and website credit
+compensation: gratis / in-app and website credit
 date_posted: 2016-06-11
 description:
 how_to_apply:

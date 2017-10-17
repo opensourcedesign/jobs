@@ -9,7 +9,7 @@ contact: https://twitter.com/CoralProject
 org_url: https://coralproject.net
 tags: ui designer , ux designer , mozilla foundation , internet communities
 status: searching
-rate: paid
+compensation: paid
 date_posted: 2016-03-14
 description:
 how_to_apply:

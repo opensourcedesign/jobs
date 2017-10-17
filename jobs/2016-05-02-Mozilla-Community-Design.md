@@ -11,7 +11,7 @@ contributors_md: (optional)
 org_url: https://www.mozilla.org/
 tags: interface design, branding, logo
 status: searching
-rate: gratis
+compensation: gratis
 date_posted: 2016-05-02
 description:
 how_to_apply:

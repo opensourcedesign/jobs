@@ -6,7 +6,7 @@ layout: jobs
 organization: ThoughtStreamer
 org_url: 'https://pacific-wildwood-38870.herokuapp.com/'
 title: Web & Logo Designer for an Idea Sharing Platform
-rate: gratis
+compensation: gratis
 skills: "Web Design\r\nLogo\r\nUX/UI"
 how_to_apply:
   - if you are interested please send an email at george2seven@gmail.com

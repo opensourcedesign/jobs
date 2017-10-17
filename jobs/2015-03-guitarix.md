@@ -8,7 +8,7 @@ github: brummer10
 org_url: http://guitarix.sourceforge.net/
 tags: interface design, branding, logo
 status: solved
-rate: gratis, open source
+compensation: gratis, open source
 date_posted: 2015-02-15
 description:
 how_to_apply:
