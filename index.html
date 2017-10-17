@@ -4,39 +4,60 @@ title: Jobs
 ---
 
 <div class="container">
-<div class="row">
-  <div class="col-md-10 col-md-offset-1">
-  <h1>Jobs</h1>
-  <p>
-    Need Something Designed? Easily <a href="/jobs/job-form/">post a job now</a>. We'll review your posting and post it as soon as we can!
-  </p>
-  <hr>
-  <ul class="job-list">
-    {% for page in site.pages reversed %}
-        {% if page.layout == 'jobs' and page.status == 'searching' %}
-          {% unless page.title contains 'Job Title' %}{% comment %} Filter out the example page {% endcomment %}
-          <li>
-            <h2>
-              <a class="page-link" href="{{ page.url | prepend: site.baseurl }}" title="{{ page.title }}">{{ page.title }}</a>
-            </h2>
-            <p>
-              {% if page.role %}
-              <span class="pill role">{{ page.role }}</span> @
-              {% endif %}
-              <span class="pill organization">{{ page.organization }}</span>
-            </p>
-            <span class="pill rate">{{ page.rate }}</span>
-          </li>
-          {% endunless %}
-        {% endif %}
-    {% endfor %}
-  </ul>
-  <hr>
-  <ul>
-    <li>More comfortable with Git? Use our <a href="https://github.com/opensourcedesign/jobs">git based method</a>.</li>
-    <li>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></li>
-    <li>Checkout other places like: <a href="https://www.fossjobs.net" target="_blank">FOSS Jobs</a></li>
-  </ul>
-  </div>
-</div>
+    <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+            <h1>Jobs</h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-5">
+          <p>
+            Need a logo designed, a usability study, or an interface-facelift? 
+            Our diverse community and extended network have got you covered.
+          <p>
+        </div>
+        <div class="col-md-5">
+          <p>
+            <a class="btn btn-primary" href="/jobs/job-form/">Post A Job</a>
+            We'll review your posting as soon as we can! Free and paid gigs welcome.
+          </p>
+        </div>
+    </div>
+    <hr>
+    <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+            <ul class="job-list">
+                {% for page in site.pages reversed %}
+                {% if page.layout == 'jobs' and page.status == 'searching' %}
+                {% unless page.title contains 'Job Title' %}{% comment %} Filter out the example page {% endcomment %}
+                <li>
+                    <h2>
+                      <a class="page-link" href="{{ page.url | prepend: site.baseurl }}" title="{{ page.title }}">
+                        {{ page.title }}
+                      </a>
+                    </h2>
+                    <p>
+                      {% if page.role %}
+                      <span class="pill role">{{ page.role }}</span> @
+                      {% endif %}
+                      <span class="pill organization">{{ page.organization }}</span>
+                    </p>
+                    <span class="pill rate">{{ page.compensation }}</span>
+                </li>
+                {% endunless %}
+                {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+    <hr>
+    <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+            <ul>
+                <li>More comfortable with Git? Use our <a href="https://github.com/opensourcedesign/jobs">git based method</a>.</li>
+                <li>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></li>
+                <li>Checkout other places like: <a href="https://www.fossjobs.net" target="_blank">FOSS Jobs</a></li>
+            </ul>
+        </div>
+    </div>
 </div>

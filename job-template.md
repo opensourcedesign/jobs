@@ -11,7 +11,7 @@ contributors_md: (optional) # A list of contributors who are reach-out-able.
 org_url: http://organisation-website.com
 tags: interface design, branding, logo
 status: searching / hired
-rate: gratis / $60 hour / $1000 total / etc...
+compensation: gratis / $60 hour / $1000 total / etc...
 date_posted: yyyy-mm-dd
 ---
 
