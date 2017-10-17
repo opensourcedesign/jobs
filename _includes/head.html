@@ -5,7 +5,12 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Jobs - Open Source Design</title>
+    {% if page.title %}
+        <title>Jobs - {{ page.title }}</title>
+    {% else %}
+        <title>Jobs - Open Source Design</title>
+    {% endif %}
+
 
     <link href="/css/lora.css" rel="stylesheet" type="text/css">
     <link href="/css/montserrat.css" rel="stylesheet" type="text/css">
