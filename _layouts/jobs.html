@@ -36,6 +36,12 @@ layout: default
             {{ page.skills | markdownify }}
           {% endif %}
         </div>
+        <div class="compensation">
+          {% if page.compensation %}
+          <label for="compensation">Compensation:</label>
+            {{ page.compensation }}
+          {% endif %}
+        </div>
         <div class="how_to_apply">
           {% if page.how_to_apply %}
           <label for="how_to_apply">How to apply:</label>

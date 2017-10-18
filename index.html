@@ -42,7 +42,14 @@ title: Jobs
                       {% endif %}
                       <span class="pill organization">{{ page.organization }}</span>
                     </p>
-                    <span class="pill rate">{{ page.compensation }}</span>
+                    {% if page.compensation == "gratis" %}
+                    <span class="pill compensation gratis">
+                        &#10084; {{ page.compensation }}
+                    {% else %}
+                    <span class="pill compensation paid">
+                        &dollar; {{ page.compensation }}
+                    {% endif %}
+                    </span>
                 </li>
                 {% endunless %}
                 {% endif %}
