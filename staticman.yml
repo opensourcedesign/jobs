@@ -8,7 +8,7 @@ jobs:
   # Names of the fields the form is allowed to submit. If a field that is
   # not here is part of the request, an error will be thrown.
   allowedFields: ["organization", "org_url", "compensation",
-                  "paid_details", "title", "description", "skills",
+                  "paid_details", "title", "description", "deliverables",
                   "how_to_apply", "links", "tags", "status", "date_posted",
                   "layout", "rate", "role"]
 
