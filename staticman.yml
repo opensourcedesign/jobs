@@ -72,7 +72,7 @@ jobs:
   # (*) REQUIRED
   #
   # Destination path (directory) for the data files. Accepts placeholders.
-  path: "jobs"
+  path: "2017"
 
   # Names of required files. If any of these isn't in the request or is empty,
   # an error will be thrown.
