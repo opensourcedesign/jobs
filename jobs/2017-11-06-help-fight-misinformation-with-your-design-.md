@@ -36,7 +36,7 @@ In the future we'd like to extends these functionalities to be able to work on n
 
 ## Achievements
 
-CaptainFact has a strong gamification aspect. We want to make it pleasant to contribute and reward users bringing positive content. One of the ways to achieve that is achievements, like the ones you see in video games. We need them to be creative and fun, so the main rule here is to take pleasure what you do ;)
+CaptainFact has a strong gamification aspect. We want to make it pleasant to contribute and reward users bringing positive content. One of the ways to achieve that is achievements, like the ones you see in video games. We need them to be creative and fun, so the main rule here is to take pleasure in what you do ;)
 
 For details about which achievements are currently open to submissions, technical constraints and license stuff checkout [this Github issue](https://github.com/CaptainFact/captain-fact-frontend/issues/6).
 
