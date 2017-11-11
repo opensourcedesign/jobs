@@ -1,17 +1,18 @@
 ---
 _id: 75cc8230-c65b-11e7-986b-05a46a6fa5e8
 status: searching
-date_posted: '2017-11-10'
-layout: Jobs
+date_posted: ''
+layout: jobs
 organization: Identihub
 org_url: 'https://identhub.co'
 title: Frontend polishing
 role: 'Web Design, Frontend, UX'
 compensation: paid
-deliverables: "General UX improvements in the software are needed, including:\r\nSidebar of Assets\r\nModal Menus\r\nFeedback Messages\r\nError Messages\r\n\r\nGenerally some User Research would be also appreciated to understand what's the best path going forward."
-how_to_apply:
-  - Elio
-  - "https://github.com/uracreative/identihub
+skills: "General UX improvements in the software are needed, including:\r\nSidebar of Assets\r\nModal Menus\r\nFeedback Messages\r\nError Messages\r\n\r\nGenerally some User Research would be also appreciated to understand what's the best path going forward."
+how_to_apply: "
+  Elio Qoshi (Program Manager) <elio@ura.design>
+  Link to GitHub Repo
+  https://github.com/uracreative/identihub"
 tags: 'Frontend, UX, CSS, ReactJS'
 date: '2017-11-10T21:09:38.305Z'
 ---
