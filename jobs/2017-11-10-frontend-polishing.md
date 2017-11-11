@@ -10,8 +10,8 @@ role: 'Web Design, Frontend, UX'
 compensation: paid
 skills: "General UX improvements in the software are needed, including:\r\nSidebar of Assets\r\nModal Menus\r\nFeedback Messages\r\nError Messages\r\n\r\nGenerally some User Research would be also appreciated to understand what's the best path going forward."
 how_to_apply: "
-  Elio Qoshi (Program Manager) <elio@ura.design>
-  \r\n\r\nLink to GitHub Repo:
+  Elio Qoshi (Lead Designer) <elio@ura.design>
+  Link to GitHub Repo:
   <https://github.com/uracreative/identihub>"
 tags: 'Frontend, UX, CSS, ReactJS'
 date: '2017-11-10T21:09:38.305Z'
