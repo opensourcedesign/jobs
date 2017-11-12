@@ -19,3 +19,5 @@ date: '2017-11-10T21:09:38.305Z'
 Identihub is free and open source software which lets you host your own branding and visual assets and reshare them easily. It allows for SVG to PNG conversion in any given resolution, embedding and linking to assets and organizing your projects within your organization. The project is open source under AGPLv3: <https://github.com/uracreative/identihub>
 
 We currently are in need for someone who can improve Identihub's UX by adding more feedback menus and interactions, redesign modal menus and the main side bar for assets. Currently Identihub is not really working well on mobile, so making it responsive is also needed. Identihub is ReactJS in the Frontend and Laravel (PHP) in the Backend.
+
+We have a small budget we could spend on this. Let's talk.
