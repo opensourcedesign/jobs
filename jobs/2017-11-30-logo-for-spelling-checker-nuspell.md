@@ -10,8 +10,7 @@ role: Logo Designer
 compensation: gratis
 deliverables: "square color logo with transparency in Inkscape SVG\r\nversion in black and white\r\ncolor scheme used in logo"
 skills: "designing clear, strong and minimalistic logos\r\ndesigning with Inkscape\r\nchoosing color schemes"
-how_to_apply:
-  - Pander <pander@users.sourceforge.net>
+how_to_apply: Pander <pander@users.sourceforge.net>
 tags: >-
   logo, branding, spelling, spell checking, command-line tool, shared library
 date: '2017-11-30T14:07:52.548Z'
