@@ -5,6 +5,7 @@ date_posted: '2018-01-13'
 layout: jobs
 organization: CoderYouth
 org_url: 'https://coderyouth.club'
+github: coderyouth
 title: Desing logo for a teenager code community
 role: Logo design & branding
 compensation: gratis
@@ -13,7 +14,6 @@ deliverables: >-
   our organization, so you can push them there.
 how_to_apply:
   - Miguel Piedrafita <coderyouth@miguelpiedrafita.com>
-  - "- Wobsite (under construction): https://coderyouth.club\r\n- Forum (under construction): https://forum.coderyouth.club\r\n- GitHub Organization: https://github.com/coderyouth"
 tags: 'logo, brading, graphic, design'
 date: '2018-01-13T08:45:38.045Z'
 ---
