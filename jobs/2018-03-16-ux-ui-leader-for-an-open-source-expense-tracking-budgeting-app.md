@@ -11,7 +11,7 @@ compensation: gratis
 description: >-
   Expensa is an open source project for expense tracking and budgeting. Design
   work includes leading the UI effort
-deliverables: ''
+deliverables: 'Logo, typefaces, UI layout'
 how_to_apply:
   - 'Pradyumna Shembekar <pradyumna2905@gmail.com>, I am PD for short'
   - 'https://gitlab.com/pradyumna2905/expensa'
