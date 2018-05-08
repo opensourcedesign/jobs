@@ -1,6 +1,6 @@
 ---
 _id: ac21f1c0-2c7d-11e8-9bb2-7f618526731d
-status: searching
+status: solved
 date_posted: '2018-03-20'
 layout: jobs
 organization: Notification Sound WebExtension
@@ -22,3 +22,5 @@ I made a very basic icon a few years ago that tried to convey what a "notificati
 I'd like to have a much smoother icon and in the process of updating it also have a vector (SVG) version.
 
 I'm very open to what the icon actually contains, but I'd rather stick to something that's not too abstract. The icon is only used as the add-on icon and never exposed in add-on specific GUI (except for the settings page, where Firefox displays it by default).
+
+Update: Found an icon via https://github.com/opensourcedesign/jobs/pull/303#issuecomment-374780628 :)
