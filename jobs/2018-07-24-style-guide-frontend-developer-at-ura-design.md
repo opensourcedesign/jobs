@@ -29,3 +29,5 @@ Qualifications:
 - past contributions to Open Source (especially Open Source Design) is a big plus
 
 This is a remote, project-based limited term contract which can be renewed if the candidate is the right fit. Our main language is English but fluency is not a hard requirement. Payment is done via PayPal, Bitcoin or Ethereum.
+
+Please reach out to Elio with some samples of work and a few words about yourself.
