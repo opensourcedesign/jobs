@@ -1,6 +1,6 @@
 ---
 _id: ad9bce50-94b9-11e8-ad7d-5182ce98e6df
-status: searching
+status: resolved
 date_posted: '2018-07-31'
 layout: jobs
 organization: Free Software Infographic
