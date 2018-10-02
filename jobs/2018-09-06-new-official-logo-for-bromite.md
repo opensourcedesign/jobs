@@ -1,6 +1,6 @@
 ---
 _id: 16a2a440-b1fd-11e8-afd3-cbef5b601756
-status: searching
+status: closed
 date_posted: '2018-09-06'
 layout: jobs
 organization: Bromite
