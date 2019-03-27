@@ -12,7 +12,7 @@ deliverables: "**What we expect**\r\n* Great communication and presentation skil
 how_to_apply:
   - >-
     [Please contact us via our online
-    platform](https://wikimedia-deutschland.softgarden.io/job/3696132/Working-Student-UX--m-f-d-?jobDbPVId=10049352&l=en)
+    platform](https://wikimedia-deutschland.softgarden.io/job/3696022/UX-Engineer--m-f-d-?jobDbPVId=10049097&l=en)
   - ''
 tags: 'UX Design, UX Engineering, UI, Interaction Design'
 date: '2019-03-22T11:13:47.107Z'
