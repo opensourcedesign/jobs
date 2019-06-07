@@ -35,3 +35,7 @@ Our job submission process is done **"in the open"** so if you work on an open s
 After those steps you will have submitted a job to the OSD job board, you rule ;)
 
 ## [View job listings](http://opensourcedesign.net/jobs/).
+
+## Fields values
+
+**Status**: accepted values for job status are `searching` and `closed`
