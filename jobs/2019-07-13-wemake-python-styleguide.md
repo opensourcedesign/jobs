@@ -25,6 +25,9 @@ But, there are some things that I dislike in it:
 1. Quality. It is low
 2. Details. It does not look finished, more like a sketch
 
+It is also possible to change `L` letter to `WPS` letters.
+`L` stands for linter, `WPS` is used as an error code for our warnings and stands for `wemake-python-styleguide`.
+
 I would like to recreate it, saving the original intent, but making it slightly better.
 I will provide gratis to the author of a new logo.
 
