@@ -10,7 +10,7 @@ role: Web Design
 compensation: gratis
 deliverables: "HTML and CSS files for an updated Maven skin module \r\nRecommendations on how to build a landing page that helps our 2 sets of users get to the content they need quickly (focus on the client)"
 how_to_apply:
-  - Kenneth Paskett - Apache Software Foundation Creative Lead
+  - Kenneth Paskett - Apache Software Foundation Creative Lead - kp@apache.org
   - >-
     https://github.com/apache/plc4x/tree/feature/new-site-skin - Branch used to
     work on the new Maven Skin
