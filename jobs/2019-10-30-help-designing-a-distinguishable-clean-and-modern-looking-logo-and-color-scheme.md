@@ -1,6 +1,6 @@
 ---
 _id: 372daa30-fe27-11e9-b4dd-117df0b7f2ac
-status: searching
+status: closed
 date_posted: '2019-10-30'
 layout: jobs
 organization: Mailchain
