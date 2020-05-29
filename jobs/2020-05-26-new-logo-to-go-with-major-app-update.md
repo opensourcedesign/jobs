@@ -21,7 +21,7 @@ _AntennaPod is a podcast manager and player for Android. Contrary to many of its
 
 The app’s current main developer is currently working on **AntennaPod version 2**, an important update with lots of bug fixes and UI improvements. To honour this major step, we are looking for a **new logo and app icon** and simple colour palette. Other contribution most welcome as well. The goal of the new design is to help give AntennaPod a modern and professional look.
 
-The AntennaPod lead developer ByteHamster & long-standing active community member Keunes will be involved in the process. Tothegher they developed the [design brief](https://antennapod.org/designbrief) - check it out if you're interested!
+The AntennaPod lead developer ByteHamster & long-standing active community member Keunes will be involved in the process. Together they developed the [design brief](https://antennapod.org/designbrief) - check it out if you're interested!
 
 **Relevant links**<br>
 Twitter: [@AntennaPod](https://twitter.com/antennapod)<br>
