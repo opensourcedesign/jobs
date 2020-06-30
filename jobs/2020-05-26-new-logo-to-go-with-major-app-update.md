@@ -1,6 +1,6 @@
 ---
 _id: ebe14450-9f8f-11ea-b675-d1e80ebdc9bc
-status: searching
+status: closed
 date_posted: '2020-05-26'
 layout: jobs
 organization: AntennaPod
