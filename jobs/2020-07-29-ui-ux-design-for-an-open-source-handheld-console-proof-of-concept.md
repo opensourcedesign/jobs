@@ -9,14 +9,11 @@ title: UI/UX design for an open source handheld console (proof-of-concept)
 role: UI/UX design
 compensation: gratis
 deliverables: >-
-  A basic UI/UX design for a library screen and a settings screen on a 320x240
-  resolution screen (Yes, it is too small). Icons will be using Font Awesome at
-  the moment.
+  Gaming console interface on 320x240px screen design mockup.
 how_to_apply:
-  - Nazeb Zurati (Lead Dev) <nazeb04@gmail.com>
-  - n/a
+  - Comment here - https://github.com/ambar-system/ambar-board/issues/1
 github_handle: ''
-tags: ''
+tags: 'interface, game console, open source'
 date: '2020-07-29T02:51:10.579Z'
 ---
 Ambar System is a proof of concept to make a handheld pure gaming experience. Currently, Ambar System target to provide a better user experience and have a good interface.
