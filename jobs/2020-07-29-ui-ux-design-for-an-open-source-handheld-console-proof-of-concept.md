@@ -1,6 +1,6 @@
 ---
 _id: 5bae31c0-d146-11ea-8b73-8396d83b7fa0
-status: searching
+status: closed
 date_posted: '2020-07-29'
 layout: jobs
 organization: Ambar System
