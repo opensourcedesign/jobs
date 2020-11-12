@@ -1,6 +1,6 @@
 ---
 _id: 6ad86030-1160-11eb-a475-23a377e258a6
-status: searching
+status: closed
 date_posted: '2020-10-18'
 layout: jobs
 organization: GNOME Health
