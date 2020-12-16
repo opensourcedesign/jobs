@@ -11,9 +11,6 @@ compensation: gratis
 deliverables: "Must Have\r\n- A primary logo (png, svg, ico files)\r\n- Inverted color scheme / black & white friendly color option\r\n- Logo with text / wordmark\r\n- A favicon sized version of the logo\r\n\r\nNice to Have\r\n- A Sticker design\r\n- Use Guidelines re: colors, etc"
 how_to_apply:
   - pip-ux@pypa.io
-  - >-
-    More coming soon here (including this work!):
-    https://pip.pypa.io/en/stable/ux_research_design/
 github_handle: ''
 tags: 'logo, branding, design, identity project'
 date: '2020-12-15T16:57:05.392Z'
