@@ -29,6 +29,7 @@ Our job submission process is done **"in the open"** so if you work on an open s
 3. Name your copy something like `2015-03-12-sticker-design-for-fun.md` starting with date
 4. Make sure there is a `.md` extension to the file you copied or it won't work
 5. Fill out the fields inside the template you just copied
+   - Possibly try running `jekyll` to make sure your posting looks right.
 6. Submit a pull request
 7. Have a margarita or hot chocolate
 
