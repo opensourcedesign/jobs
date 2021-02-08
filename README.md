@@ -1,15 +1,15 @@
 # Jobs
 
 The goal here is to create a proper **"job board"** that pairs open source people and projects in need design work with designers who can do those tasks.
-It will be a mixture of *both gratis as well as paying work.*
+It will be a mixture of _both gratis as well as paying work._
 A job can be relatively small task to an entire project.
 I think the ideal balance would be a mixture of about:
 
-* 25% small singular tasks
-* 15% new or fork of an existing project
-* 60% product / feature development on existing projects
+- 25% small singular tasks
+- 15% new or fork of an existing project
+- 60% product / feature development on existing projects
 
-*Note: this process is rough and a work in progress, please free to contribute ideas, approaches, and of course jobs :)*
+_Note: this process is rough and a work in progress, please free to contribute ideas, approaches, and of course jobs :)_
 
 ## Submit a Job
 
@@ -39,4 +39,4 @@ After those steps you will have submitted a job to the OSD job board, you rule ;
 
 ## Fields values
 
-**Status**: accepted values for job status are `searching` and `closed`
+**Status**: Accepted values for job status are `searching` and `closed`.
