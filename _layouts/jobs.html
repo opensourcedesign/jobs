@@ -45,7 +45,11 @@ layout: default
         <div class="how_to_apply">
           {% if page.how_to_apply %}
           <label for="how_to_apply">How to apply:</label>
-            {{ page.how_to_apply | markdownify }}
+          <ul>
+            {% for apply_link in page.how_to_apply %}
+              <li>{{ apply_link | markdownify }}</li>
+            {% endfor %}
+          </ul>
           {% endif %}
         </div>
         <div class="links">
