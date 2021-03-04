@@ -1,6 +1,6 @@
 ---
 _id: 915f4ec0-b194-11ea-a1f4-a96087e59135
-status: searching
+status: solved
 date_posted: '2020-06-18'
 layout: jobs
 organization: Safrano
