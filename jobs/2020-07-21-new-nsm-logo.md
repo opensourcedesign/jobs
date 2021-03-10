@@ -5,17 +5,18 @@ date_posted: '2020-07-21'
 layout: jobs
 organization: New Session Manager
 org_url: 'https://linuxaudio.github.io/new-session-manager'
-title: New NSM logo
+title: New logo for 'NSM'; OSC-based audio session manager API, reference GUI app
 role: Logo design/branding
 compensation: gratis
-deliverables: SVG logo.
+deliverables: SVG logo(s).
 how_to_apply:
   - >-
-    Milkii or any of the other NSM contributors;
-    https://github.com/linuxaudio/new-session-manager/issues/52
-  - 'I think all involved participate in #lad on freenode.'
+    Drop into the #lad channel on freenode IRC server and mention this request.
+    Many interested parties will see the message there within 48 hours.
+    Original issue: https://github.com/linuxaudio/new-session-manager/issues/52
+  - 
 github_handle: ''
-tags: 'logo, audio, music production, session management, osc, encapsulation, fork'
+tags: 'logo, graphic design, audio, music production, session management, api, osc, reference app, encapsulation, fork'
 date: '2020-07-21T13:16:12.297Z'
 ---
-New Session Manager is a new community led fork of NSM, which is the de facto libre audio session manager API (same but better defined API, new reference server and frontend).
+New Session Manager is a new community-led fork of NSM, the *de facto* libre audio session manager API in the JACK and audio production world. The fork brings a slightly better defined API, a new reference server and front-end GUI control app.
