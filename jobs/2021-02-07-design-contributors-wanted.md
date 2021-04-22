@@ -1,6 +1,6 @@
 ---
 _id: a698f420-6964-11eb-a4e1-1912a976d515
-status: searching
+status: closed
 date_posted: '2021-02-07'
 layout: jobs
 organization: Open Food Network
@@ -14,8 +14,10 @@ how_to_apply:
   - "Contributors page: https://www.openfoodnetwork.org/become-a-contributor/\r\n\r\nSlack: https://openfoodnetwork.slack.com\r\n\r\nForum: https://community.openfoodnetwork.org/"
 github_handle: '@erioldoesdesign'
 tags: ''
-date: '2021-02-07T16:50:57.914Z'
 ---
+
+
+
 The project is looking for design contributions of all kinds. 
 
 Check out https://www.openfoodnetwork.org/become-a-contributor/ for info on how to become a contributor
