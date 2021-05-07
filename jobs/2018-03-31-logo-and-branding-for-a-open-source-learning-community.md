@@ -1,6 +1,6 @@
 ---
 _id: 2419dbc0-34cb-11e8-8830-69126feca221
-status: searching
+status: closed
 date_posted: '2018-03-31'
 layout: jobs
 organization: Sleepe Owl
