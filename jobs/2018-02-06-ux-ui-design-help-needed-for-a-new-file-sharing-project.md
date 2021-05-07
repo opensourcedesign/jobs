@@ -1,6 +1,6 @@
 ---
 _id: e67185f0-0b32-11e8-b84f-75476b51bc09
-status: searching
+status: closed
 date_posted: '2018-02-06'
 layout: jobs
 organization: Arbore
