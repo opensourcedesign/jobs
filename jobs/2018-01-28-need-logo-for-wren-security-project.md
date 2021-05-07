@@ -1,6 +1,6 @@
 ---
 _id: 8fea6d20-03fb-11e8-b794-3b465e945ffe
-status: searching
+status: closed
 date_posted: '2018-01-28'
 layout: jobs
 organization: Wren Security
