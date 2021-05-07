@@ -1,6 +1,6 @@
 ---
 _id: 89e88640-6057-11ea-aa30-975c16bba749
-status: searching
+status: closed
 date_posted: '2020-03-07'
 layout: jobs
 organization: pandoc
