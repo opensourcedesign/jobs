@@ -1,6 +1,6 @@
 ---
 _id: 95dc7720-f611-11e7-9233-11f0291e4532
-status: searching
+status: closed
 date_posted: '2018-01-10'
 layout: jobs
 organization: Diversifying Open Source
