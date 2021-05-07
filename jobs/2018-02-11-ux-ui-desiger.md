@@ -1,6 +1,6 @@
 ---
 _id: a15bc630-0f40-11e8-ae35-2d4bacaccd25
-status: searching
+status: closed
 date_posted: '2018-02-11'
 layout: jobs
 organization: telescope
