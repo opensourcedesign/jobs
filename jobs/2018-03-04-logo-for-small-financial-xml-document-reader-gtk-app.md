@@ -1,6 +1,6 @@
 ---
 _id: 98602840-1ff4-11e8-8e5c-bbd9119aac8b
-status: searching
+status: closed
 date_posted: '2018-03-04'
 layout: jobs
 organization: CODAv
