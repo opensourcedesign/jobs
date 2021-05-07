@@ -1,6 +1,6 @@
 ---
 _id: 20978070-f83e-11e7-a28b-b54677bf8a61
-status: searching
+status: closed
 date_posted: '2018-01-13'
 layout: jobs
 organization: CoderYouth
