@@ -1,6 +1,6 @@
 ---
 _id: 9f6e1c90-303e-11e9-8061-454b79428d38
-status: searching
+status: solved
 date_posted: '2019-02-12'
 layout: jobs
 organization: TUXEDO Computers
