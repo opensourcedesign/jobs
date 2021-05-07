@@ -8,7 +8,7 @@ github: wemake-services/wemake-python-styleguide
 contact: github, @sobolevn
 org_url: https://wemake-python-stylegui.de
 tags: logo
-status: searching
+status: closed
 compensation: gratis
 date_posted: 2019-07-13
 ---
