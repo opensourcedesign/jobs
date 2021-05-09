@@ -10,7 +10,7 @@ contributing_md:
 contributors_md:
 org_url: https://dry-python.org
 tags: web-design
-status: searching
+status: closed
 compensation: gratis
 date_posted: 2019-06-28
 ---
