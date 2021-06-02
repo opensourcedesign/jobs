@@ -1,6 +1,6 @@
 ---
 _id: 7f42e080-b24c-11eb-94f7-0d598cb2bd2c
-status: searching
+status: closed
 date_posted: '2021-05-11'
 layout: jobs
 organization: OpenAppStack
