@@ -1,6 +1,6 @@
 ---
 _id: c4152670-e534-11e7-aeb5-89cc147db7e9
-status: searching
+status: solved
 date_posted: '2017-12-20'
 layout: jobs
 organization: Moodle
