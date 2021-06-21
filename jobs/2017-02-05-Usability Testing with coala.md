@@ -1,6 +1,6 @@
 ---
 _id: f91ccc30-ebb9-11e6-83ab-59313166499a
-status: searching
+status: solved
 date_posted: '2017-02-05'
 layout: jobs
 organization: coala
