@@ -10,7 +10,7 @@ contributing_md:
 contributors_md:
 org_url: http://angularjs.meteor.com
 tags: angular, meteor, branding, documentation, information architecture
-status: searching
+status: solved
 compensation: gratis
 date_posted: 2015-04-28
 description:
