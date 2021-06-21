@@ -1,6 +1,6 @@
 ---
 _id: 8f952720-ebba-11e6-83ab-59313166499a
-status: searching
+status: solved
 date_posted: '2017-02-05'
 layout: jobs
 organization: GitMate
