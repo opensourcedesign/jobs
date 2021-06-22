@@ -1,6 +1,6 @@
 ---
 _id: 88b84770-79d6-11e7-8fc5-a32b84421962
-status: searching
+status: solved
 date_posted: '2017-08-05'
 layout: jobs
 organization: Kiwi IRC
