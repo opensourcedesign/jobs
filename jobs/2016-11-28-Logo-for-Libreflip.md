@@ -8,7 +8,7 @@ github: ij0n
 contact: ijon@c-base.org, hanging out on freenode, usually in #c-base
 org_url: http://www.ijon.me
 tags: logo
-status: searching
+status: solved
 compensation: gratis / maybe some money later on when funding has been secured.
 date_posted: 2016-11-28
 description:
