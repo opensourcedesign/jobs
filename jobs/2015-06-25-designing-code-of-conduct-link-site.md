@@ -9,7 +9,7 @@ contributing_md: https://github.com/emilyhorsman/codeofconductlink/blob/develop/
 contributors_md: https://github.com/emilyhorsman/codeofconductlink/blob/develop/CONTRIBUTORS.md
 org_url: https://github.com/emilyhorsman/codeofconductlink
 tags: interface design, branding, logo
-status: searching
+status: solved
 compensation: gratis
 description:
 how_to_apply:
