@@ -7,7 +7,7 @@ organization: Ethereal Lifestyle
 github: CrasHog
 contact: email, github
 tags: Three.js, 3d, WebGL, design, branding, Archetecture
-status: searching
+status: solved
 compensation: salary depending on skill level and experience
 date_posted: 2015-06-04
 description:
