@@ -10,7 +10,7 @@ contributing_md: (optional)
 contributors_md: (optional)
 org_url: https://www.mozilla.org/
 tags: interface design, branding, logo
-status: searching
+status: solved
 compensation: gratis
 date_posted: 2016-05-02
 description:
