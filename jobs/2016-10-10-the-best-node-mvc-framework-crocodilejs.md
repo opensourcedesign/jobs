@@ -9,7 +9,7 @@ contact: niftylettuce@gmail.com
 contributing_md:
 org_url: https://github.com/crocodilejs/crocodile-node-mvc-framework
 tags: logo, design, mvc, node, framework, koa, crocodile, es7, es6, babel, nunjucks, mongodb, redis
-status: searching
+status: solved
 compensation: gratis
 date_posted: 2016-10-10
 description:
