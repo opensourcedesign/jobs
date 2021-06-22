@@ -1,6 +1,6 @@
 ---
 _id: 2aaee050-c277-11e7-a79e-230dfddeafda
-status: searching
+status: solved
 date_posted: '2017-11-06'
 layout: jobs
 organization: CaptainFact
