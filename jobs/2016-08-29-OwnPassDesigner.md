@@ -10,7 +10,7 @@ contributing_md: https://github.com/ownpass/ownpass/blob/master/CONTRIBUTING.md
 contributors_md: https://github.com/ownpass/ownpass/graphs/contributors
 org_url: https://github.com/ownpass/ownpass/wiki
 tags: interface design, branding, logo, ux, mobile
-status: searching
+status: solved
 compensation: gratis
 date_posted: 2016-08-29
 description:
