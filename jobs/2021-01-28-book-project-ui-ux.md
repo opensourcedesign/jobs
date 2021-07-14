@@ -25,4 +25,4 @@ We're looking for a UI/UX designer to work with us on delivering an amazing web 
 ![image](https://user-images.githubusercontent.com/11173328/112493885-739b0d80-8d7a-11eb-85a1-b4c500dc61ab.png)
 
 
-See our [design page](https://project-books.github.io/docs/design/join-design-team/) for more information.
+See our [design page](https://project-books.github.io/docs/design/join-design-team.html) for more information.
