@@ -1,6 +1,6 @@
 ---
 _id: 609f1720-4518-11e7-9b6a-af412692599a
-status: searching
+status: solved
 date_posted: '2017-05-30'
 layout: jobs
 organization: first timer scraper
