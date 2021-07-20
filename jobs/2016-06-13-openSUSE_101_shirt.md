@@ -10,7 +10,7 @@ contributing_md: (optional)
 contributors_md: (optional)
 org_url: http://101.opensuse.org/
 tags: shirt design
-status: searching
+status: solved
 compensation: free shirt / swag / gratis
 date_posted: 2016-06-13
 description:
