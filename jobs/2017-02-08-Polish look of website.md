@@ -1,6 +1,6 @@
 ---
 _id: 86e2e640-ee20-11e6-aeaf-21565ac77c41
-status: searching
+status: solved
 date_posted: '2017-02-08'
 layout: jobs
 organization: subuser
