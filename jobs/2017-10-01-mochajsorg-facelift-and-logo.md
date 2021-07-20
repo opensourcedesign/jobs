@@ -1,6 +1,6 @@
 ---
 _id: 316acbb0-a734-11e7-ba25-ff198669fadf
-status: searching
+status: solved
 date_posted: '2017-10-01'
 layout: jobs
 organization: Mocha
