@@ -1,6 +1,6 @@
 ---
 _id: 4d469b70-f2ee-11e6-998b-4d4ef40ec3de
-status: searching
+status: solved
 date_posted: '2017-02-14'
 layout: jobs
 organization: OrgManager
