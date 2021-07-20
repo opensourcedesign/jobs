@@ -1,6 +1,6 @@
 ---
 _id: de4ab860-e19e-11e6-b7c4-7beb5d4413a0
-status: searching
+status: solved
 date_posted: '2017-01-23'
 layout: jobs
 organization: ThoughtStreamer
