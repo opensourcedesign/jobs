@@ -10,7 +10,7 @@ contributing_md: (optional) # A link to your contributing guidelines for newcome
 contributors_md: (optional) # A list of contributors who are reach-out-able.
 org_url: https://openvz.org
 tags: design, branding, logo
-status: searching
+status: solved
 compensation: gratis
 date_posted: 2015-08-27
 description:
