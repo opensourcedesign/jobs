@@ -10,7 +10,7 @@ contributing_md: (optional)
 contributors_md: (optional)
 org_url: https://github.com/graphql-go/graphql
 tags: logo, golang, go, graphql
-status: searching
+status: solved
 compensation: gratis
 date_posted: 2016-04-02
 description:
