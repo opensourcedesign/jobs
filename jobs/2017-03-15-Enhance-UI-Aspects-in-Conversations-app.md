@@ -1,6 +1,6 @@
 ---
 _id: 00000000-0000-0000-0000-000000000058
-status: searching
+status: solved
 date_posted: '2017-03-15'
 layout: jobs
 title: More Material Elements in XMPP Chat app
