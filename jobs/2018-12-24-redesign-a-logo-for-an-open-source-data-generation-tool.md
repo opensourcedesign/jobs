@@ -1,6 +1,6 @@
 ---
 _id: bbb5e000-078e-11e9-b6e4-d7ba3f1f081f
-status: searching
+status: solved
 date_posted: '2018-12-24'
 layout: jobs
 organization: Mimesis
