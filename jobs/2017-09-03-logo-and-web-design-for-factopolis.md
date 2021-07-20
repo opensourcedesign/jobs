@@ -1,6 +1,6 @@
 ---
 _id: 00424fa0-9126-11e7-acc3-59682e045002
-status: searching
+status: solved
 date_posted: '2017-09-03'
 layout: jobs
 organization: Factopolis
