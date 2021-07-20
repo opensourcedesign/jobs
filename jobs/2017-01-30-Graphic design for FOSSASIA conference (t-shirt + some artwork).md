@@ -1,6 +1,6 @@
 ---
 _id: 58c2d210-e7d2-11e6-bf17-3b62c726cec1
-status: searching
+status: solved
 date_posted: '2017-01-30'
 layout: jobs
 organization: FOSSASIA
