@@ -10,7 +10,7 @@ contributing_md: (optional)
 contributors_md: (optional)
 org_url: http://pllug.org.ua/
 tags: interface design,
-status: searching
+status: solved
 compensation: gratis
 date_posted: 2016-07-05
 description:
