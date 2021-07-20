@@ -1,6 +1,6 @@
 ---
 _id: 8dfb2d90-5c05-11e7-9a13-b51276a7e587
-status: searching
+status: solved
 date_posted: '2017-06-28'
 layout: jobs
 organization: LibreOffice / The Document Foundation
