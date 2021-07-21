@@ -10,7 +10,7 @@ contributing_md:
 contributors_md:
 org_url: http://www.navit-project.org
 tags: interface design, icons
-status: searching
+status: solved
 compensation: gratis
 date_posted: 2015-08-10
 description:
