@@ -1,6 +1,6 @@
 ---
 _id: 8f813a10-e22f-11e6-b7c4-7beb5d4413a0
-status: searching
+status: solved
 date_posted: '2017-01-23'
 layout: jobs
 organization: OpenScore
