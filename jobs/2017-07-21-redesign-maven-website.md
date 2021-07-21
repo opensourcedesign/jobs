@@ -1,6 +1,6 @@
 ---
 _id: c1605040-7170-11e7-b597-5f8c890efa0b
-status: searching
+status: solved
 date_posted: '2017-07-21'
 layout: jobs
 organization: Apache Maven
