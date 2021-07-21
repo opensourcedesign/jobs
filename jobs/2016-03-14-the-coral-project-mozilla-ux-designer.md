@@ -8,7 +8,7 @@ github: https://github.com/CoralProject
 contact: https://twitter.com/CoralProject
 org_url: https://coralproject.net
 tags: ui designer , ux designer , mozilla foundation , internet communities
-status: searching
+status: solved
 compensation: paid
 date_posted: 2016-03-14
 description:
