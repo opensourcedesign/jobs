@@ -9,7 +9,7 @@ contact: bdavidxyz@gmail.com
 contributing_md:
 org_url: https://github.com/bdavidxyz/zee
 tags: interface design, branding, landing page
-status: searching
+status: solved
 compensation: gratis
 date_posted: 2016-04-20
 description:
