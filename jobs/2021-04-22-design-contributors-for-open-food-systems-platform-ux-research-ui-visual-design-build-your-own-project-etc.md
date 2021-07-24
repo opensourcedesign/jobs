@@ -1,6 +1,6 @@
 ---
 _id: be59b2b0-a376-11eb-92d1-295c85fa215e
-status: searching
+status: solved
 date_posted: '2021-04-22'
 layout: jobs
 organization: Open Food Network
