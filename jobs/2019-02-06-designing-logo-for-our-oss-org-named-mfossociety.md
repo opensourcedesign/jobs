@@ -1,6 +1,6 @@
 ---
 _id: 28d64360-2994-11e9-b2fd-d7c0a264de86
-status: searching
+status: solved
 date_posted: '2019-02-06'
 layout: jobs
 organization: MFOSSociety
