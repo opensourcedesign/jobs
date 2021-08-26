@@ -22,7 +22,9 @@ My team and I are looking for someone that can contribute to the user experience
 
 ### THE PRODUCT 💻
 
-RestQA is a test automation tool, which is very tedious and time consuming. The reality is developers and/or QA trend to drag their feet on test automation creation. 😢
+RestQA is a test automation tool, helping technical team to improve their products quality.
+
+However test automation is very tedious and time consuming. The reality is developers and/or QA trend to drag their feet on test automation creation. 😢
 
 ### THE VISION 🚀
 
@@ -35,9 +37,9 @@ As tech people we already work on the foundation but  the product has a lack in 
 ### THE CORE TEAM 👩‍💻
 
 * [WAPI](https://github.com/restqa-bot) - Our mascot
-* [OLIVIER] (https://github.com/olivierodo) - Main maintainer 
-* [TONY] (https://github.com/tony-go) - Tech lead 
-* [KAT] (https://github.com/KaTLaz) - content manager - Non tech 🙃
+* [OLIVIER](https://github.com/olivierodo) - Main maintainer 
+* [TONY](https://github.com/tony-go) - Tech lead 
+* [KAT](https://github.com/KaTLaz) - content manager - Non tech 🙃
 
 
 ### ABOUT YOU 🦸‍♀️
