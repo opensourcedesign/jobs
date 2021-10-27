@@ -5,14 +5,14 @@ date_posted: '2021-01-28'
 layout: jobs
 organization: Book Project
 org_url: 'https://github.com/Project-Books/book-project'
-title: UI/UX designer to work with us
-role: 'UI, UX, design'
+title: UI designer
+role: 'UI, design'
 compensation: gratis
-deliverables: "- Research on what our users want\r\n- Wireframes and mockups"
+deliverables: "- Mockups"
 how_to_apply:
   - 'Karan (project lead): bookproject@madebykarankumar.com'
 github_handle: ''
-tags: 'ui, ux, design'
+tags: 'ui, design'
 date: '2021-01-28T18:00:54.816Z'
 ---
 
@@ -20,9 +20,6 @@ date: '2021-01-28T18:00:54.816Z'
 
 Help us design a simple, clean and good-looking UI and UX.
 
-We're looking for a UI/UX designer to work with us on delivering an amazing web app that our users will love. First, we're looking to find out common concerns with alternative platforms and to continue this research-led process throughout.
+We're looking for a UI designer to work with us on designing our new mockups for our redesign. See our [design page](https://project-books.github.io/docs/design/join-design-team/) for more information.
 
 ![image](https://user-images.githubusercontent.com/11173328/112493885-739b0d80-8d7a-11eb-85a1-b4c500dc61ab.png)
-
-
-See our [design page](https://project-books.github.io/docs/design/join-design-team.html) for more information.
