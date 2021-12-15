@@ -1,0 +1,38 @@
+---
+_id: 44724dd0-5e02-11ec-b1f5-b9bed7a64f29
+status: searching
+date_posted: '2021-12-15'
+layout: jobs
+organization: UX Design Content Strategist
+org_url: 'https://www.usbank.com/careers/index.html'
+title: UX Design Content Strategist
+role: >-
+  ‘digital writer’, ‘copywriter’, ‘usability content’, Usability review &
+  research’, ‘content strategy’, ‘interactive design’, ‘user-center design’,
+  ‘instructional transactional marketing’, ‘English & writing & journalism’
+compensation: paid
+deliverables: "Expertly knows and uses the Shield design system and, in partnership with design leadership and the Shield team, actively contributes new elements, enhancements and extensions supported by rock-solid design & technical rationales.\r\nActively participates and contributes to one or more communities of practice, coaches others, and leads design excellence by example. \r\nInfluences by creating compelling points-of-view and envisioning ideas with verbal and visual storytelling. \r\nContributes to insights driven by user-centered research."
+how_to_apply:
+  - Vannessa (digital recruiter) <vannessa.brown2@usbank.com>
+  - ''
+github_handle: ''
+tags: >-
+  usbank, uxdesign, innovation, future, UXJobs. Careers, Banking Careers,
+  diversity, UX, Figma
+date: '2021-12-15T23:53:57.438Z'
+---
+The Content Specialist/Strategist works with Experience Strategy leads and UX team members to identify and meet the content demands for various projects. Writes, edits and implements content based on the U.S. Bank content strategy, including voice and tone, and customer-/business-centric site goal. Reviews content with peers and senior content strategists to ensure they accurately represent the U.S. Bank content strategies. Formally observes user interviews and usability sessions. Analyzes and understands end-to-end customer experiences to ensure that all content is consistent in voice/tone/construction and technically correct. Assists in gathering requirements and assessing content needs of a given project. Updates content logs, copies documents, CMS and other documentation systems. Provides strategic content recommendations and writing/editing support for UX teams, product managers, business lines, and other content stakeholders. Drives, advocates and embodies a customer-centric perspective within and outside the UX Design organization, resulting in consistently simple and innovatively enriching experiences for our customers. Applies and updates existing content strategies to accommodate new products and campaigns. Validates that content is correctly and accurately implemented across all platforms.
+
+Basic Qualifications
+- Bachelor's degree, with an emphasis on English, Writing, Technical Writing, Journalism, Content Strategy, or Library Science preferred, or equivalent experience
+- Five or more years of related work experience
+
+Preferred Skills/Experience
+- Strong understanding of the principles of content strategy with a clear understanding of information architecture, interactive design principles, and web usability
+- Ability to produce user-centered design from concept to delivery without supervision
+- Ability to communicate complex concepts clearly and persuasively across different audiences and varying levels of the organization
+- Significant experience writing a variety of digital content for instructional, transactional and marketing experiences - including navigation labels, form fields labels and messaging, error messages, contextual help messages, alert messages and FAQs
+- Experience with data collection and quantitative analysis
+- Ability to meet ambitious deadlines and delivering high quality work on schedule, including quickly turning around plans and reports
+- Good knowledge of UX best practices
+- Familiar with delivering creative within an Agile environment
