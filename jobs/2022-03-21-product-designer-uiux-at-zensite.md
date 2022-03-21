@@ -1,0 +1,94 @@
+---
+_id: 01a1fd50-a8f5-11ec-9024-6d4e733d9ed4
+status: searching
+date_posted: '2022-03-21'
+layout: jobs
+organization: Zensite UX Design Agency
+org_url: 'https://zensite.co'
+title: Product Designer (UIUX) at Zensite
+role: Product Designer
+compensation: gratis
+deliverables: ''
+how_to_apply:
+  - David Yap
+  - 'Find Zensite here: https://zensite.co'
+github_handle: david@zensite.co
+tags: 'ui, ux, product design, user experience, figma'
+date: '2022-03-21T08:57:59.078Z'
+---
+Quick Summary
+This is a fully remote position.
+
+Native or Professional English is a must. All company communication is in English.
+
+3+ years of design experience. (it’s a bonus if you already worked in an agency environment or remotely).
+
+We’re looking for a person that will help us tackle ongoing and new design projects, and work closely with the rest of the team to define internal processes, design systems, and general design methodology. (it’s a bonus if you already worked in an agency environment).
+
+We're currently a small team. We're interested in autonomous and proactive individuals that aren't afraid to make mistakes, learn along the way, and grow with the agency.
+
+Will be converted to full time if there is a strong fit
+
+Competitive salary based on your location and experience.
+
+Who are are
+Zensite is a remote-first creative agency specialising in creating digital products for digital startups and companies that are looking to create a massive impact. We create long-term partnerships with the world’s leading brands to design and build digital flagship products crucial to their core business.
+
+The opportunity
+As a product designer for Zensite, you’ll lead design engagements for a variety of large and/or complex projects with minimal oversight. You’ll drive the design direction, and then make it happen. Since we are a tight-knit team, you might be required to wear multiple hats.
+
+Responsibility
+Collaborate with a multidisciplinary team of Software Engineers, Researchers, Lead Designer, and Project Managers
+
+Lead ideation sessions, workshops, demos, and presentations with clients
+
+You will sketch, ideate, wireframe, build information architecture, run usability tests and design visual UI for digital products
+
+Collaborate with other designers to ensure design deliverables are conceptually sound
+
+Fluent in using Figma as a design tool and also able to deliver prototypes from Figma
+
+You will build and maintain a design system to maintain consistency and visual potency across all touchpoints
+
+Ensure content strategy and design are aligned
+
+Able to critique design peers' work to ensure the work are constantly refined and seek better solutions
+
+Creatively independent and able to come up with new creative ideas that improve the product overall
+
+Qualification
+A minimum of 3+ years of design experience
+
+A portfolio that exemplifies strong visual design and a focus on defining the user experience
+
+Strong design skill in building high-definition UI on both desktop and mobile and making your work scalable (systemic).
+
+A strong sense in visual design that is visually appealing and has the latest design trend that is able to make our clients go “wow”
+
+You understand how to work to tight deadlines, over multiple projects, engage with multiple teams and deliver quality throughout everything you design.
+
+Design-driven, but a strategy-led approach to executing visual concepts
+
+You have shipped and launched a few digital products
+
+A strong understanding of typography, layout, colour, and advanced design principles
+
+Able to design and create a new branding guide such as logo, colours, typography and graphic materials assets
+
+You’re a conceptual thinker that can translate customer needs, behaviours, and project requirements
+
+Experience effectively presenting and communicating your design decisions to clients and team members
+
+You’re knowledgeable of what’s possible on modern digital platforms in addition to an understanding of platform design standards (e.g. HIG, Material Design)
+
+Have to be comfortable working in an agency space environment
+
+You're empathetic to client needs and can help find solutions if problems arise
+
+Fluent in Figma and have a strong understanding of the software
+
+You are comfortable working remotely with an international team and comfortable with timezone differences in certain situations.
+
+Fluent in English to engage with all international team members and clients.
+
+For more info, visit <a href="https://zensite.co">Zensite UX Design Agency</a></a> website here.
