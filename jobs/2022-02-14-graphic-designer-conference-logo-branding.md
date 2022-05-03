@@ -1,6 +1,6 @@
 ---
 _id: cae5f810-8da2-11ec-92ff-9d8799866e47
-status: searching
+status: closed
 date_posted: '2022-02-14'
 layout: jobs
 organization: OpenStreetMap US
