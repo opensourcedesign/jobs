@@ -1,6 +1,6 @@
 ---
 _id: e6c0da60-068c-11ed-8135-a1640b27b3cc
-status: searching
+status: closed
 date_posted: '2022-07-18'
 layout: jobs
 organization: Fairfield Programming Association Mobile Platform
