@@ -1,6 +1,6 @@
 ---
 _id: c12dce80-018b-11ed-abaa-17690f1b5bbf
-status: searching
+status: closed
 date_posted: '2022-07-12'
 layout: jobs
 organization: The Good Docs Project
