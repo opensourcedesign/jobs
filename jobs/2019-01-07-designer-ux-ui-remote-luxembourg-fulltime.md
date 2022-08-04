@@ -1,6 +1,6 @@
 ---
 _id: ecae3790-1268-11e9-b062-bb4bb1a15958
-status: searching
+status: closed
 date_posted: '2019-01-07'
 layout: jobs
 organization: Passbolt
