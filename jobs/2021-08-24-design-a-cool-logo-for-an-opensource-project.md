@@ -1,6 +1,6 @@
 ---
 _id: 24c67570-0519-11ec-8a3e-310735a9f8ac
-status: searching
+status: closed
 date_posted: '2021-08-24'
 layout: jobs
 organization: Create a new sexy logo to protoconf
