@@ -39,4 +39,6 @@ After those steps you will have submitted a job to the OSD job board, you rule ;
 
 ## Fields values
 
-**Status**: Accepted values for job status are `searching` and `closed`.
+**Status**: Accepted values for job status are `searching` and `closed` and 'solved'.
+
+Note to job posters: Once your job has been completed/filled please go to [your job in this repos folder](https://github.com/opensourcedesign/jobs/tree/master/jobs) and change the status from 'searching' to either 'closed' or 'solved'. We'd also appreciate if you could [complete our survey](https://cloud.opensourcedesign.net/apps/forms/DNTkJM32eWd9EQjn) to make jobs on open source design better :) 
