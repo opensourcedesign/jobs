@@ -1,6 +1,6 @@
 ---
 _id: 776a0530-8cdd-11eb-a70b-6d519e3e72d2
-status: searching
+status: closed
 date_posted: '2021-03-24'
 layout: jobs
 organization: Bloben
