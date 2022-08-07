@@ -1,6 +1,6 @@
 ---
 _id: 143b8310-4436-11ec-8278-3b398116308f
-status: searching
+status: closed
 date_posted: '2021-11-12'
 layout: jobs
 organization: The Tor Project
