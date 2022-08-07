@@ -1,6 +1,6 @@
 ---
 _id: 36b883e0-3584-11ec-8fed-5d5a910ed55b
-status: searching
+status: closed
 date_posted: '2021-10-25'
 layout: jobs
 organization: Jolocom SmartWallet
