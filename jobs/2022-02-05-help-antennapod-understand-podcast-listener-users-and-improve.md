@@ -1,6 +1,6 @@
 ---
 _id: e8f3c300-86b3-11ec-adac-b9c99001ac43
-status: searching
+status: closed
 date_posted: '2022-02-05'
 layout: jobs
 organization: Antennapod
