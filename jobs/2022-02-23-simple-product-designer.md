@@ -1,6 +1,6 @@
 ---
 _id: 9246e7b0-948e-11ec-99ac-535c1e178d34
-status: searching
+status: closed
 date_posted: '2022-02-23'
 layout: jobs
 organization: 'Simple: Product Designer'
