@@ -1,6 +1,6 @@
 ---
 _id: 7dd979f0-6965-11eb-a4e1-1912a976d515
-status: searching
+status: closed
 date_posted: '2021-02-07'
 layout: jobs
 organization: Tumpa
