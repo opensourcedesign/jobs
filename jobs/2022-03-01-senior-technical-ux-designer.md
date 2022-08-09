@@ -1,6 +1,6 @@
 ---
 _id: 937cbb50-993e-11ec-a733-b174ed762ec1
-status: searching
+status: closed
 date_posted: '2022-03-01'
 layout: jobs
 organization: Kedro
