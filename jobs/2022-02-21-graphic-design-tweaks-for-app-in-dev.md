@@ -1,6 +1,6 @@
 ---
 _id: 3bbc3970-930a-11ec-b4c5-352a00babc4b
-status: searching
+status: closed
 date_posted: '2022-02-21'
 layout: jobs
 organization: Digital Circle
