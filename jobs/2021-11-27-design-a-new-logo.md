@@ -1,6 +1,6 @@
 ---
 _id: edfd3ac0-4f95-11ec-88c5-01b9dec7c2f6
-status: searching
+status: closed
 date_posted: '2021-11-27'
 layout: jobs
 organization: Fosshost
