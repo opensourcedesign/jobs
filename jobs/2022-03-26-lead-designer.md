@@ -1,6 +1,6 @@
 ---
 _id: b828fc20-ad52-11ec-87c0-3dcb09bf78c3
-status: searching
+status: closed
 date_posted: '2022-03-26'
 layout: jobs
 organization: QUANTU
