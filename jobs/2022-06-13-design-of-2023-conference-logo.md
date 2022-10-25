@@ -1,6 +1,6 @@
 ---
 _id: 75e83060-eb1e-11ec-8510-9bc7dac210ad
-status: searching
+status: closed
 date_posted: '2022-06-13'
 layout: jobs
 organization: Grazer Linuxtage
@@ -10,7 +10,7 @@ role: Logo design
 compensation: paid
 deliverables: 'A logo, preferred as vector graphic.'
 how_to_apply:
-  - Boerny <boerny@linuxtage.at>
+  - Boerny <>
   - "Works from the last year could be found here: https://cloud.linuxtage.at/s/oAy9tYHPgqMnCwE\r\n\r\nOur website: https://www.linuxtage.at/en/"
 github_handle: '@Nalaxon'
 tags: 'logo, conference logo, graphic design'
