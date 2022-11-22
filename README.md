@@ -17,7 +17,7 @@ Our job submission process is done **"in the open"** so if you work on an open s
 
 **Easy Web Form**
 
-1. Go to [our form](http://opensourcedesign.net/jobs/job-form/) and fill in the details,
+1. Go to [our form](https://opensourcedesign.net/jobs/job-form/) and fill in the details,
 2. Submit the form,
 3. Wait for us to approve your job posting,
 4. Have a margarita or a hot chocolate.
@@ -35,7 +35,7 @@ Our job submission process is done **"in the open"** so if you work on an open s
 
 After those steps you will have submitted a job to the OSD job board, you rule ;)
 
-## [View job listings](http://opensourcedesign.net/jobs/).
+## [View job listings](https://opensourcedesign.net/jobs/).
 
 ## Fields values
 
