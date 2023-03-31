@@ -1,9 +1,9 @@
 ---
 _id: 6ddfbed0-415c-11ed-8455-e5c6e12a593e
-status: searching
+status: completed
 date_posted: '2022-10-01'
 layout: jobs
-organization: Open Privacy Tech
+organization: OpenPrivacyTech
 org_url: 'https://www.openprivacytech.org'
 title: Design a logo and branding for a non profit working on open source.
 role: logo design and branding for the organization.
