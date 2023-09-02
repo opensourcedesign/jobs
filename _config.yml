@@ -12,6 +12,10 @@ github_username:  opensourcedesign
 markdown: kramdown
 permalink: /:month-:day-:year/:title.html
 
+# Plugins
+plugins:
+  - jekyll-redirect-from
+
 kramdown:
   input: GFM
 
