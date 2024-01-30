@@ -3,9 +3,9 @@ _id: ae42e050-aaf2-11ee-becc-6b2530a330ef
 status: searching
 date_posted: '2024-01-04'
 layout: jobs
-organization: UX Clinic poster design for FOSDEM
+organization: UX Clinic poster design
 org_url: 'https://opensourcedesign.net/'
-title: UX Clinic poster design for FOSDEM! - Deadline Jan 22nd 2024
+title: UX Clinic poster design for Open Source Design
 role: 'poster design, graphic design, poster, sign making, typography,'
 compensation: gratis
 deliverables: >-
@@ -19,11 +19,9 @@ github_handle: ''
 tags: 'poster design, graphic design, poster, sign making, typography,'
 date: '2024-01-04T11:16:17.883Z'
 ---
-Open Source Design has a stand/table at FOSDEM 2024 and we’re planning on running our ‘Design support Clinic’ or ‘UX Clinic’ like we’ve done in previous years at FOSDEM and also at other conferences.
+Open Source Design runs design clinics at various conferences and we’d like to make sure we can decorate our stand and our helpers for the clinic! things we’ll need:
 
-We’d like to make sure we can decorate our stand and our helpers for the clinic! things we’ll need:
-
-Posters designed by community members - A5, A4 or A3 paper size - a file format (.pdf .jpg .png) that can be printed and is ready by Jan 21st!
+Posters designed by community members - A5, A4 or A3 paper size - a file format (.pdf .jpg .png)
 
 Name tags with a blank space for a persons name and pronouns to be written - 8cm high x 10cm width
 
