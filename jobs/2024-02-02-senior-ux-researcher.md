@@ -8,8 +8,8 @@ org_url: 'https://www.home-assistant.io'
 title: Senior UX Researcher
 role: UX Research
 compensation: paid
-deliverables: Matthias de Baat (UX designer) <matthias.debaat@nabucasa.com>
-how_to_apply:
+deliverables: 
+how_to_apply: Use the Apply button on the job listing to apply for this position. If you have any questions about this position, please get in touch with us at: apply@nabucasa.com. Please use this address for questions only.
   - Matthias de Baat (UX designer) <matthias.debaat@nabucasa.com>
   - >-
     https://remote.com/jobs/nabu-casa-home-assistant-c1meh63e/senior-ux-researcher-j1jgjd4v
