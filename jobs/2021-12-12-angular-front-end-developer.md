@@ -1,6 +1,6 @@
 ---
 _id: 3f002360-5aef-11ec-bec4-cf65d9ee7df8
-status: searching
+status: closed
 date_posted: '2021-12-12'
 layout: jobs
 organization: CTemplar
