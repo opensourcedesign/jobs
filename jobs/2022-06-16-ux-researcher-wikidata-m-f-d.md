@@ -1,6 +1,6 @@
 ---
 _id: 90352430-ed6e-11ec-8c41-43fc46f822a6
-status: searching
+status: closed
 date_posted: '2022-06-16'
 layout: jobs
 organization: Wikimedia Deutschland e.V.
