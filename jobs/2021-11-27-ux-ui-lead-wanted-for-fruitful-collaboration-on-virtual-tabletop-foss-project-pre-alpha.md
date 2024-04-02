@@ -4,7 +4,7 @@ status: searching
 date_posted: '2021-11-27'
 layout: jobs
 organization: Dynastra Tabletop (FOSS but currently private)
-org_url: 'http://gitlab.com/dynastratabletop'
+org_url: 'http://gitlab.com/dynastra-tabletop'
 title: >-
   UX/UI lead wanted for fruitful collaboration on Virtual Tabletop FOSS project
   (Pre-Alpha)
