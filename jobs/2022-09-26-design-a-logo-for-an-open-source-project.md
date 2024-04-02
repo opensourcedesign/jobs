@@ -1,6 +1,6 @@
 ---
 _id: 088e09b0-3dd8-11ed-a337-c98280e79774
-status: searching
+status: closed
 date_posted: '2022-09-26'
 layout: jobs
 organization: '[Data Umbrella] Data Events Board'
