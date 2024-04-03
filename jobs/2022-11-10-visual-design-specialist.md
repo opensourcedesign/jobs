@@ -1,6 +1,6 @@
 ---
 _id: 0d651380-60d2-11ed-b207-17747f9639e0
-status: searching
+status: closed
 date_posted: '2022-11-10'
 layout: jobs
 organization: Visual Design Specialist
