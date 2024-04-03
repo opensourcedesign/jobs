@@ -1,6 +1,6 @@
 ---
 _id: a78015a0-78ac-11ec-89c9-3d0182b04557
-status: searching
+status: closed
 date_posted: '2022-01-18'
 layout: jobs
 organization: Freedom of the Press Foundation
