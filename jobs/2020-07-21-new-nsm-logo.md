@@ -1,6 +1,6 @@
 ---
 _id: 59279880-cb54-11ea-9568-fbef94085fd9
-status: searching
+status: closed
 date_posted: '2020-07-21'
 layout: jobs
 organization: New Session Manager
