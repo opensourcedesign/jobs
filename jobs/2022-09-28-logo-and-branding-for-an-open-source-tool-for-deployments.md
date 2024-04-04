@@ -1,6 +1,6 @@
 ---
 _id: a22c1910-3f61-11ed-96c1-bb6c020bc123
-status: searching
+status: closed
 date_posted: '2022-09-28'
 layout: jobs
 organization: Catalysis
