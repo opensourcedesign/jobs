@@ -1,6 +1,6 @@
 ---
 _id: c158cf00-a8b2-11eb-81ab-d5785de3dad9
-status: searching
+status: closed
 date_posted: '2022-08-04'
 layout: jobs
 organization: OSArch Style Guide
