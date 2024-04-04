@@ -1,6 +1,6 @@
 ---
 _id: 40bc6dc0-2125-11ec-a578-2140a3e4cbc1
-status: searching
+status: closed
 date_posted: '2021-09-29'
 layout: jobs
 organization: Time Tracking Reporting Integration
