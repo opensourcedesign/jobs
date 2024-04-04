@@ -1,6 +1,6 @@
 ---
 _id: 8675c9e0-52b4-11ec-ad63-ab046b19c292
-status: searching
+status: closed
 date_posted: '2021-12-01'
 layout: jobs
 organization: CORRECTIV - Various projects
