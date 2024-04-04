@@ -1,6 +1,6 @@
 ---
 _id: c40c44f0-6192-11eb-9362-a71dd15065e4
-status: searching
+status: closed
 date_posted: '2021-01-28'
 layout: jobs
 organization: Book Project
