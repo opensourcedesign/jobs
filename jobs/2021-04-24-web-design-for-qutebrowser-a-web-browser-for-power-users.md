@@ -1,6 +1,6 @@
 ---
 _id: 9d8e0180-a4d9-11eb-a6b0-55262287ca65
-status: searching
+status: closed
 date_posted: '2021-04-24'
 layout: jobs
 organization: qutebrowser
