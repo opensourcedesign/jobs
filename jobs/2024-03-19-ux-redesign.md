@@ -1,6 +1,6 @@
 ---
 _id: 77757840-e60b-11ee-b601-c1645a4d6e83
-status: searching
+status: closed
 date_posted: '2024-03-19'
 layout: jobs
 organization: InvenTree
