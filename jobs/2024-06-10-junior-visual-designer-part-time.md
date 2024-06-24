@@ -1,6 +1,6 @@
 ---
 _id: 66237ee0-26f5-11ef-a4b7-ff26fa53403e
-status: searching
+status: closed
 date_posted: '2024-06-10'
 layout: jobs
 organization: Ura Design
