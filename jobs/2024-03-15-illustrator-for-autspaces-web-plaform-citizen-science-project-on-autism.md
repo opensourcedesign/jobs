@@ -1,6 +1,6 @@
 ---
 _id: b830cec0-e2d2-11ee-b2ae-c318c12fc881
-status: searching
+status: closed
 date_posted: '2024-03-15'
 layout: jobs
 organization: AutSPACEs
