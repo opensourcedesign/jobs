@@ -1,6 +1,6 @@
 ---
 _id: 452b5a50-2b28-11ef-ac33-bddabdd3527c
-status: searching
+status: closed
 date_posted: '2024-06-15'
 layout: jobs
 organization: ImagePro Figma Plugin
