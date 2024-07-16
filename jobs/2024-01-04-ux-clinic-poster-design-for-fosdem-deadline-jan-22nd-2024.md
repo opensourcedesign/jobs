@@ -1,6 +1,6 @@
 ---
 _id: ae42e050-aaf2-11ee-becc-6b2530a330ef
-status: searching
+status: closed
 date_posted: '2024-01-04'
 layout: jobs
 organization: UX Clinic poster design
