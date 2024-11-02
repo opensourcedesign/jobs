@@ -1,6 +1,6 @@
 ---
 _id: ce3ea2a0-7e8b-11ef-848a-8f0b94c79731
-status: searching
+status: closed
 date_posted: '2024-09-29'
 layout: jobs
 organization: Ontime
