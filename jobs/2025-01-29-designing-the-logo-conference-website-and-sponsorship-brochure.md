@@ -1,6 +1,6 @@
 ---
 _id: 4796e890-de10-11ef-9d49-2de5984f0dec
-status: searching
+status: closed
 date_posted: '2025-01-29'
 layout: jobs
 organization: PyCon India 2025
