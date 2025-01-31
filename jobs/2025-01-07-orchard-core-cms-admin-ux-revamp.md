@@ -1,6 +1,6 @@
 ---
 _id: ca02c850-cc98-11ef-8544-919812be8691
-status: searching
+status: closed
 date_posted: '2025-01-07'
 layout: jobs
 organization: Orchard Core
