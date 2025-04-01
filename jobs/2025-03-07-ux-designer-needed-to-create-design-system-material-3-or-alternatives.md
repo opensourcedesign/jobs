@@ -1,6 +1,6 @@
 ---
 _id: 4a62a500-fb57-11ef-8f49-f76286168047
-status: searching
+status: closed
 date_posted: '2025-03-07'
 layout: jobs
 organization: The X ORB AB
