@@ -1,6 +1,6 @@
 ---
 _id: 201c8360-1489-11f0-b387-a9a64498d38b
-status: searching
+status: closed
 date_posted: '2025-04-08'
 layout: jobs
 organization: Nextcloud
