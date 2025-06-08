@@ -4,7 +4,7 @@ status: searching
 date_posted: '2025-03-31'
 layout: jobs
 organization: grunf
-org_url: 'https://www.rhea.si'
+org_url: 'https://gitlab.com/stormfinger/grunf'
 title: UI/UX for grunf (wizard application)
 role: interaction desing and feel and look for an application
 compensation: gratis
@@ -13,7 +13,7 @@ deliverables: >-
   and feel and look of an application
 how_to_apply:
   - eduard.filipas@rhea.si
-  - 'existing work can be found https://cloud.rhea.si/index.php/s/DnALHAGWnYCrk5a'
+  - 'existing work can be found https://gitlab.com/stormfinger/grunf'
 github_handle: ''
 tags: graphic design
 date: '2025-03-31T15:06:47.636Z'
