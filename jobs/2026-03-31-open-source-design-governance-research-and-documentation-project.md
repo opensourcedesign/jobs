@@ -1,6 +1,6 @@
 ---
 _id: f7cb6fe0-2da3-11f1-acc7-33d7357a8db8
-status: searching
+status: closed
 date_posted: '2026-03-31'
 layout: jobs
 organization: Open Source Design – Governance and Organization project
