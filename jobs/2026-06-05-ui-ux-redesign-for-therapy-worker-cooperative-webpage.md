@@ -9,7 +9,17 @@ license: 'https://github.com/Common-Ground-Therapy/Branding#CC0-1.0-1-ov-file'
 title: UI/UX Redesign for Therapy Worker Cooperative webpage
 role: UI/UX Redesign
 compensation: gratis
-deliverables: "As a minimum, prior to properly launching the website when it is ready to be search engine indexed and promoted so we can recruit fellow therapists in order to incorporate the coop, we need immediate help completing the following:\r\n\r\n*      add profile cards with photos for each therapist and include same photo on the Therapists Profiles page\r\n\r\n*      enter more sidebar fields (e.g. each therapist's location) in the side categories of the therapist profile pages \r\n\r\n*      update the links which footer logos direct to as there are errors there currently\r\n\r\n*      add additional footer logos\r\n\r\n*      reorder the therapist cards to be sorted with the most recently edited appearing first (top left corner)\r\n\r\n*      reorder the Services Cards to be sorted with the most recently edited appearing first (top left corner)\r\n\r\n*      embedded field/link to the Newsletter / mailing list on GET IN TOUCH page\r\n\r\n*      newsletter sign-up also present in the global footer\r\n\r\n*      adding text to GET IN TOUCH page with links to therapist survey and mailing list\r\n\r\n*      adding link in About page  to News / posts page and mailing‑list signup page\r\n\r\n*      fix the faulty logo in global header to be visible on all devices/browsers\r\n\r\n*      edit the coop location in the global footer"
+deliverables: "We have found that our attempts to implement these changes either don't manifest themselves or they break the website and have to be reversed:
+Structurally enhance the Therapists page with a side bar with clickable Service categories (like a ‘tag’) in the side bar which filter out the therapists who don’t offer that service: see model here https://hackneytherapycentre.com/find-a-therapist-hackney-east-london/ ] - ‘...click in the side bar which type of therapy or support you are interested in and see which therapists offer that form or mode.’
+therapists profile pages / [_layouts/therapist.html] Move the profile pic centrally and make it less harsh - Make therapist photos on home page 33% smaller?
+other Therapist cards displayed in 50% smaller boxes at bottom of each individual therapist page
+Structurally enhance the Therapist Profile Pages whereby all other Therapist cards are displayed in small boxes at bottom of each individual therapist page for easy access–modelled on this: https://www.e8therapy.com/swaliha-bax ]
+Improve the header/logo experience [1] HOME / GLOBAL CONTENT - Blend the logo colour with the background
+redesign the HOME / GLOBAL CONTENT in top/header bar to be longer/bigger with left-side CGT logo (home page link) bigger; and with slightly smaller tagline text on home page.
+News list - Reverse‑chronological list of news posts. Each item shows title, date, short summary/excerpt and a “Read more” link to the full post. Make the news card bigger.
+Fix the broken Pages CMS relationship with the GitHub Repository
+manual auditing of website accessibility and governance (e.g. Mobile 2D scrolling problem - ‘WCAG 2.1 AA 1.4.10’)
+"
 how_to_apply:
   - commonground@therapy.coop
   - "https://www.therapy.coop/\r\nhttps://www.loomio.com/commongroundtherapy/"
