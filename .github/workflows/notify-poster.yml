@@ -1,0 +1,98 @@
+# Workflow: Notify Job Poster
+#
+# Purpose:
+#   When a job posting PR is merged into master, this workflow automatically
+#   posts a comment on that PR to notify the job poster that their listing
+#   is now live on the Open Source Design job board.
+#
+# Why a PR comment instead of an email?
+#   Job posters submit via a GitHub PR. Commenting on the PR is the most
+#   reliable, zero-configuration way to reach them — no email or SMTP setup
+#   needed, and the notification goes directly to wherever they track GitHub
+#   activity (email, web, or mobile app).
+#
+# Why trigger on pull_request closed + merged guard?
+#   GitHub does not have a dedicated "merged" event type. The closest event
+#   is pull_request with type "closed", which fires on both closes and merges.
+#   The `if: merged == true` guard ensures we only run on actual merges,
+#   not on PRs that were closed/rejected without merging.
+
+name: Notify Job Poster
+on:
+  pull_request:
+    types: [closed]
+    branches: [master]
+
+# Explicit permissions for the GITHUB_TOKEN.
+# Some orgs/repos set default token permissions to read-only, which would
+# cause gh pr comment to fail. We declare the minimum required permissions:
+# - contents:read to checkout the repo
+# - pull-requests:write to post a comment on the merged PR
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  notify:
+    # Only run when the PR was actually merged, not just closed/rejected.
+    # Note: the expression wrapper is required here — without it,
+    # GitHub Actions would treat the condition as a literal string (always truthy).
+    if: ${{ github.event.pull_request.merged == true }}
+    runs-on: ubuntu-latest
+    steps:
+      # fetch-depth: 2 is required so git can compare HEAD against HEAD~1.
+      # The default fetch-depth: 1 (shallow clone) only has the latest commit,
+      # which means `git diff HEAD~1 HEAD` would fail with "unknown revision".
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - run: |
+          # Step 1: Find the newly added job .md file in the merge commit.
+          # --diff-filter=A restricts to Added files only, avoiding matches on
+          # modified files like README.md or other non-job changes.
+          # We restrict to files under the jobs/ directory matching *.md.
+          # Using awk instead of grep avoids pipefail failures when no match is
+          # found (grep returns exit code 1 on no match, which fails the step
+          # under bash's default pipefail behavior in GitHub Actions).
+          FILE=$(git diff --name-only --diff-filter=A HEAD~1 HEAD | awk '/^jobs\/.*\.md$/{print; exit}')
+
+          if [ -n "$FILE" ]; then
+            # Step 2: Extract the submitter's GitHub handle from the job file's
+            # YAML frontmatter. We check for both 'github_handle' (used in
+            # submitted job files) and 'github' (the key in the job template),
+            # to be compatible with both naming conventions.
+            #
+            # The sed pattern handles all real-world frontmatter variations:
+            #   github_handle: username         (bare)
+            #   github_handle: '@username'      (single-quoted with @)
+            #   github_handle: "@username"      (double-quoted with @)
+            #   github_handle: 'username'       (single-quoted without @)
+            #   github_handle: ''               (empty — correctly ignored)
+            #
+            # It also rejects malformed values like full URLs or freeform text
+            # (e.g. "GitHub @sunny-chung" or "https://github.com/user") by only
+            # matching valid GitHub usernames (alphanumeric + hyphens, 1-39 chars).
+            HANDLE=$(sed -nE "s/^(github_handle|github):[[:space:]]*['\"]?@?([A-Za-z0-9][-A-Za-z0-9]{0,38})['\"]?[[:space:]]*$/\2/p" "$FILE" | head -n 1)
+
+            if [ -n "$HANDLE" ]; then
+              # Step 3: Post a comment on the merged PR mentioning the job poster.
+              # We use the GitHub CLI (gh), which is pre-installed on all
+              # ubuntu-latest runners by default (included since 2021 in the
+              # GitHub-hosted runner image — see: https://github.com/actions/runner-images).
+              # No separate install step is needed, which keeps the workflow fast.
+              #
+              # GH_TOKEN is set to the built-in GITHUB_TOKEN secret, which has
+              # write access to issues/PRs on this repo by default — no extra
+              # secret configuration is required.
+              #
+              # PR_NUMBER is passed via an env var rather than inlining GitHub
+              # Actions expressions directly into the shell command. Inlining
+              # expressions in run: blocks is a script injection risk — the env
+              # var pattern is the safe, idiomatic way.
+              gh pr comment "$PR_NUMBER" --body "Hi @${HANDLE}! 🎉 Your job has been approved and is now live on the [Open Source Design Job Board](https://opensourcedesign.net/jobs/)."
+            fi
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
