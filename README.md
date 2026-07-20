@@ -1,44 +1,35 @@
-# Jobs
+# Open Source Design Jobs (Archived)
 
-The goal here is to create a proper **"Job Board"** that pairs open-source contributors with projects that need designers.
-It will be a mix of _both gratis as well as paid work._
-A job can range from a small task to an entire project.
-I think the ideal balance would be a mix of about:
+> [!IMPORTANT]
+> This repository is now **archived** and kept for historical reference only.  
+> It is **no longer used** for new job submissions or moderation.
 
-- 25% small singular tasks
-- 15% new or fork of an existing project
-- 60% product/feature development on existing projects
+All active jobs workflow has moved to the main website repository:
 
-_Note: this process is rough and a work in progress, please feel free to contribute your ideas, approaches, and of course jobs :)_
+- Main repo: https://github.com/opensourcedesign/opensourcedesign.github.io
+- Jobs content path: https://github.com/opensourcedesign/opensourcedesign.github.io/tree/main/content/jobs
 
-## Submit a Job
+## Submit a Job (new process)
 
-Our job submission process is done **"in the open"** so if you work on an open-source software project or community, feel free to submit a job to our Job Board. Just do the following:
+### 1) Web form (recommended)
+Submit via the live form on Open Source Design:
 
-**Easy Web Form**
+- https://opensourcedesign.net/jobs/job-form/
 
-1. Go to [our form](https://opensourcedesign.net/jobs/job-form/) and fill in the details.
-2. Submit the form.
-3. Wait for us to approve your job posting.
-4. Have a margarita or a hot chocolate.
+### 2) Git-based submission
+If you prefer GitHub PRs, submit in the **main website repo** (not this repo):
 
-**Using Terminal (for nerds)**
+- https://github.com/opensourcedesign/opensourcedesign.github.io/tree/main/content/jobs
 
-1. Fork the `jobs` repo
-2. Copy `job-template.md` into the `jobs` folder and change the name
-3. Name your copy something like `2015-03-12-sticker-design-for-fun.md` starting with the date
-4. Make sure there is a `.md` extension to the file you copied or it won't work
-5. Fill out the fields inside the template you just copied
-   - Possibly try running `jekyll` to make sure your posting looks right.
-6. Submit a pull request
-7. Have a margarita or hot chocolate
+## Browse jobs
 
-After those steps you will have submitted a job to the OSD job board, you rule ;)
+- Open jobs: https://opensourcedesign.net/jobs/
+- Archived jobs: https://opensourcedesign.net/jobs/archive/
 
-## [View job listings](https://opensourcedesign.net/jobs/).
+## Why this repository was archived
 
-## Fields values
+Jobs are now managed together with the rest of the website content (jobs, events, resources) in a single repository, with current moderation and automation workflows.
 
-**Status**: Accepted values for job status are `searching` and `closed` and 'solved'.
+## Legacy note
 
-Note to job posters: Once your job has been completed/filled please go to [your job in this repos folder](https://github.com/opensourcedesign/jobs/tree/master/jobs) and change the status from 'searching' to either 'closed' or 'solved'. We'd also appreciate it if you could [complete our survey](https://cloud.opensourcedesign.net/apps/forms/DNTkJM32eWd9EQjn) to make jobs on open-source design better :) 
+Existing history in this repository is preserved for reference, but new issues/PRs here should be considered out of scope.
